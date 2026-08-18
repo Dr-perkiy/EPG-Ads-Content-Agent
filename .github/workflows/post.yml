@@ -55,9 +55,14 @@ jobs:
       - name: Ensure Chromium is installed for Puppeteer
         run: npx puppeteer browsers install chrome
 
-      # Bold display fonts so the rendered slides look right on the Linux runner.
-      - name: Install fonts
-        run: sudo apt-get update && sudo apt-get install -y fonts-liberation fonts-noto-core
+      # Nicer display fonts if available, but never let apt hang or fail the run.
+      # The runner already ships with usable fonts (DejaVu/Liberation), so this
+      # is best-effort only: hard-timeout each step and continue regardless.
+      - name: Install fonts (best effort)
+        continue-on-error: true
+        run: |
+          sudo timeout 90 apt-get update -qq || true
+          sudo DEBIAN_FRONTEND=noninteractive timeout 90 apt-get install -y -qq --no-install-recommends fonts-liberation fonts-dejavu-core || true
 
       # Phase 1: pick topic, generate copy, guardrail-check, render slides + PDF.
       - name: Build this week's content
