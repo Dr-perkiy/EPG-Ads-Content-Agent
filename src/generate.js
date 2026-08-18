@@ -87,6 +87,8 @@ export async function generateContent({ topic, brand, recentHooks, styleFeedback
     `- Never write "100% free" or "100% guaranteed". Just say "free" or state the guarantee plainly.`,
     `- Never put a specific number in front of businesses, clients, customers, years, or reviews (no "helped 200 businesses", no "10 years").`,
     `- Never use an em dash, en dash, or double hyphen. Use a comma, colon, or a new sentence.`,
+    `- Do not wrap whole sentences in quotation marks. Write them plainly. Quotation marks are only for a short specific term.`,
+    `- Never write a fake customer testimonial or quote a customer.`,
   ].join('\n');
 
   const user = [

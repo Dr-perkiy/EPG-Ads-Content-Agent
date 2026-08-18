@@ -55,6 +55,14 @@ trips((d) => (d.instagramCaption += ' This is a game-changer -- really.'), 'no-e
 trips((d) => (d.hashtags = ['#NotInPool']), 'hashtag-not-in-pool');
 trips((d) => (d.points = d.points.slice(0, 2)), 'wrong-point-count');
 
+console.log('\nTestimonial rule (praise + first person blocks; explanatory quote does not):');
+const fake = structuredClone(goodDraft);
+fake.instagramCaption += ' A client said "I love EPG, they helped me rank number one and I highly recommend them."';
+assert(checkContent(fake, brand).blocking.some((x) => x.rule === 'no-invented-testimonial'), 'blocks a real-looking testimonial');
+const explan = structuredClone(goodDraft);
+explan.context.paragraphs.push('"Google looks for plumbers near Valrico first, then sorts them by relevance and distance."');
+assert(!checkContent(explan, brand).blocking.some((x) => x.rule === 'no-invented-testimonial'), 'allows an explanatory quote');
+
 console.log('\nGuarantee language is ALLOWED (EPG core offer):');
 const g = structuredClone(goodDraft);
 g.instagramCaption += ' Top 3 on Google in 90 days or your money back.';

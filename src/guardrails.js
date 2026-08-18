@@ -89,8 +89,16 @@ export function checkContent(draft, brand) {
   if (pct) block('no-fake-percentage', `Contains a specific percentage ("${pct[0]}") that reads as an invented statistic. Use "nearly all" or "most".`);
 
   // --- Invented testimonials ----------------------------------------------
-  const quote = all.match(/["“][^"”]{30,}["”]/);
-  if (quote) block('no-invented-testimonial', `Contains a long quotation that reads as a testimonial: ${quote[0].slice(0, 60)}...`);
+  // Only flag a long quote if it actually reads like praise from a person
+  // (first-person voice + praise/gratitude). Explanatory quotes are fine.
+  const praise = /\b(amazing|awesome|best|great|excellent|fantastic|incredible|highly recommend|recommend|helped us|helped me|thank|thanks|grateful|love(d)?|professional|worth it|five[- ]star|5[- ]star|blew|exceeded)\b/i;
+  const firstPerson = /\b(I|I'm|I've|we|we're|we've|my|our|they helped|he|she)\b/;
+  for (const q of all.match(/["“][^"”]{25,}["”]/g) || []) {
+    if (praise.test(q) && firstPerson.test(q)) {
+      block('no-invented-testimonial', `Contains a quotation that reads as a customer testimonial: ${q.slice(0, 60)}...`);
+      break;
+    }
+  }
 
   // --- Contact details: only epgads.net, no phone, no email ---------------
   const allowedDomain = new URL(brand.business.website).hostname.replace(/^www\./, '');
