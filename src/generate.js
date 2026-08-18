@@ -2,7 +2,29 @@ import Anthropic from '@anthropic-ai/sdk';
 import { config } from './config.js';
 import { log } from './log.js';
 
-const client = new Anthropic({ apiKey: config.anthropicApiKey });
+// maxRetries handles the SDK's own automatic backoff; the wrapper below adds a
+// few more attempts for longer overload spikes (429/5xx/529 "Overloaded").
+const client = new Anthropic({ apiKey: config.anthropicApiKey, maxRetries: 5 });
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function createWithRetry(params, { attempts = 4, baseMs = 8000 } = {}) {
+  let lastErr;
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      return await client.messages.create(params);
+    } catch (err) {
+      const status = err?.status;
+      const retryable = status === 429 || status === 529 || (status >= 500 && status < 600);
+      lastErr = err;
+      if (!retryable || i === attempts) throw err;
+      const wait = baseMs * i; // 8s, 16s, 24s
+      log.warn(`Anthropic API ${status} (${err?.error?.error?.type || 'error'}); retry ${i}/${attempts - 1} in ${wait / 1000}s`);
+      await sleep(wait);
+    }
+  }
+  throw lastErr;
+}
 
 // Models often emit real line breaks inside string values (e.g. a multi-line
 // LinkedIn post), which is invalid JSON. Escape control chars that occur INSIDE
@@ -79,7 +101,7 @@ export async function generateContent({ topic, brand, recentHooks, styleFeedback
   ].join('\n');
 
   log.info(`Generating content with ${config.model} for topic "${topic.id}"`);
-  const res = await client.messages.create({
+  const res = await createWithRetry({
     model: config.model,
     max_tokens: 4000,
     system,
