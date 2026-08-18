@@ -1,0 +1,101 @@
+{
+  "business": {
+    "name": "EPG Ads",
+    "shortName": "EPG",
+    "what": "Local SEO agency that gets local businesses into Google's top 3",
+    "city": "Brandon",
+    "state": "FL",
+    "serviceArea": "Tampa, Brandon, Riverview, Valrico, Wesley Chapel, Plant City, Clearwater, St. Petersburg and the surrounding Tampa Bay area",
+    "phone": "",
+    "email": "",
+    "website": "https://epgads.net",
+    "instagramHandle": "",
+    "linkedinHandle": "",
+    "audience": "Local business owners in the Tampa Bay area who are not ranking in Google's top 3"
+  },
+
+  "offer": {
+    "primaryCTA": "Book a free Google audit at epgads.net",
+    "guarantee": "Top 3 on Google within 90 days or your money back",
+    "note": "Do NOT post specific prices ($1,499 / $497 a month) in social content. Drive to the free audit only."
+  },
+
+  "voice": {
+    "tone": "Confident local-SEO insider who teaches plainly. Gives real, usable advice for free. Never hypey, never salesy, never vague.",
+    "pointOfView": "First person (I) or direct second person (you)",
+    "rules": [
+      "Teach something real in every post. Give the actual answer, do not tease and withhold.",
+      "Lead with what the business owner gets or loses, not with EPG.",
+      "Short sentences. Concrete nouns. No filler adjectives like 'stunning', 'powerful', 'cutting-edge', 'game-changing'.",
+      "Never use em dashes or double hyphens. Use commas, colons, or split the sentence.",
+      "No ALL CAPS words. At most one exclamation mark per caption.",
+      "At most 3 emoji per caption. None is fine.",
+      "The guarantee (top 3 in 90 days or money back) and the free audit are the only offers to mention. Never invent client counts, revenue figures, or star ratings.",
+      "Do not quote fake statistics. Say 'nearly all' or 'most' instead of inventing a percentage."
+    ]
+  },
+
+  "approvedClaims": {
+    "freeAudit": true,
+    "top3Guarantee": true,
+    "moneyBackGuarantee": true,
+    "noContract": true,
+    "specificPricing": false,
+    "discountsOrPromos": false,
+    "financing": false,
+    "awardsOrRankings": false,
+    "yearsInBusiness": null,
+    "clientCount": null,
+    "namedCaseResults": null
+  },
+
+  "approvedClaimPhrasing": [
+    "Free Google audit, no pitch, no obligation",
+    "Top 3 on Google within 90 days or your money back",
+    "Month to month, cancel anytime",
+    "Book your free Google audit at epgads.net"
+  ],
+
+  "callsToAction": {
+    "instagram": [
+      "Free Google audit. Link in bio.",
+      "Want the full list for your business? Free audit at epgads.net.",
+      "DM me GOOGLE and I'll audit your profile for free.",
+      "Book your free Google audit at epgads.net"
+    ],
+    "linkedin": [
+      "Book a free Google audit at epgads.net",
+      "Want to know what is holding your ranking back? I offer a free Google audit at epgads.net.",
+      "Free Google Business Profile audit for Tampa Bay businesses at epgads.net"
+    ]
+  },
+
+  "hashtagPool": [
+    "#LocalSEO",
+    "#GoogleBusinessProfile",
+    "#TampaBusiness",
+    "#TampaSmallBusiness",
+    "#BrandonFL",
+    "#TampaBay",
+    "#SmallBusinessMarketing",
+    "#GoogleMaps",
+    "#LocalMarketing",
+    "#SEOTips",
+    "#GetFoundOnline",
+    "#MapPack",
+    "#FloridaBusiness",
+    "#SmallBizMarketing",
+    "#GoogleRanking",
+    "#DigitalMarketing",
+    "#TampaFlorida",
+    "#LocalBusiness"
+  ],
+
+  "colors": {
+    "bg": "#000000",
+    "blue": "#4f63f5",
+    "blueSoft": "#7d8bff",
+    "white": "#ffffff",
+    "muted": "#c9cdd6"
+  }
+}

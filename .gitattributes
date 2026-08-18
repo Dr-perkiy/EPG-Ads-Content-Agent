@@ -1,0 +1,3 @@
+# Rendered PNGs are binary; keep exact bytes for Instagram raw URLs.
+*.png binary
+*.pdf binary

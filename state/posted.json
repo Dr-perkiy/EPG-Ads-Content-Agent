@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "topicId": "three-free-fixes",
+      "hook": "3 free things every local business can fix on Google today",
+      "outcome": "blocked",
+      "postedAt": "2026-08-18T06:20:21.943Z",
+      "violations": [
+        "[block] no-fake-percentage: Contains a specific percentage (\"100%\") that reads as an invented statistic. Use \"nearly all\" or \"most\"."
+      ]
+    },
+    {
+      "topicId": "three-free-fixes",
+      "hook": "3 free things every local business can fix on Google today",
+      "outcome": "failed",
+      "postedAt": "2026-08-18T17:08:41.520Z",
+      "platforms": [],
+      "urls": [],
+      "errors": [
+        {
+          "platform": "facebook",
+          "error": "Meta Graph API 403: (#200) Permissions error (code 200)"
+        }
+      ]
+    },
+    {
+      "topicId": "three-free-fixes",
+      "hook": "3 free things every local business can fix on Google today",
+      "outcome": "published",
+      "postedAt": "2026-08-18T17:22:25.370Z",
+      "platforms": [
+        "facebook"
+      ],
+      "urls": [
+        "https://facebook.com/1321161914409792_122096560221449137"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "_comment": "The weekly topic bank. The agent picks the least-recently-used topic each run (see src/state.js). Each topic is a brief that guides generation into the fixed carousel template: a cover, a context slide, exactly 3 teaching points, a recap, and a free-audit CTA. Edit freely, add more topics, or set \"paused\": true to skip one.",
+  "topics": [
+    {
+      "id": "three-free-fixes",
+      "hook": "3 free things every local business can fix on Google today",
+      "angle": "Give away 3 real, do-it-today Google Business Profile fixes. Reciprocity: give the actual answers, do not withhold.",
+      "targetKeyword": "how to rank higher on Google Maps",
+      "points": [
+        "Set the RIGHT primary category (most owners pick one too generic).",
+        "Fill out every single field on the profile (Google ranks complete profiles higher).",
+        "Post to your profile every week (active profiles get shown more)."
+      ],
+      "paused": false
+    },
+    {
+      "id": "worse-reviews-outrank",
+      "hook": "Why the competitor with worse reviews outranks you",
+      "angle": "Counterintuitive myth-buster: it is not star count. Proximity, primary category, and profile completeness drive the map pack.",
+      "targetKeyword": "why do competitors rank higher on Google",
+      "points": [
+        "Proximity to the searcher matters more than review count.",
+        "The right primary category beats a higher star rating.",
+        "A complete, active profile outranks a neglected one with more stars."
+      ],
+      "paused": false
+    },
+    {
+      "id": "map-pack-explained",
+      "hook": "What the map pack is and why it is the only spot that matters for local",
+      "angle": "Pure education: define the local 3-pack, explain why being #7 in regular results is invisible on mobile.",
+      "targetKeyword": "what is the Google map pack",
+      "points": [
+        "The map pack is the block of 3 businesses shown on the map.",
+        "Nearly all local clicks and calls go to those 3.",
+        "Ranking #7 in regular results is invisible to most mobile searchers."
+      ],
+      "paused": false
+    },
+    {
+      "id": "paid-for-seo-failed",
+      "hook": "I paid for SEO and it did not work. Here is what your last guy probably skipped",
+      "angle": "Objection handling with empathy. Most agencies chase backlinks and ignore the Google Business Profile, which is most of local ranking.",
+      "targetKeyword": "why did my SEO not work",
+      "points": [
+        "Many agencies build backlinks and ignore your Google Business Profile.",
+        "For local, the profile and reviews drive most of the ranking.",
+        "Ask your provider what your primary category is. If they do not know, that is the problem."
+      ],
+      "paused": false
+    },
+    {
+      "id": "one-setting-kills-ranking",
+      "hook": "The one Google Business Profile setting that quietly kills your ranking",
+      "angle": "High-curiosity single-point idea reframed as 3 checks. Deliver the real answer (wrong primary category / unverified / suspended).",
+      "targetKeyword": "Google Business Profile ranking mistakes",
+      "points": [
+        "A primary category that is too broad or simply wrong.",
+        "An unverified profile Google does not fully trust yet.",
+        "A profile flagged or suspended for guideline issues you never saw."
+      ],
+      "paused": false
+    },
+    {
+      "id": "audit-your-seo-company",
+      "hook": "How to tell if your SEO company is actually doing anything",
+      "angle": "Position as the honest insider. Give 3 questions that a real provider answers instantly and a bad one cannot.",
+      "targetKeyword": "how to know if SEO is working",
+      "points": [
+        "Ask: what is my primary Google Business Profile category?",
+        "Ask: how many local citations did you build or fix this month?",
+        "Ask: show me my current map-pack ranking for my main keyword."
+      ],
+      "paused": false
+    },
+    {
+      "id": "page-1-in-7-days-red-flag",
+      "hook": "Why page 1 in 7 days is a red flag, not a promise",
+      "angle": "Trust builder. Real local ranking takes 60 to 90 days. Instant promises mean risky tactics that get profiles suspended.",
+      "targetKeyword": "how long does local SEO take",
+      "points": [
+        "Real local ranking movement takes about 60 to 90 days.",
+        "Anyone promising page 1 in days is using tactics that risk a suspension.",
+        "Sustainable ranking comes from the profile, reviews, and citations over time."
+      ],
+      "paused": false
+    },
+    {
+      "id": "profile-before-website",
+      "hook": "Rank your Google profile before you spend a dollar on a website",
+      "angle": "Contrarian sequencing. A ranked profile with calls beats a beautiful site nobody finds. (Keep it about sequence, not anti-website.)",
+      "targetKeyword": "Google Business Profile vs website for local",
+      "points": [
+        "A ranked Google profile brings calls even before a new website.",
+        "A website only converts the traffic you can already get found for.",
+        "Get the profile into the map pack first, then invest in the site."
+      ],
+      "paused": false
+    },
+    {
+      "id": "reviews-that-rank",
+      "hook": "The right way to ask for reviews so they actually help your ranking",
+      "angle": "Actionable how-to. Recent, keyword-mentioning, responded-to reviews help more than a big old pile.",
+      "targetKeyword": "how to get Google reviews that help ranking",
+      "points": [
+        "Recency matters: a steady trickle beats one old burst.",
+        "Reviews that mention your service and city add ranking context.",
+        "Reply to every review. Google reads the engagement."
+      ],
+      "paused": false
+    },
+    {
+      "id": "citations-explained",
+      "hook": "The free ranking factor most local businesses have never heard of: citations",
+      "angle": "Education plus a task. Consistent name, address, phone across directories builds trust with Google.",
+      "targetKeyword": "what are local citations for SEO",
+      "points": [
+        "Citations are mentions of your name, address, and phone across the web.",
+        "Google trusts a business whose details match everywhere.",
+        "One wrong old phone number on a directory can quietly hurt you."
+      ],
+      "paused": false
+    }
+  ]
+}

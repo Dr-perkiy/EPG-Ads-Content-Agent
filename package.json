@@ -1,0 +1,21 @@
+{
+  "name": "epg-ads-content-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weekly local-SEO content agent for EPG Ads: generates a carousel + captions + article and auto-posts to Instagram and LinkedIn",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node scripts/check-setup.js",
+    "test": "node scripts/test-guardrails.js",
+    "linkedin-token": "node scripts/get-linkedin-token.js",
+    "preview": "node src/index.js --dry-run",
+    "post": "node src/index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0",
+    "puppeteer": "^24.10.0"
+  }
+}

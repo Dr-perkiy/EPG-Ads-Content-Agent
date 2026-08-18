@@ -1,0 +1,104 @@
+name: Weekly EPG content
+
+on:
+  schedule:
+    # 13:00 UTC = 9am Eastern during daylight saving (10am UTC shift in winter).
+    # GitHub cron is always UTC, so the local hour moves by one across DST.
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Generate and render but publish nothing (uploads slides as an artifact to review)'
+        type: boolean
+        default: true
+      platforms:
+        description: 'Where to publish'
+        type: choice
+        options: ['instagram,facebook', 'instagram', 'facebook', 'instagram,facebook,linkedin', 'linkedin']
+        default: 'instagram,facebook'
+
+concurrency:
+  group: epg-content-post
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # Manual runs default to a dry run; the weekly schedule publishes for real.
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+      PLATFORMS: ${{ github.event_name == 'workflow_dispatch' && inputs.platforms || 'instagram,facebook' }}
+      AGENT_ENABLED: ${{ vars.AGENT_ENABLED || 'true' }}
+      IMAGE_BASE_URL: ${{ vars.IMAGE_BASE_URL }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+      META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+      META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+      LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+      LINKEDIN_AUTHOR_URN: ${{ secrets.LINKEDIN_AUTHOR_URN }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Ensure Chromium is installed for Puppeteer
+        run: npx puppeteer browsers install chrome
+
+      # Bold display fonts so the rendered slides look right on the Linux runner.
+      - name: Install fonts
+        run: sudo apt-get update && sudo apt-get install -y fonts-liberation fonts-noto-core
+
+      # Phase 1: pick topic, generate copy, guardrail-check, render slides + PDF.
+      - name: Build this week's content
+        run: node src/build.js
+
+      # Instagram fetches each image from a public raw URL, so the rendered
+      # slides must be committed first and the post pinned to that commit.
+      - name: Commit rendered slides
+        id: commit
+        run: |
+          git config user.name  "epg-content-agent"
+          git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain output/ state/)" ]; then
+            git add output/ state/
+            git commit -m "chore: staged weekly content [skip ci]"
+            git push
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Upload slides for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: carousel-${{ github.run_id }}
+          path: output/
+          if-no-files-found: warn
+
+      # Phase 2: publish the staged carousel. Skipped on dry runs.
+      - name: Publish
+        if: env.DRY_RUN == 'false'
+        env:
+          IMAGE_SHA: ${{ steps.commit.outputs.sha }}
+        run: node src/publish.js
+
+      - name: Record the run
+        if: always()
+        run: |
+          git config user.name  "epg-content-agent"
+          git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain state/)" ]; then
+            git add state/
+            git commit -m "chore: record run [skip ci]"
+            git pull --rebase --autostash || true
+            git push
+          fi
