@@ -43,6 +43,20 @@
       "violations": [
         "[block] no-invented-testimonial: Contains a long quotation that reads as a testimonial: \" Google looks for plumbers near Valrico first, then sorts t..."
       ]
+    },
+    {
+      "topicId": "worse-reviews-outrank",
+      "hook": "Why the competitor with worse reviews outranks you",
+      "outcome": "published",
+      "postedAt": "2026-08-18T18:21:47.370Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DcMPoQUE1oV/",
+        "https://facebook.com/1321161914409792_122096592975449137"
+      ]
     }
   ]
 }
