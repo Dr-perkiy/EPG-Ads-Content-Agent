@@ -1,71 +1,70 @@
 {
   "cover": {
     "eyebrow": "Map pack myths",
-    "headline": "The shop with *worse reviews* is beating you",
-    "subhead": "Star count is not what decides the top 3, and here is what actually does."
+    "headline": "Why the shop with *worse reviews* beats you",
+    "subhead": "Google's local ranking is not a *popularity contest*, and star count is only one input."
   },
   "context": {
-    "eyebrow": "Why this stings",
-    "headline": "You earned the reviews. They got the *calls*.",
+    "eyebrow": "The stakes",
+    "headline": "You are losing calls to a *weaker* business",
     "paragraphs": [
-      "You have more reviews and a better average, yet the business down the road shows up first when someone searches on their phone.",
-      "The good news: the three things Google is actually weighing are all inside your control, and you can fix them this week without spending a dollar."
+      "You have more reviews, better reviews, and a nicer website, yet the competitor down the road sits in the top 3 and takes the calls you should be getting.",
+      "The good news: the three things actually holding you back are all inside your Google Business Profile, and you can fix them today without spending a dollar."
     ]
   },
   "points": [
     {
-      "label": "Distance beats stars",
-      "title": "Proximity is the *heavyweight*",
-      "body": "Google shows results near the person searching, not the business with the highest rating. Someone in Riverview searching for your service will see Riverview businesses first, even if your Brandon location has twice the reviews. Your service area and your address do a lot of the ranking work.",
-      "action": "Search your main keyword from three spots in your service area and note who shows up in each."
+      "label": "Distance beats star count",
+      "title": "Fix your *service area*",
+      "body": "Google shows results near the person searching. Someone standing in Riverview usually sees Riverview businesses first, even with fewer reviews. Your stars cannot overcome a competitor who is five miles closer to the searcher.",
+      "action": "Open your profile, confirm your pin drops on your exact front door, then list the cities you actually serve in your service area settings."
     },
     {
-      "label": "One category rules",
-      "title": "Your primary category *decides* everything",
-      "body": "Google matches searches to your primary category before it looks at your rating. If you are a roofer with the primary category set to general contractor, you lose roofing searches to a lower rated roofer every time. Secondary categories help, but the primary one carries the weight.",
-      "action": "Open your Google Business Profile and set the primary category to the exact service you want to be found for."
+      "label": "Category over rating",
+      "title": "Pick the *right* primary category",
+      "body": "Your primary category tells Google which searches you belong in. A roofer filed under general contractor loses roof searches to a lower rated roofer with the correct category. This one setting outweighs a half star difference.",
+      "action": "Set your primary category to the exact service you want to rank for, then add your other services as secondary categories."
     },
     {
-      "label": "Active over neglected",
-      "title": "A *complete* profile wins",
-      "body": "Google favors profiles it can trust: filled out hours, services with descriptions, real photos, questions answered, holiday hours updated. A neglected profile with more stars looks stale next to one that gets touched every week. Activity is a signal, not decoration.",
-      "action": "Add five recent photos and list every service you offer with a short description today."
+      "label": "Active beats neglected",
+      "title": "Fill every *empty* field",
+      "body": "Google favors profiles it can trust and verify. Hours, services with descriptions, attributes, products, photos, and answered questions all count as signals. A complete, recently updated profile outranks a five star profile nobody has touched in a year.",
+      "action": "Add your full service list with descriptions and upload five recent photos of real jobs this week."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "That's 3. There are usually *8-10*.",
-    "body": "These three fixes move most local businesses up. The rest of the gap is usually hiding in the parts of your online presence you cannot see from the profile itself.",
+    "body": "These three explain most cases where a lower rated competitor wins. Ranking in the top 3 and staying there usually takes a few more moves.",
     "done": [
-      "Proximity checked",
-      "Primary category set",
-      "Profile completed"
+      "Location and service area",
+      "Primary category",
+      "Profile completeness"
     ],
     "locked": "Reviews - citations - on-page SEO - +more"
   },
   "cta": {
-    "eyebrow": "No strings",
-    "headline": "Get a *free* Google audit",
-    "body": "I will look at your profile and tell you exactly why the other business is ranking above you. If we work together, you are in the top 3 within 90 days or you get your money back.",
+    "eyebrow": "Free audit",
+    "headline": "See exactly why they outrank you, *free*",
+    "body": "I will look at your profile next to the businesses beating you in the map pack and tell you what is different. No obligation, and you keep the notes either way.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "The competitor with worse reviews is outranking you, and it is not because Google is broken.\n\nHere is what actually drives the map pack:\n\n1. Proximity. Google shows businesses near the person searching. A Riverview searcher sees Riverview businesses first, no matter how many reviews you have in Brandon.\n\n2. Primary category. Google matches the search to your primary category before it looks at your stars. A roofer listed as general contractor loses roofing searches to a lower rated roofer.\n\n3. Completeness. Filled out hours, services with descriptions, fresh photos, answered questions. An active profile beats a neglected one with more stars.\n\nFix those three and you close most of the gap. Want to know what else is holding you back? I will run a free Google audit and tell you plainly.\n\nSave this and send it to the business owner who keeps blaming their reviews. 📍",
-  "linkedinPost": "Reviews are not the reason your competitor is above you in the map pack.\n\nThree things carry more weight:\n\nProximity. Google serves results close to the searcher. Someone in Wesley Chapel sees Wesley Chapel businesses first.\n\nPrimary category. Google matches the search to your primary category before it weighs your rating. The wrong category costs you the searches you want most.\n\nProfile completeness. Hours, services, photos, answered questions. An active profile outranks a neglected one with a better star average.\n\nAll three are free to fix and sit inside your Google Business Profile.\n\nIf you want to know what else is holding your ranking back, I will run a free Google audit: https://epgads.net",
+  "instagramCaption": "That competitor with worse reviews is outranking you for three reasons, and none of them are stars.\n\n1. Proximity. Google shows businesses near the searcher. If they are closer to the person typing, they win that search no matter how good your reviews are. Set your pin on your front door and list the cities you actually serve.\n\n2. Primary category. This tells Google which searches you belong in. A roofer filed as general contractor loses roof searches to a lower rated roofer with the right category. Change it to the exact service you want calls for.\n\n3. Completeness. Hours, services with descriptions, attributes, photos, answered questions. A full, active profile beats a neglected one with more stars every time.\n\nWant to know which one is costing you calls in Tampa, Brandon, or Riverview? Book a free Google audit at epgads.net and I will compare your profile to the ones ranking above you.\n\nSave this and send it to the business owner who keeps buying reviews.",
+  "linkedinPost": "The business with worse reviews is beating you in the map pack. Here is why.\n\nProximity. Google ranks by distance from the searcher. A closer competitor wins that search regardless of star count.\n\nPrimary category. This decides which searches you show up in. The wrong category loses to a lower rated business with the right one.\n\nCompleteness. Hours, services, attributes, photos, and answered questions all signal an active business. A neglected five star profile loses to a fully built one.\n\nFix those three and most review gaps stop mattering.\n\nWant a look at yours? I offer a free Google audit for Tampa Bay businesses at epgads.net, and if you hire us, top 3 on Google within 90 days or your money back.",
   "article": {
-    "title": "Why Do Competitors Rank Higher on Google in Tampa and Brandon When Their Reviews Are Worse?",
-    "body": "You have more reviews. Your average is higher. Your work is better. And yet the business two miles away shows up in Google's top 3 while you sit on page one, position seven, or nowhere at all.\n\nThis is the most common question I get from Tampa Bay business owners, and the answer surprises almost everyone: the map pack is not a review contest. Star count is one signal among many, and it is not the strongest one.\n\nHere are the three factors that usually explain the gap.\n\n1. Proximity to the searcher outweighs review count\n\nWhen someone pulls out their phone in Riverview and searches for your service, Google looks at where that person is standing. It then serves businesses near them. That is the single biggest lever in local search, and you cannot review your way around it.\n\nThis is why the same search gives different results in Brandon, Valrico, and Plant City. There is no one ranking. There are hundreds of them, one for every location a search happens from.\n\nWhat to do about it: stop checking your ranking from your own office. Search your main keyword from three or four different spots across your service area and write down who appears in each one. You will probably find you rank well close to home and disappear a few miles out. That tells you where your real gap is, and it tells you which neighborhoods need content, service pages, and local signals built around them.\n\n2. The right primary category beats a higher star rating\n\nYour Google Business Profile lets you pick one primary category and several secondary ones. Google leans heavily on the primary category when it decides which searches you are eligible for.\n\nI see this constantly. A roofer whose primary category is set to general contractor. A med spa listed as beauty salon. A commercial cleaner listed as janitorial service when everyone searches for office cleaning. In every case, a competitor with fewer reviews and a lower average takes the top spot because their primary category matches the search exactly.\n\nWhat to do about it: open your profile, go to the business information section, and set the primary category to the exact service that brings in your best work. Add secondary categories for everything else you do, but do not stuff them. Then check the competitors ranking above you. Google shows their category publicly. If theirs is different from yours, that is likely your answer.\n\n3. A complete, active profile outranks a neglected one with more stars\n\nGoogle wants to send searchers to businesses that are clearly open, clearly active, and clearly what they claim to be. A profile with blank hours, three stock photos, no service list, and unanswered questions does not look like that, even with a great rating attached.\n\nCompleteness includes hours and holiday hours, a service list where every service has its own short description, real photos of your team and your work, answered questions in the Q and A section, service areas, attributes, and a description that reads like a human wrote it.\n\nActivity matters too. Profiles that get updated regularly with fresh photos, new posts, and replies to reviews tend to hold better positions than profiles nobody has touched in a year.\n\nWhat to do about it: block thirty minutes today. Upload five recent photos taken on your phone. Write out every service with a two sentence description. Fill any blank field you find. Then set a reminder to do something small to your profile every week.\n\nShort FAQ\n\nDo reviews matter at all?\nYes. They influence ranking and they heavily influence whether someone calls you once they see you. But they will not lift you past a closer competitor whose category and profile are dialed in.\n\nHow long does this take to work?\nCategory changes can shift things within days. Proximity and completeness work usually show up over several weeks as Google recrawls and retests your profile.\n\nCan I rank outside my city?\nYou can rank in nearby areas, but it takes location relevant pages, consistent listings, and time. It is harder than ranking where your address is, and anyone who promises instant coverage across all of Tampa Bay is guessing.\n\nWhat if I fixed all three and nothing changed?\nThen the problem is somewhere you cannot see from the profile. Usually it is inconsistent business listings across the web, a slow or thin website, missing local content, or a duplicate profile competing with your real one.\n\nThe next step\n\nThose three fixes close most of the gap for most businesses. If you have handled them and you are still watching a lower rated competitor take your calls, something else is in the way.\n\nI will run a free Google audit and tell you exactly what it is, in plain language, with no obligation. And if we work together, you are in the top 3 within 90 days or you get your money back.\n\nStart here: https://epgads.net"
+    "title": "Why Do Competitors Rank Higher on Google? The Real Answer for Tampa and Brandon Businesses",
+    "body": "Why do competitors rank higher on Google when their reviews are worse than yours? It is the question I hear most from business owners in Tampa, Brandon, and Riverview. You have better ratings, more reviews, and a cleaner website. They have a handful of average reviews and a profile that looks half finished. Yet they sit in the top 3 of the map pack and you sit on page two.\n\nStar rating is a ranking factor, but it is a weak one. Three other things carry far more weight, and all three are inside your control.\n\nProximity beats review count\n\nGoogle's local results are built around where the searcher is standing. When someone in Valrico types plumber near me, Google draws a circle around that phone and shows the most relevant businesses inside it. A plumber two miles away with a 4.2 rating will usually beat a plumber nine miles away with a 4.9.\n\nThis is why your rankings change as you drive across town. You may be top 3 in your own zip code and invisible five miles east. That is normal, and it is not a sign anything is broken.\n\nWhat you can do about it: make sure your map pin sits exactly on your front door, not on the middle of your street or your neighbor's parking lot. Then set your service areas to the cities you truly serve. Do not list all of Tampa Bay if you only cover Brandon and Riverview. Overreaching dilutes your relevance instead of expanding it. If you want to rank in a city where you have no presence, you need pages on your site about that city and real signals from there, not a wider service radius.\n\nThe right primary category beats a higher star rating\n\nYour primary category is the single most important setting on your Google Business Profile. It tells Google which searches you are eligible to appear in at all.\n\nI see this constantly. A roofing company sets its primary category to general contractor because it also does siding and gutters. Now it competes in general contractor searches and gets buried in roofing searches by a lower rated business that chose roofing contractor. The stars never get a chance to matter, because the category filter already removed you.\n\nWhat you can do about it: pick the one category that matches the service you most want the phone to ring for. Then add secondary categories for the rest. Look at the businesses in the top 3 for your main keyword and check which categories they use. If every one of them uses a category you do not have, that is your answer.\n\nA complete, active profile outranks a neglected one\n\nGoogle prefers businesses it can verify and describe. Every field you fill in gives it more to work with, and every recent update tells it you are still open and operating.\n\nMost profiles I audit are half empty. No service list. No descriptions under the services. No attributes. Photos from three years ago. Questions in the Q and A section that nobody answered. Meanwhile the competitor with worse reviews has hours, holiday hours, twenty services with descriptions, fresh job photos, and posts from last week.\n\nThat competitor looks like an active business. Yours looks like it might have closed. Google makes the same judgment a customer would.\n\nWhat you can do about it: add every service you offer with a short description for each. Fill in attributes like wheelchair accessible, free estimates, or veteran owned when they apply. Upload photos of real work, not stock images. Answer the questions in the Q and A section yourself. Post at least monthly.\n\nShort FAQ\n\nDo reviews matter at all? Yes. Reviews influence rankings and they influence whether someone clicks you once you rank. But reviews alone will not lift you past a closer competitor with a better category setup.\n\nHow long does this take to show up? Category and completeness changes often move things within a few weeks. Nothing in local SEO is instant.\n\nShould I buy reviews to catch up? No. It puts your profile at risk of suspension, and it does not fix the reason you are losing.\n\nCan I rank in a city I am not located in? Sometimes, with real content and real signals tied to that city. Not by changing a setting.\n\nWhat to do next\n\nThose three fixes explain most cases where a lower rated competitor outranks you. Ranking in the top 3 and holding the spot usually takes a few more moves: review velocity, citation consistency, and on-page work tied to each city you serve.\n\nIf you want to know exactly which piece is costing you calls, I offer a free Google audit for Tampa Bay businesses at epgads.net. I compare your profile side by side with the businesses ranking above you and show you the differences. And if you decide to work with us: top 3 on Google within 90 days or your money back."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
     "#MapPack",
-    "#TampaSmallBusiness",
+    "#TampaBusiness",
     "#BrandonFL",
-    "#GoogleMaps",
+    "#GoogleRanking",
     "#GetFoundOnline",
-    "#SEOTips",
-    "#TampaBay"
+    "#TampaSmallBusiness"
   ],
   "topicId": "worse-reviews-outrank",
   "hook": "Why the competitor with worse reviews outranks you"
