@@ -34,6 +34,15 @@
       "urls": [
         "https://facebook.com/1321161914409792_122096560221449137"
       ]
+    },
+    {
+      "topicId": "worse-reviews-outrank",
+      "hook": "Why the competitor with worse reviews outranks you",
+      "outcome": "blocked",
+      "postedAt": "2026-08-18T18:03:36.437Z",
+      "violations": [
+        "[block] no-invented-testimonial: Contains a long quotation that reads as a testimonial: \" Google looks for plumbers near Valrico first, then sorts t..."
+      ]
     }
   ]
 }
