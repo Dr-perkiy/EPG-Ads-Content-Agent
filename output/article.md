@@ -1,71 +1,47 @@
-# How to Rank Higher on Google Maps: 3 Free Fixes for Tampa and Brandon Businesses
+# Why Do Competitors Rank Higher on Google? The Real Answer for Tampa and Brandon Businesses
 
-If you own a business in Tampa, Brandon, or Riverview, your Google Business Profile is doing more for your revenue than your website is. When someone searches for a plumber, a dentist, or a bakery near them, Google shows a map and three listings. The businesses in those three spots get the calls. Everyone else gets scrolled past.
+Why do competitors rank higher on Google when their reviews are worse than yours? It is the question I hear most from business owners in Tampa, Brandon, and Riverview. You have better ratings, more reviews, and a cleaner website. They have a handful of average reviews and a profile that looks half finished. Yet they sit in the top 3 of the map pack and you sit on page two.
 
-The encouraging part is that three of the strongest ranking factors on Google Maps cost nothing. You do not need a developer, an ad budget, or permission from anyone. You need your login and about fifteen minutes.
+Star rating is a ranking factor, but it is a weak one. Three other things carry far more weight, and all three are inside your control.
 
-Here are the three fixes, in order of impact.
+Proximity beats review count
 
-Fix 1: Set the right primary category
+Google's local results are built around where the searcher is standing. When someone in Valrico types plumber near me, Google draws a circle around that phone and shows the most relevant businesses inside it. A plumber two miles away with a 4.2 rating will usually beat a plumber nine miles away with a 4.9.
 
-This is the single field most owners get wrong, and it is the one Google leans on hardest.
+This is why your rankings change as you drive across town. You may be top 3 in your own zip code and invisible five miles east. That is normal, and it is not a sign anything is broken.
 
-Your primary category tells Google which searches you are eligible for. Choose something broad and you compete with everyone. Choose something specific and you compete with the handful of businesses that actually do what you do.
+What you can do about it: make sure your map pin sits exactly on your front door, not on the middle of your street or your neighbor's parking lot. Then set your service areas to the cities you truly serve. Do not list all of Tampa Bay if you only cover Brandon and Riverview. Overreaching dilutes your relevance instead of expanding it. If you want to rank in a city where you have no presence, you need pages on your site about that city and real signals from there, not a wider service radius.
 
-I see profiles set to Contractor when the owner only does roofs. I see Store when the business is a bike shop. I see Restaurant when the kitchen is Cuban. In every case, the business is invisible for the search that would have brought the best customer.
+The right primary category beats a higher star rating
 
-Open your profile, click Edit profile, then Business category. Set your primary category to the exact thing you want the phone to ring for. Then add secondary categories for the other services you offer, but keep the primary tight. One primary, chosen with intent.
+Your primary category is the single most important setting on your Google Business Profile. It tells Google which searches you are eligible to appear in at all.
 
-If you are not sure which category to pick, search the term you want to rank for and look at the businesses already in the top three. Their categories are visible in their listings. Google has already told you what it expects.
+I see this constantly. A roofing company sets its primary category to general contractor because it also does siding and gutters. Now it competes in general contractor searches and gets buried in roofing searches by a lower rated business that chose roofing contractor. The stars never get a chance to matter, because the category filter already removed you.
 
-Fix 2: Fill out every single field
+What you can do about it: pick the one category that matches the service you most want the phone to ring for. Then add secondary categories for the rest. Look at the businesses in the top 3 for your main keyword and check which categories they use. If every one of them uses a category you do not have, that is your answer.
 
-Google prefers complete profiles. A listing that answers every question a searcher might have is more useful than one with blanks, and Google shows the more useful listing more often.
+A complete, active profile outranks a neglected one
 
-Most profiles I look at are about half done. The name, address, and phone are there. Everything else is empty.
+Google prefers businesses it can verify and describe. Every field you fill in gives it more to work with, and every recent update tells it you are still open and operating.
 
-Here is the list to work through:
+Most profiles I audit are half empty. No service list. No descriptions under the services. No attributes. Photos from three years ago. Questions in the Q and A section that nobody answered. Meanwhile the competitor with worse reviews has hours, holiday hours, twenty services with descriptions, fresh job photos, and posts from last week.
 
-Hours, including holiday hours. Service areas if you travel to customers. Every service you offer, each with its own written description. Products, if they apply. Attributes like wheelchair accessible, women owned, free parking, or online estimates. Your opening date. A booking or appointment link. A business description that reads like a person wrote it. Photos of your team, your work, your storefront, and your interior.
+That competitor looks like an active business. Yours looks like it might have closed. Google makes the same judgment a customer would.
 
-Do not rush the services section. Each service you add is another phrase Google can associate with your business. A roofer who lists roof repair, shingle replacement, storm damage inspection, and gutter installation gives Google four reasons to show up instead of one.
+What you can do about it: add every service you offer with a short description for each. Fill in attributes like wheelchair accessible, free estimates, or veteran owned when they apply. Upload photos of real work, not stock images. Answer the questions in the Q and A section yourself. Post at least monthly.
 
-You do not have to finish it all today. Fill three empty fields now and three more tomorrow.
+Short FAQ
 
-Fix 3: Post to your profile every week
+Do reviews matter at all? Yes. Reviews influence rankings and they influence whether someone clicks you once you rank. But reviews alone will not lift you past a closer competitor with a better category setup.
 
-Google rewards profiles that look alive. A profile that has not been touched in months signals a business that may not be operating.
+How long does this take to show up? Category and completeness changes often move things within a few weeks. Nothing in local SEO is instant.
 
-Posting is simple. One photo, a few sentences, and a link or button. Talk about a job you just finished in Valrico. Explain a service most customers do not know you offer. Share a seasonal reminder, like checking your air conditioner before June in Tampa.
+Should I buy reviews to catch up? No. It puts your profile at risk of suspension, and it does not fix the reason you are losing.
 
-Weekly is the rhythm to aim for. Set a repeating reminder on the same day each week and treat it like any other operating task. Ten minutes, once a week, and your profile stays current while your competitor's sits still.
+Can I rank in a city I am not located in? Sometimes, with real content and real signals tied to that city. Not by changing a setting.
 
-A short FAQ
+What to do next
 
-How long before I see movement in the map pack?
+Those three fixes explain most cases where a lower rated competitor outranks you. Ranking in the top 3 and holding the spot usually takes a few more moves: review velocity, citation consistency, and on-page work tied to each city you serve.
 
-Category changes can shift things within days. Completeness and posting build slowly and compound over weeks.
-
-Does changing my primary category risk my current ranking?
-
-If your current category is wrong, you are not ranking for the right searches anyway. Choosing the accurate one is the correction, not the risk.
-
-Do posts need to be long?
-
-No. Two or three useful sentences and a clear photo do the job.
-
-Is my physical address required to rank locally?
-
-Proximity to the searcher matters, so your address and service area both influence what shows. Keep both accurate.
-
-What this does not cover
-
-These three fixes are real and they move rankings. They are also three items on a list that usually runs eight to ten deep. Review volume and recency, how you respond to reviews, name and address consistency across directories, the way your website pages are written and structured, and how well your site loads on a phone all factor in.
-
-If your competitor already handles the free three, the rest of the list is what decides who lands in the top spots.
-
-Get the rest of your list
-
-I will review your profile and your local search presence, then tell you plainly what is holding you back. It is free and there is no obligation. Book your free Google audit at epgads.net.
-
-And if we work together, the promise is simple: top 3 on Google within 90 days or your money back.
+If you want to know exactly which piece is costing you calls, I offer a free Google audit for Tampa Bay businesses at epgads.net. I compare your profile side by side with the businesses ranking above you and show you the differences. And if you decide to work with us: top 3 on Google within 90 days or your money back.
