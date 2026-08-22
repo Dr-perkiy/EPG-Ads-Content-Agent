@@ -1,5 +1,5 @@
 {
-  "_comment": "The weekly topic bank. The agent picks the least-recently-used topic each run (see src/state.js). Each topic is a brief that guides generation into the fixed carousel template: a cover, a context slide, exactly 3 teaching points, a recap, and a free-audit CTA. Edit freely, add more topics, or set \"paused\": true to skip one.",
+  "_comment": "The topic bank. The agent picks the least-recently-used topic each run (see src/state.js). Each topic is a brief that guides generation into the fixed carousel template: a cover, a context slide, exactly 3 teaching points, a recap, and a free-audit CTA. Edit freely, add more topics, or set \"paused\": true to skip one.",
   "topics": [
     {
       "id": "three-free-fixes",
@@ -118,6 +118,366 @@
         "Citations are mentions of your name, address, and phone across the web.",
         "Google trusts a business whose details match everywhere.",
         "One wrong old phone number on a directory can quietly hurt you."
+      ],
+      "paused": false
+    },
+    {
+      "id": "reply-to-reviews",
+      "hook": "Replying to reviews is a ranking factor most owners skip",
+      "angle": "Actionable habit. Google reads engagement, and replies also convert readers who are still deciding.",
+      "targetKeyword": "should you reply to Google reviews",
+      "points": [
+        "Reply to every review, good and bad, within a few days.",
+        "Use the service and city naturally in your reply, never stuffed.",
+        "A calm reply to a bad review sells better than a perfect rating."
+      ],
+      "paused": false
+    },
+    {
+      "id": "photos-that-rank",
+      "hook": "The photos on your Google profile are doing more than you think",
+      "angle": "Most owners upload nothing or one logo. Fresh, real photos signal an active business.",
+      "targetKeyword": "do photos help Google Business Profile ranking",
+      "points": [
+        "Upload real job photos, not stock images.",
+        "Add new photos every month so the profile looks active.",
+        "Cover the basics: exterior, interior, team, and finished work."
+      ],
+      "paused": false
+    },
+    {
+      "id": "business-description",
+      "hook": "How to write a Google Business Profile description that actually helps",
+      "angle": "The 750 character description is free real estate almost everyone wastes.",
+      "targetKeyword": "Google Business Profile description examples",
+      "points": [
+        "Lead with what you do and where you do it.",
+        "Name your main services in the plain language customers use.",
+        "Skip slogans and awards, Google ignores them."
+      ],
+      "paused": false
+    },
+    {
+      "id": "service-area-setup",
+      "hook": "Setting your service area wrong is quietly capping your reach",
+      "angle": "Service area businesses get this backwards constantly, either far too broad or far too narrow.",
+      "targetKeyword": "how to set service area Google Business Profile",
+      "points": [
+        "List the cities you truly serve, not the whole state.",
+        "Too wide a radius dilutes your relevance in every city.",
+        "Hide your address only if customers never visit you."
+      ],
+      "paused": false
+    },
+    {
+      "id": "duplicate-listings",
+      "hook": "You might have a second Google listing you never created",
+      "angle": "Duplicates split reviews and confuse Google. Very common after a move or a rebrand.",
+      "targetKeyword": "duplicate Google Business Profile",
+      "points": [
+        "Search your business name and phone number on Google Maps.",
+        "Duplicates split reviews and ranking signals between listings.",
+        "Claim and merge them through the profile support flow."
+      ],
+      "paused": false
+    },
+    {
+      "id": "nap-consistency",
+      "hook": "One wrong phone number on an old directory can hurt your ranking",
+      "angle": "Name, address, and phone consistency. Boring but real.",
+      "targetKeyword": "NAP consistency local SEO",
+      "points": [
+        "Your name, address, and phone must match everywhere online.",
+        "Old listings with a former number or suite confuse Google.",
+        "Fix the biggest directories first, then work down the list."
+      ],
+      "paused": false
+    },
+    {
+      "id": "gbp-messaging",
+      "hook": "The Google profile button that sends leads straight to your phone",
+      "angle": "Messaging is off by default on most profiles. A free lead channel sitting unused.",
+      "targetKeyword": "Google Business Profile messaging",
+      "points": [
+        "Turn on messaging so customers can text you from search.",
+        "Set an away reply so nobody gets silence.",
+        "Slow replies get the feature disabled, so answer fast."
+      ],
+      "paused": false
+    },
+    {
+      "id": "questions-and-answers",
+      "hook": "Anyone can answer questions on your Google profile, including competitors",
+      "angle": "The Q and A section is public and unmoderated. Owners should seed it themselves.",
+      "targetKeyword": "Google Business Profile questions and answers",
+      "points": [
+        "Anyone can post and answer questions on your listing.",
+        "Seed your own common questions and answer them yourself.",
+        "Check the section monthly for wrong or hostile answers."
+      ],
+      "paused": false
+    },
+    {
+      "id": "keyword-in-name",
+      "hook": "Why stuffing keywords into your business name can get you suspended",
+      "angle": "It works until it does not. An honest warning about a common shady tactic.",
+      "targetKeyword": "keyword stuffing Google Business Profile name",
+      "points": [
+        "Your listed name must match your real world signage.",
+        "Competitors and Google both report stuffed names.",
+        "A suspension costs far more than the temporary bump."
+      ],
+      "paused": false
+    },
+    {
+      "id": "accurate-hours",
+      "hook": "Wrong hours on Google cost you more customers than bad reviews",
+      "angle": "A simple trust and ranking factor, especially around holidays.",
+      "targetKeyword": "Google Business Profile hours",
+      "points": [
+        "Set real hours and update them for every holiday.",
+        "A locked door when Google says open earns instant one star reviews.",
+        "Special hours fields exist for a reason, use them."
+      ],
+      "paused": false
+    },
+    {
+      "id": "products-section",
+      "hook": "The products section works even if you do not sell products",
+      "angle": "Service businesses can list services as products for extra visibility.",
+      "targetKeyword": "Google Business Profile products section",
+      "points": [
+        "Service businesses can list each service as a product.",
+        "Each entry gets its own photo, price range, and description.",
+        "It gives you more indexed text tied to your profile."
+      ],
+      "paused": false
+    },
+    {
+      "id": "track-your-leads",
+      "hook": "If you cannot tell where your calls come from, you cannot fix anything",
+      "angle": "Measurement basics. Ties directly into the free audit offer.",
+      "targetKeyword": "how to track Google Business Profile leads",
+      "points": [
+        "Your profile shows calls, clicks, and direction requests.",
+        "Tag your website link so profile traffic shows up separately.",
+        "Ask every caller how they found you, and write it down."
+      ],
+      "paused": false
+    },
+    {
+      "id": "site-speed-local",
+      "hook": "A slow website quietly drags down your local ranking",
+      "angle": "An on-page factor that supports the map pack, not just the blue links.",
+      "targetKeyword": "does website speed affect local SEO",
+      "points": [
+        "Most local searches happen on phones with average connections.",
+        "Oversized images are the top cause of slow local sites.",
+        "A page that takes several seconds loses the customer and the ranking."
+      ],
+      "paused": false
+    },
+    {
+      "id": "city-pages",
+      "hook": "Why one page cannot rank you in five different cities",
+      "angle": "Explains dedicated location pages, the fix most small sites are missing.",
+      "targetKeyword": "local landing pages for multiple cities",
+      "points": [
+        "Google needs a distinct page for each city you want to rank in.",
+        "Each page needs genuinely different content, not a swapped city name.",
+        "Thin copied pages get ignored or penalized."
+      ],
+      "paused": false
+    },
+    {
+      "id": "local-schema",
+      "hook": "The invisible code that tells Google exactly what your business is",
+      "angle": "Local business schema, explained without the jargon.",
+      "targetKeyword": "local business schema markup",
+      "points": [
+        "Schema is hidden code that labels your name, address, and hours.",
+        "It helps Google connect your website to your Google profile.",
+        "Most small business sites have none of it."
+      ],
+      "paused": false
+    },
+    {
+      "id": "post-types",
+      "hook": "Not all Google posts are the same, and one of them gets ignored",
+      "angle": "Practical breakdown of update, offer, and event post types.",
+      "targetKeyword": "types of Google Business Profile posts",
+      "points": [
+        "Update posts are the workhorse, use them weekly.",
+        "Offer posts show a highlighted banner and a date range.",
+        "Event posts expire, so do not rely on them for evergreen info."
+      ],
+      "paused": false
+    },
+    {
+      "id": "never-gate-reviews",
+      "hook": "The review tactic that violates Google policy and gets you removed",
+      "angle": "Review gating. Honest, protective advice that builds trust.",
+      "targetKeyword": "is review gating against Google policy",
+      "points": [
+        "Screening out unhappy customers before asking is against policy.",
+        "Ask every customer the same way, every time.",
+        "Removed reviews and a flagged profile are the penalty."
+      ],
+      "paused": false
+    },
+    {
+      "id": "fake-reviews-backfire",
+      "hook": "What actually happens when a business buys Google reviews",
+      "angle": "Cautionary. Positions EPG as the honest operator.",
+      "targetKeyword": "buying Google reviews consequences",
+      "points": [
+        "Google detects unnatural review bursts and strips them.",
+        "Repeat offenses can disable the profile entirely.",
+        "Real reviews from real jobs are slower and permanent."
+      ],
+      "paused": false
+    },
+    {
+      "id": "analyze-competitors",
+      "hook": "How to reverse engineer the competitor sitting above you",
+      "angle": "Teaches a real audit workflow using only free tools.",
+      "targetKeyword": "how to analyze local SEO competitors",
+      "points": [
+        "Open their profile and note the primary category.",
+        "Compare review count, recency, and reply rate against yours.",
+        "Check which fields they filled that you left blank."
+      ],
+      "paused": false
+    },
+    {
+      "id": "proximity-reality",
+      "hook": "The honest truth about ranking in a city you are not near",
+      "angle": "Manages expectations. Proximity is the one factor nobody can buy.",
+      "targetKeyword": "can I rank in a city I am not located in",
+      "points": [
+        "Proximity to the searcher is a major map pack factor.",
+        "You can widen your reach, but you cannot fake a location.",
+        "Service area pages and citations help more than address tricks."
+      ],
+      "paused": false
+    },
+    {
+      "id": "verify-your-profile",
+      "hook": "An unverified Google profile is barely a profile at all",
+      "angle": "Verification basics and what to do when it fails.",
+      "targetKeyword": "how to verify Google Business Profile",
+      "points": [
+        "Unverified profiles rank poorly and can be edited by strangers.",
+        "Video verification is now the most common method.",
+        "Have signage, tools, and your workspace ready before you record."
+      ],
+      "paused": false
+    },
+    {
+      "id": "seo-vs-google-ads",
+      "hook": "Should a local business run Google Ads or fix their SEO first?",
+      "angle": "An honest comparison that does not trash ads. Builds credibility.",
+      "targetKeyword": "local SEO vs Google Ads",
+      "points": [
+        "Ads buy instant visibility that stops when the budget stops.",
+        "Local SEO builds slower but keeps working after you stop paying.",
+        "A broken profile makes your ads more expensive too."
+      ],
+      "paused": false
+    },
+    {
+      "id": "call-tracking-done-right",
+      "hook": "Call tracking numbers can wreck your local ranking if set up wrong",
+      "angle": "A specific technical gotcha most owners never hear about.",
+      "targetKeyword": "call tracking numbers and local SEO",
+      "points": [
+        "A tracking number replacing your real number breaks consistency.",
+        "Keep your real number as the primary everywhere.",
+        "Use the secondary number field for tracking instead."
+      ],
+      "paused": false
+    },
+    {
+      "id": "bing-places",
+      "hook": "The free listing almost every local business forgets",
+      "angle": "Bing Places, plus why it matters more now that AI assistants pull from it.",
+      "targetKeyword": "Bing Places for Business",
+      "points": [
+        "Bing powers results in places most people never think about.",
+        "Setup takes minutes and can import straight from Google.",
+        "It is one more consistent citation pointing at your business."
+      ],
+      "paused": false
+    },
+    {
+      "id": "apple-maps-listing",
+      "hook": "Every iPhone user searching nearby is using a map you probably ignored",
+      "angle": "Apple Business Connect. Genuinely overlooked and an easy win.",
+      "targetKeyword": "Apple Business Connect listing",
+      "points": [
+        "iPhone users searching nearby often see Apple Maps first.",
+        "Apple Business Connect is free to claim and edit.",
+        "An unclaimed listing may show wrong hours or a wrong pin."
+      ],
+      "paused": false
+    },
+    {
+      "id": "directories-that-matter",
+      "hook": "You do not need 200 directory listings, you need the right ones",
+      "angle": "Cuts through citation spam services. Quality over quantity.",
+      "targetKeyword": "best local citation directories",
+      "points": [
+        "A handful of major data sources feed most smaller directories.",
+        "Industry specific directories carry more weight than generic ones.",
+        "Consistency across a few beats sloppiness across hundreds."
+      ],
+      "paused": false
+    },
+    {
+      "id": "mobile-experience",
+      "hook": "Your customers are judging your business on a phone screen",
+      "angle": "Mobile experience as both a conversion and a ranking issue.",
+      "targetKeyword": "mobile friendly local business website",
+      "points": [
+        "Most local searches and calls happen on a phone.",
+        "Your phone number should be tappable on every page.",
+        "If they have to pinch and zoom, they leave."
+      ],
+      "paused": false
+    },
+    {
+      "id": "read-your-insights",
+      "hook": "Your Google profile already tells you what is broken, if you read it",
+      "angle": "Teaches how to interpret the performance tab. Ties into the free audit.",
+      "targetKeyword": "Google Business Profile insights explained",
+      "points": [
+        "Compare how many people found you by name versus by category.",
+        "Mostly name searches means you are not being discovered.",
+        "Track calls and direction requests month over month, not daily."
+      ],
+      "paused": false
+    },
+    {
+      "id": "seasonal-local-seo",
+      "hook": "The seasonal ranking window most local businesses miss entirely",
+      "angle": "Timing. You must already be ranking before the season starts.",
+      "targetKeyword": "seasonal local SEO",
+      "points": [
+        "Ranking takes weeks, so prepare a full season ahead.",
+        "Update services and posts before demand spikes, not after.",
+        "Seasonal photos and offers keep the profile relevant."
+      ],
+      "paused": false
+    },
+    {
+      "id": "report-spam-competitors",
+      "hook": "That competitor with the fake address can be removed",
+      "angle": "Empowering and a little satisfying. A tool most owners never heard of.",
+      "targetKeyword": "how to report a fake Google Business listing",
+      "points": [
+        "Fake addresses and keyword stuffed names violate guidelines.",
+        "Google has a redressal form for reporting them.",
+        "Removing a spam listing can move you up a spot immediately."
       ],
       "paused": false
     }

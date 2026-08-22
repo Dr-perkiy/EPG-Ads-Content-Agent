@@ -1,10 +1,10 @@
-name: Weekly EPG content
+name: EPG content
 
 on:
   schedule:
-    # 13:00 UTC = 9am Eastern during daylight saving (10am UTC shift in winter).
+    # Twice a day on weekdays: 13:00 UTC (9am ET) and 21:00 UTC (5pm ET) in EDT.
     # GitHub cron is always UTC, so the local hour moves by one across DST.
-    - cron: '0 13 * * 1'
+    - cron: '0 13,21 * * 1-5'
   workflow_dispatch:
     inputs:
       dry_run:
