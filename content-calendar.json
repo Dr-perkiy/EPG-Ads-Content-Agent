@@ -1,5 +1,5 @@
 {
-  "_comment": "The topic bank. The agent picks the least-recently-used topic each run (see src/state.js). Each topic is a brief that guides generation into the fixed carousel template: a cover, a context slide, exactly 3 teaching points, a recap, and a free-audit CTA. Edit freely, add more topics, or set \"paused\": true to skip one.",
+  "_comment": "The topic bank. The agent picks the least-recently-used topic each run (see src/state.js). Each topic is a brief that guides generation into the fixed carousel template: a cover, a context slide, exactly 3 teaching points, a recap, and a free-audit CTA. Edit freely, add more topics, or set \"paused\": true to skip one. Optional \"theme\" pins a palette (see templates/themes.js); otherwise palettes rotate least-recently-used.",
   "topics": [
     {
       "id": "three-free-fixes",
@@ -83,7 +83,8 @@
         "Anyone promising page 1 in days is using tactics that risk a suspension.",
         "Sustainable ranking comes from the profile, reviews, and citations over time."
       ],
-      "paused": false
+      "paused": false,
+      "theme": "signal"
     },
     {
       "id": "profile-before-website",
@@ -227,7 +228,8 @@
         "Competitors and Google both report stuffed names.",
         "A suspension costs far more than the temporary bump."
       ],
-      "paused": false
+      "paused": false,
+      "theme": "signal"
     },
     {
       "id": "accurate-hours",
@@ -323,7 +325,8 @@
         "Ask every customer the same way, every time.",
         "Removed reviews and a flagged profile are the penalty."
       ],
-      "paused": false
+      "paused": false,
+      "theme": "signal"
     },
     {
       "id": "fake-reviews-backfire",
@@ -335,7 +338,8 @@
         "Repeat offenses can disable the profile entirely.",
         "Real reviews from real jobs are slower and permanent."
       ],
-      "paused": false
+      "paused": false,
+      "theme": "signal"
     },
     {
       "id": "analyze-competitors",
@@ -479,7 +483,8 @@
         "Google has a redressal form for reporting them.",
         "Removing a spam listing can move you up a spot immediately."
       ],
-      "paused": false
+      "paused": false,
+      "theme": "signal"
     }
   ]
 }

@@ -3,7 +3,7 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { config, paths, loadBrand, validateConfig } from './config.js';
 import { log } from './log.js';
-import { pickNextTopic, recentHooks, isPaused, appendToLedger, relative } from './state.js';
+import { pickNextTopic, pickNextTheme, recentHooks, isPaused, appendToLedger, relative } from './state.js';
 import { generateContent } from './generate.js';
 import { checkContent, describeViolations } from './guardrails.js';
 import { renderCarousel } from './render.js';
@@ -44,7 +44,10 @@ export async function buildContent() {
   }
   log.ok('Guardrails passed');
 
-  const { pngFiles, pdfFile } = await renderCarousel(draft);
+  const theme = pickNextTheme(topic);
+  draft.themeId = theme.id;
+  log.info(`Palette this run: ${theme.name}`);
+  const { pngFiles, pdfFile } = await renderCarousel(draft, theme);
 
   fs.writeFileSync(path.join(paths.output, 'content.json'), JSON.stringify(draft, null, 2));
   fs.writeFileSync(

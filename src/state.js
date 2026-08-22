@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { config, paths, loadCalendar } from './config.js';
+import { THEMES, themeById } from '../templates/themes.js';
 
 function ensureStateDir() {
   fs.mkdirSync(paths.state, { recursive: true });
@@ -76,4 +77,27 @@ export function daysSinceLastPost() {
 
 export function relative(p) {
   return path.relative(paths.root, p).split(path.sep).join('/');
+}
+
+/**
+ * Pick the next color theme: least-recently-used across published posts, so the
+ * feed never shows the same palette twice in a row. A topic may pin a palette
+ * by setting "theme": "<id>" in content-calendar.json (e.g. warnings -> signal).
+ */
+export function pickNextTheme(topic) {
+  if (topic?.theme) return themeById(topic.theme);
+
+  const lastUsed = new Map();
+  for (const p of loadLedger().posts) {
+    if (p.outcome !== 'published' || !p.themeId) continue;
+    const t = new Date(p.postedAt).getTime();
+    if (!lastUsed.has(p.themeId) || t > lastUsed.get(p.themeId)) lastUsed.set(p.themeId, t);
+  }
+
+  const ranked = [...THEMES].sort((a, b) => {
+    const au = lastUsed.has(a.id) ? lastUsed.get(a.id) : -1;
+    const bu = lastUsed.has(b.id) ? lastUsed.get(b.id) : -1;
+    return au - bu; // never-used first, then oldest first
+  });
+  return ranked[0];
 }

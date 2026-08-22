@@ -4,7 +4,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { checkContent } from '../src/guardrails.js';
-import { buildSlides } from '../templates/slides.js';
+import { buildSlides, slideDoc, SLIDE_CSS } from '../templates/slides.js';
+import { THEMES, themeCss } from '../templates/themes.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const brand = JSON.parse(fs.readFileSync(path.join(ROOT, 'brand.json'), 'utf8'));
@@ -79,6 +80,23 @@ assert(slides.length === 8, `builds 8 slides (got ${slides.length})`);
 assert(slides[0].includes('rank higher on Google'), 'cover headline rendered');
 assert(slides[2].includes('class="num">1<'), 'point 1 numbered');
 assert(!slides.join('').includes('*'), 'emphasis asterisks converted to spans');
+
+console.log('\nThemes:');
+assert(THEMES.length >= 6, `has a palette bank (${THEMES.length} themes)`);
+assert(new Set(THEMES.map((t) => t.id)).size === THEMES.length, 'theme ids are unique');
+const incomplete = THEMES.filter(
+  (t) => !t.bg || !t.accent || !t.accentSoft || !t.accentRgb || !t.text || !t.muted || !t.onAccent,
+);
+assert(incomplete.length === 0, 'every theme defines a full palette');
+const badRgb = THEMES.filter((t) => !/^\d{1,3},\d{1,3},\d{1,3}$/.test(t.accentRgb));
+assert(badRgb.length === 0, 'every accentRgb is a valid r,g,b triplet');
+assert(themeCss(THEMES[2]).includes(THEMES[2].bg), 'themeCss emits the palette background');
+assert(themeCss(THEMES[2]).includes('--accent-rgb'), 'themeCss emits --accent-rgb');
+assert(slideDoc(slides[0], THEMES[3]).includes(THEMES[3].bg), 'slideDoc applies the chosen theme');
+assert(
+  !/#4f63f5|#7d8bff|#c9cdd6/i.test(SLIDE_CSS),
+  'structural CSS no longer hardcodes brand colors',
+);
 
 console.log(`\n${failures ? `FAILED (${failures})` : 'ALL PASSED'}`);
 process.exitCode = failures ? 1 : 0;

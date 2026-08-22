@@ -80,6 +80,7 @@ export async function publishStaged() {
 
   appendToLedger({
     topicId: draft.topicId,
+    themeId: draft.themeId,
     hook: draft.hook,
     outcome: results.length ? 'published' : 'failed',
     postedAt: new Date().toISOString(),

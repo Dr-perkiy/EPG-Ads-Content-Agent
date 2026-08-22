@@ -4,6 +4,7 @@ import puppeteer from 'puppeteer';
 import { paths } from './config.js';
 import { log } from './log.js';
 import { buildSlides, slideDoc, deckDoc } from '../templates/slides.js';
+import { DEFAULT_THEME } from '../templates/themes.js';
 
 /**
  * Renders the carousel to disk:
@@ -11,7 +12,7 @@ import { buildSlides, slideDoc, deckDoc } from '../templates/slides.js';
  *   output/carousel.pdf                   (8 square pages, for LinkedIn documents)
  * Returns { pngFiles: [...], pdfFile }.
  */
-export async function renderCarousel(draft) {
+export async function renderCarousel(draft, theme = DEFAULT_THEME) {
   fs.mkdirSync(paths.output, { recursive: true });
   // Clear stale output so a failed run never leaves last week's slides behind.
   for (const f of fs.readdirSync(paths.output)) {
@@ -32,17 +33,17 @@ export async function renderCarousel(draft) {
 
     for (let i = 0; i < slides.length; i++) {
       // Content is fully inline (no network), so wait for the DOM, not idle.
-      await page.setContent(slideDoc(slides[i]), { waitUntil: 'domcontentloaded' });
+      await page.setContent(slideDoc(slides[i], theme), { waitUntil: 'domcontentloaded' });
       const file = path.join(paths.output, `slide-${i + 1}.png`);
       await page.screenshot({ path: file, clip: { x: 0, y: 0, width: 1080, height: 1080 } });
       pngFiles.push(file);
     }
-    log.ok(`Rendered ${pngFiles.length} slide PNGs`);
+    log.ok(`Rendered ${pngFiles.length} slide PNGs (theme: ${theme.id})`);
 
     // One document with every slide as its own square page, for LinkedIn.
     const pdfPage = await browser.newPage();
     pdfPage.setDefaultTimeout(60000);
-    await pdfPage.setContent(deckDoc(slides), { waitUntil: 'domcontentloaded' });
+    await pdfPage.setContent(deckDoc(slides, theme), { waitUntil: 'domcontentloaded' });
     const pdfFile = path.join(paths.output, 'carousel.pdf');
     await pdfPage.pdf({
       path: pdfFile,
