@@ -70,6 +70,21 @@
         "[block] instagram-too-short: Instagram caption is only 0 characters.",
         "[block] linkedin-too-short: LinkedIn post is only 0 characters."
       ]
+    },
+    {
+      "topicId": "map-pack-explained",
+      "themeId": "midnight",
+      "hook": "What the map pack is and why it is the only spot that matters for local",
+      "outcome": "published",
+      "postedAt": "2026-08-24T16:20:10.744Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/Dcbeffxlm-C/",
+        "https://facebook.com/1321161914409792_122101523967449137"
+      ]
     }
   ]
 }
