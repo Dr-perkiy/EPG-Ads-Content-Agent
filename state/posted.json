@@ -85,6 +85,21 @@
         "https://www.instagram.com/p/Dcbeffxlm-C/",
         "https://facebook.com/1321161914409792_122101523967449137"
       ]
+    },
+    {
+      "topicId": "paid-for-seo-failed",
+      "themeId": "paper",
+      "hook": "I paid for SEO and it did not work. Here is what your last guy probably skipped",
+      "outcome": "published",
+      "postedAt": "2026-08-24T21:59:55.085Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DccFXouFpG-/",
+        "https://facebook.com/1321161914409792_122101713039449137"
+      ]
     }
   ]
 }
