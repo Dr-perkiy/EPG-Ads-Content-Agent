@@ -1,64 +1,69 @@
-# What Is the Google Map Pack, and Why It Decides Who Gets Called in Tampa and Brandon
+# Why Did My SEO Not Work? What Tampa and Brandon Agencies Skip
 
-If you own a local business in Tampa or Brandon, there is one block on the Google results page that matters more than everything else combined. It is called the map pack. Here is what it is, why it takes nearly all the calls, and why being seventh in the regular results does almost nothing for you.
+Why Did My SEO Not Work?
 
-What the map pack actually is
+You signed a contract. You got monthly reports. Maybe you got blog posts about seasonal tips and a list of new backlinks. Months later, you searched your own service in Tampa or Brandon and you still were not in the top three map results.
 
-Type plumber near me, dentist Brandon FL, or roofer Tampa into Google. Near the top of the page you get a small map. Under that map, Google lists three businesses. That block is the map pack, also called the local 3-pack or the local pack.
+That is a common story, and it usually is not because your provider was lazy. It is because they ran a national SEO playbook on a local business. Those are two different games with two different scoreboards.
 
-Each listing shows a business name, star rating and review count, category, hours, a snippet of the address or service area, and buttons to call or get directions. On many searches there is also a website button.
+Here is what almost certainly got skipped.
 
-Those three listings are not pulled from your website. They come from Google Business Profiles. That is the free listing you claim and manage at Google. Your website supports it, but the profile is the thing being ranked.
+They chased backlinks and never touched your profile
 
-Below the map pack you get a link that says more places, and below that the familiar blue links. Those blue links are organic results. They are a different ranking system with different rules.
+Open the last three reports you received. Search them for the words Google Business Profile. In most cases you will not find a single mention.
 
-Why those three slots take nearly all the action
+Backlinks and content matter when you are competing for broad, nationwide searches where the winner is a website. Local is different. When someone in Riverview searches for your service, Google shows a map with three businesses above the regular results. Those three spots are pulled from Google Business Profiles, not from blog posts.
 
-The map pack wins because of convenience. A searcher does not have to visit your website to contact you. The call button is right there. So is the directions button. One tap and the phone is ringing.
+So an agency can genuinely work hard for six months, publish articles, earn links, and still never touch the asset that decides your map ranking. The effort was real. The target was wrong.
 
-That is why nearly all local clicks and calls go to the three businesses in the pack. The rest of the page is competing for whatever attention is left after someone has already found three nearby options with ratings and hours attached.
+For local, your profile and reviews carry most of the weight
 
-There is a trust element too. Google is effectively vouching for those three as the best nearby matches. Most people do not question that. They pick one, usually the one with the strongest review profile and the closest location.
+Google has said publicly that local results are ranked on relevance, distance, and prominence.
 
-Why ranking number seven is invisible
+Relevance is how well your profile matches what was typed. Your primary category, your secondary categories, and your listed services set that. If your profile does not clearly say what you do, Google will not connect you to the search.
 
-Business owners tell me all the time that they rank on page one. Then I ask where. The answer is usually somewhere between five and nine in the organic results.
+Distance is where the searcher is compared to your address or service area. You cannot change your location, but you can make sure your service area and address settings are correct.
 
-Pull out your phone and look at what that actually means. The first screen holds a sponsored result or two, then the map, then the three map pack listings. Swipe once and you get the people also ask box. Swipe again and you may hit a second block of related searches. Now you are into the blue links, and you still have to pass positions one through six.
+Prominence is how well known and well regarded you appear. Reviews are the biggest lever here that you control. How many you have, how recently they arrived, whether they keep coming in, and what words customers use inside them. A business with steady new reviews describing the actual service usually beats a business with an old pile of reviews and nothing new for a year.
 
-That is three or four swipes on a phone before your name appears. Most searchers never get there. They have already called a business from the map pack.
+Your website still matters. It supports relevance and it is where people land after they tap. But if nobody has optimized the profile, the website alone is not going to carry you into the map pack.
 
-Being on page one is not the same as being visible. On mobile, position seven is closer to invisible than it is to the top.
+Ask one question and you will know
 
-What actually moves you into the pack
+Call or email whoever handled your SEO and ask this: what is my primary category set to, and why did you choose it.
 
-Three things drive map pack ranking: relevance, distance, and prominence.
+The primary category is the single biggest relevance lever on a Google Business Profile. A roofing company listed as a general contractor will lose to the one listed as a roofing contractor. A med spa listed as a beauty salon will lose to the one listed as a medical spa. The wrong pick quietly removes you from the searches you most want.
 
-Relevance is how well your profile matches the search. Your primary category, your services list, and your description all feed this.
+If your provider cannot answer that question, they never opened your profile. That is your answer about where the money went.
 
-Distance is how close you are to the searcher. You cannot move your building, but you can make sure your address, service area, and location signals are set correctly so Google knows where you actually serve.
+What to check this week
 
-Prominence is how well known and trusted you look. Reviews and how recently you got them, photos, consistent name, address and phone across the web, and links from local sites all feed this.
+Sign in to your Google Business Profile and open Edit profile. Read your primary category. Then search your main service plus your city, look at the three businesses ranking above you, and check what categories they use. Google shows enough clues in the listing itself, and third party tools can confirm it.
 
-None of that is a secret. It is just detailed, and it needs consistent attention. Most local businesses set up a profile once, then never touch it again. That is the opening you can take.
+Next, add every relevant secondary category and fill out your services list with the language customers actually type.
 
-Frequently asked questions
+Then count your reviews from the last ninety days. If the number is zero, that is the fastest thing you can fix. Ask every customer, in person, the day the job is done.
 
-Is the map pack the same as Google Maps?
-They are connected. The map pack is the local block on the normal search results page. Google Maps is the separate app and site. Both draw from your Google Business Profile, so improving the profile helps in both places.
+Finally, check for duplicate listings for your business. Old addresses and second listings split your signals and hold you back.
 
-Can I pay to be in the map pack?
-Not for the standard three slots. There are local services ads and sponsored map placements, but they are labeled as ads and sit separately. The three organic map pack spots are earned.
+FAQ
 
-Why does my competitor with a worse-looking business rank above me?
-Usually their profile is more complete, closer to the searcher, or collecting reviews more consistently. Ranking is about signals, not about how nice the shop looks.
+Was the SEO I paid for a total waste?
 
-Does the map pack change depending on where I stand?
-Yes. Move a few miles across Tampa and the three names can change completely. That is why checking your ranking from your own office gives you a flattering and misleading answer.
+Not always. Content and links have value. They just do not decide the map pack, so if map ranking was your goal, that budget went to the wrong place.
 
-Do I still need a website?
-Yes. Google reads your site to confirm what you do and where. A weak or missing site holds back the profile.
+How long should local SEO take?
 
-Find out what is keeping you out
+You should see movement within a few months when the profile work is done correctly. That is why we guarantee top 3 on Google within 90 days or your money back.
 
-If you are not in the top three for your main service in your area, there is a reason, and it is usually a short list of fixable items. I will audit your Google Business Profile for free and tell you exactly what is holding you back, with no pitch and no obligation. Start at https://epgads.net.
+Do I need to fire my current provider?
+
+Not necessarily. Ask the category question first. If they know the answer and can explain their choice, they are paying attention.
+
+Can I do this myself?
+
+Yes. Categories, services, photos, and review requests are free to fix and you own all of them.
+
+Get a straight answer
+
+If you are not sure what went wrong, get a free Google audit at https://epgads.net. I will look at your categories, your profile, your reviews, and your competitors, then tell you plainly what is holding you back. No pitch required.
