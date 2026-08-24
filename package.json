@@ -13,7 +13,8 @@
     "linkedin-token": "node scripts/get-linkedin-token.js",
     "preview": "node src/index.js --dry-run",
     "post": "node src/index.js",
-    "status": "node scripts/status.js"
+    "status": "node scripts/status.js",
+    "cover": "node scripts/make-cover.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.70.0",
