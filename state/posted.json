@@ -57,6 +57,19 @@
         "https://www.instagram.com/p/DcMPoQUE1oV/",
         "https://facebook.com/1321161914409792_122096592975449137"
       ]
+    },
+    {
+      "topicId": "map-pack-explained",
+      "hook": "What the map pack is and why it is the only spot that matters for local",
+      "outcome": "blocked",
+      "postedAt": "2026-08-24T16:11:58.603Z",
+      "violations": [
+        "[block] wrong-point-count: Carousel needs exactly 3 points, got 0.",
+        "[block] missing-cover-headline: Cover headline is empty.",
+        "[block] missing-cta: CTA slide headline is empty.",
+        "[block] instagram-too-short: Instagram caption is only 0 characters.",
+        "[block] linkedin-too-short: LinkedIn post is only 0 characters."
+      ]
     }
   ]
 }

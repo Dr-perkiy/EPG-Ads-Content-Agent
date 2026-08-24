@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { checkContent } from '../src/guardrails.js';
+import { assembleDraft, missingFields } from '../src/assemble.js';
 import { buildSlides, slideDoc, SLIDE_CSS } from '../templates/slides.js';
 import { THEMES, themeCss } from '../templates/themes.js';
 
@@ -80,6 +81,43 @@ assert(slides.length === 8, `builds 8 slides (got ${slides.length})`);
 assert(slides[0].includes('rank higher on Google'), 'cover headline rendered');
 assert(slides[2].includes('class="num">1<'), 'point 1 numbered');
 assert(!slides.join('').includes('*'), 'emphasis asterisks converted to spans');
+
+console.log('\nFlat tool output assembles into the nested draft:');
+const flat = {
+  coverEyebrow: 'Local SEO', coverHeadline: 'Fix these *3* things', coverSubhead: 'Fifteen minutes.',
+  contextEyebrow: 'Why it matters', contextHeadline: 'Most clicks go to the *top 3*.',
+  contextParagraphs: ['They call a competitor.', 'These fixes are free.'],
+  point1Label: 'One', point1Title: 'Right *category*', point1Body: 'Pick the specific one.', point1Action: 'Edit categories',
+  point2Label: 'Two', point2Title: 'Every *field*', point2Body: 'Complete profiles rank.', point2Action: 'Fill it in',
+  point3Label: 'Three', point3Title: 'Post *weekly*', point3Body: 'Active profiles show more.', point3Action: 'Add an update',
+  recapEyebrow: 'The honest part', recapHeadline: 'There are usually *8-10*.', recapBody: 'Easy wins first.',
+  recapDone: ['Category', 'Profile', 'Posts'], recapLocked: 'Reviews, citations, and more',
+  ctaEyebrow: 'Want the rest?', ctaHeadline: 'Get a *free* audit', ctaBody: 'No pitch, no obligation.',
+  ctaButton: 'Book your free Google audit',
+  instagramCaption: 'Three free fixes you can make today. Save this and send it to an owner who needs it. Free audit at epgads.net.',
+  linkedinPost: 'Most local businesses are invisible for one fixable reason. Here are three free fixes. Free Google audit at epgads.net.',
+  articleTitle: 'How to Rank Higher on Google Maps in Tampa, FL',
+  articleBody: 'If you run a local business in Tampa, the map pack drives your calls. '.repeat(9),
+  hashtags: ['#LocalSEO', '#GoogleBusinessProfile', '#TampaBusiness', '#BrandonFL', '#GoogleMaps'],
+};
+const built = assembleDraft(flat);
+assert(built.points.length === 3, 'three points rebuilt from flat fields');
+assert(built.points[1].title === 'Every *field*', 'point 2 title mapped correctly');
+assert(built.cover.headline === 'Fix these *3* things', 'cover headline mapped');
+assert(built.context.paragraphs.length === 2, 'context paragraphs preserved as an array');
+assert(built.recap.done.length === 3, 'recap items preserved');
+assert(built.article.title.includes('Google Maps'), 'article title mapped');
+assert(built.cta.url === 'epgads', 'cta url is always the bare domain word');
+assert(missingFields(built).length === 0, 'a complete flat payload reports no missing fields');
+assert(checkContent(built, brand).blocking.length === 0, 'assembled draft passes the guardrails');
+
+// The exact regression: nested schemas leaked tool markup into values.
+const leaky = { ...flat, coverHeadline: '\n<parameter name="headline">Fix these *3* things' };
+assert(
+  assembleDraft(leaky).cover.headline === 'Fix these *3* things',
+  'leaked <parameter> markup is stripped from values',
+);
+assert(missingFields(assembleDraft({})).length > 0, 'an empty payload is reported as incomplete');
 
 console.log('\nThemes:');
 assert(THEMES.length >= 6, `has a palette bank (${THEMES.length} themes)`);
