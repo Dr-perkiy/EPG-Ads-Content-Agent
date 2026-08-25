@@ -1,69 +1,69 @@
-# Why Did My SEO Not Work? What Tampa and Brandon Agencies Skip
+# Google Business Profile Ranking Mistakes: 3 Settings Costing Tampa and Brandon Businesses the Map Pack
 
-Why Did My SEO Not Work?
+Most Google Business Profile ranking mistakes are not about effort. Business owners in Tampa and Brandon post updates, ask for reviews, and upload photos, then wonder why nothing moves in the map pack. The problem is usually further upstream. Before Google decides where to rank you, it decides whether you are eligible to rank at all. Three settings control that, and all three sit inside your own dashboard.
 
-You signed a contract. You got monthly reports. Maybe you got blog posts about seasonal tips and a list of new backlinks. Months later, you searched your own service in Tampa or Brandon and you still were not in the top three map results.
+Here is the real answer, in order of how often I find it.
 
-That is a common story, and it usually is not because your provider was lazy. It is because they ran a national SEO playbook on a local business. Those are two different games with two different scoreboards.
+Mistake 1: A primary category that is too broad or simply wrong
 
-Here is what almost certainly got skipped.
+Your primary category is the single strongest signal in your profile. It tells Google which searches you are allowed to compete in. Everything else is a tiebreaker.
 
-They chased backlinks and never touched your profile
+If you install and repair air conditioners but your primary category is set to contractor, you are being sorted into a general pool instead of the one people actually search. If you handle personal injury cases but your primary says lawyer, you are competing against every attorney in Hillsborough County instead of the ones you can beat.
 
-Open the last three reports you received. Search them for the words Google Business Profile. In most cases you will not find a single mention.
+Secondary categories help, but Google weighs them far less. The primary is the one that decides your lane.
 
-Backlinks and content matter when you are competing for broad, nationwide searches where the winner is a website. Local is different. When someone in Riverview searches for your service, Google shows a map with three businesses above the regular results. Those three spots are pulled from Google Business Profiles, not from blog posts.
+How to fix it: open Google Maps, search the exact service you want to be found for plus your city, and look at the businesses holding the top 3. Click each one and note the category listed under the business name. If yours does not match, change your primary to the one they use and move your old choice to a secondary slot.
 
-So an agency can genuinely work hard for six months, publish articles, earn links, and still never touch the asset that decides your map ranking. The effort was real. The target was wrong.
+Mistake 2: A profile Google has not fully verified
 
-For local, your profile and reviews carry most of the weight
+An unverified or partially verified profile can still appear in a branded search. It rarely competes in the map pack. Google will not push a listing it cannot confirm is a real business at a real location.
 
-Google has said publicly that local results are ranked on relevance, distance, and prominence.
+This one surprises people. Owners tell me they verified years ago, then we open the dashboard and find a pending verification prompt sitting at the top. Postcards get lost. Video verification gets started and abandoned. Ownership transfers from a former marketing vendor never complete.
 
-Relevance is how well your profile matches what was typed. Your primary category, your secondary categories, and your listed services set that. If your profile does not clearly say what you do, Google will not connect you to the search.
+How to fix it: sign in to your Business Profile manager and look for any prompt asking you to verify or reverify. Complete it, even if Google asks for a video walkthrough of your storefront, your signage, your tools, or your vehicles. Have your license, a utility bill, or a lease handy. Reverification requests are common after you edit your name, address, or category, so do not panic when one appears.
 
-Distance is where the searcher is compared to your address or service area. You cannot change your location, but you can make sure your service area and address settings are correct.
+Mistake 3: A flag or suspension you never saw
 
-Prominence is how well known and well regarded you appear. Reviews are the biggest lever here that you control. How many you have, how recently they arrived, whether they keep coming in, and what words customers use inside them. A business with steady new reviews describing the actual service usually beats a business with an old pile of reviews and nothing new for a year.
+This is the quiet one. Google can suspend a profile without you noticing, because the notice goes to the email on the account, and that email is often an old address or a spam folder nobody checks.
 
-Your website still matters. It supports relevance and it is where people land after they tap. But if nobody has optimized the profile, the website alone is not going to carry you into the map pack.
+Common triggers I see across Tampa Bay:
 
-Ask one question and you will know
+Keywords stuffed into the business name. Your sign says Bay Area Plumbing. Your profile says Bay Area Plumbing Tampa Best Emergency Plumber. That violates Google's naming rules.
 
-Call or email whoever handled your SEO and ask this: what is my primary category set to, and why did you choose it.
+A virtual office, coworking desk, or mailbox used as the address. Google wants a location staffed during your stated hours.
 
-The primary category is the single biggest relevance lever on a Google Business Profile. A roofing company listed as a general contractor will lose to the one listed as a roofing contractor. A med spa listed as a beauty salon will lose to the one listed as a medical spa. The wrong pick quietly removes you from the searches you most want.
+A service area business showing a home address that should be hidden.
 
-If your provider cannot answer that question, they never opened your profile. That is your answer about where the money went.
+Hours or a location that do not match what Google can verify from other sources.
 
-What to check this week
+Duplicate listings for the same location.
 
-Sign in to your Google Business Profile and open Edit profile. Read your primary category. Then search your main service plus your city, look at the three businesses ranking above you, and check what categories they use. Google shows enough clues in the listing itself, and third party tools can confirm it.
+How to fix it: open a private browser window and search your exact business name. If your profile does not appear in Maps, check your dashboard for a suspended or disabled notice. Correct the underlying issue first, then file the appeal. Appealing before you fix the cause usually gets denied.
 
-Next, add every relevant secondary category and fill out your services list with the language customers actually type.
+Why these three come first
 
-Then count your reviews from the last ninety days. If the number is zero, that is the fastest thing you can fix. Ask every customer, in person, the day the job is done.
+You can build every other signal correctly and still stay invisible if one of these is wrong. Category decides the race. Verification decides whether Google trusts you to enter. Suspension status decides whether you are on the field at all.
 
-Finally, check for duplicate listings for your business. Old addresses and second listings split your signals and hold you back.
+Once those are clean, the rest of the work starts to pay off: service area setup, secondary categories, your services and products list, steady review flow, photo cadence, consistent citations, and location signals on your website.
 
 FAQ
 
-Was the SEO I paid for a total waste?
+How long until a category change affects my ranking?
 
-Not always. Content and links have value. They just do not decide the map pack, so if map ranking was your goal, that budget went to the wrong place.
+Usually days to a few weeks. Movement is often faster than people expect, because category is such a heavy signal.
 
-How long should local SEO take?
+Will changing my primary category trigger a review?
 
-You should see movement within a few months when the profile work is done correctly. That is why we guarantee top 3 on Google within 90 days or your money back.
+Sometimes. Google may ask you to reverify. That is normal. Keep your documentation ready and do not make several large edits on the same day.
 
-Do I need to fire my current provider?
+Can I recover from a suspension?
 
-Not necessarily. Ask the category question first. If they know the answer and can explain their choice, they are paying attention.
+Often, yes. Fix the guideline problem first, gather proof that you operate at the address you claim, then appeal. Rushing the appeal is the most common reason it fails.
 
-Can I do this myself?
+Do I need a physical storefront to rank in Tampa?
 
-Yes. Categories, services, photos, and review requests are free to fix and you own all of them.
+No. Service area businesses can rank well. You do need a real address on file, hidden from public view, and a service area that reflects where you actually work.
 
-Get a straight answer
+Get a free audit
 
-If you are not sure what went wrong, get a free Google audit at https://epgads.net. I will look at your categories, your profile, your reviews, and your competitors, then tell you plainly what is holding you back. No pitch required.
+If you want a second set of eyes, I will check your category, your verification status, and any flags on your profile, then tell you plainly what is holding your ranking back. No pitch, no obligation. Book your free Google audit at https://epgads.net.
