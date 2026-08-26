@@ -130,6 +130,21 @@
         "https://www.instagram.com/p/DchYzjyGfIc/",
         "https://facebook.com/1321161914409792_122103517833449137"
       ]
+    },
+    {
+      "topicId": "page-1-in-7-days-red-flag",
+      "themeId": "signal",
+      "hook": "Why page 1 in 7 days is a red flag, not a promise",
+      "outcome": "published",
+      "postedAt": "2026-08-26T23:35:38.855Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DchZ5XBHLsT/",
+        "https://facebook.com/1321161914409792_122103521583449137"
+      ]
     }
   ]
 }
