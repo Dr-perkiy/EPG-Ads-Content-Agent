@@ -84,6 +84,11 @@ export const config = {
 
   // How many recently used topics to avoid repeating (also drives rotation).
   recentTopicsToAvoid: 6,
+
+  // Minimum hours between published posts. Each schedule window fires several
+  // times because GitHub drops scheduled runs, so this is what stops the extra
+  // attempts from posting again. Manual runs pass 0 to force a post.
+  minGapHours: Number(process.env.MIN_GAP_HOURS ?? 5),
 };
 
 export function loadBrand() {

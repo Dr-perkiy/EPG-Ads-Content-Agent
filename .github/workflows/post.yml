@@ -2,9 +2,13 @@ name: EPG content
 
 on:
   schedule:
-    # Twice a day on weekdays: 13:00 UTC (9am ET) and 21:00 UTC (5pm ET) in EDT.
-    # GitHub cron is always UTC, so the local hour moves by one across DST.
-    - cron: '0 13,21 * * 1-5'
+    # Twice a day on weekdays: a morning window and an evening window.
+    # GitHub treats schedules as best effort and DROPS runs under load, and
+    # on-the-hour times are the most congested, so each window fires several
+    # times at an odd minute. The MIN_GAP_HOURS guard in build.js means only
+    # the first attempt that actually lands does the posting; the rest skip.
+    - cron: '17 13,14,15 * * 1-5'
+    - cron: '17 21,22,23 * * 1-5'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -33,6 +37,9 @@ jobs:
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
       PLATFORMS: ${{ github.event_name == 'workflow_dispatch' && inputs.platforms || 'instagram,facebook' }}
       AGENT_ENABLED: ${{ vars.AGENT_ENABLED || 'true' }}
+      # Manual runs force a post. Scheduled runs skip if one already went out
+      # recently, which is what makes the repeated cron attempts safe.
+      MIN_GAP_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '5' }}
       IMAGE_BASE_URL: ${{ vars.IMAGE_BASE_URL }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
@@ -66,6 +73,7 @@ jobs:
 
       # Phase 1: pick topic, generate copy, guardrail-check, render slides + PDF.
       - name: Build this week's content
+        id: build
         run: node src/build.js
 
       # Instagram fetches each image from a public raw URL, so the rendered
@@ -91,7 +99,7 @@ jobs:
 
       # Phase 2: publish the staged carousel. Skipped on dry runs.
       - name: Publish
-        if: env.DRY_RUN == 'false'
+        if: env.DRY_RUN == 'false' && steps.build.outputs.built == 'true'
         env:
           IMAGE_SHA: ${{ steps.commit.outputs.sha }}
         run: node src/publish.js

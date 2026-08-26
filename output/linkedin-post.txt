@@ -1,9 +1,11 @@
-Most local ranking problems are not effort problems. They are eligibility problems.
+You do not need to learn SEO to know whether your SEO provider is working. You need three questions.
 
-Three settings decide whether Google will rank you at all: your primary category, your verification status, and whether your profile has been flagged or suspended.
+1. What is my primary Google Business Profile category? It controls which searches you show up for, and anyone managing your profile knows it without looking.
 
-A category that is too broad puts you in a race you cannot win. Incomplete verification limits how much Google trusts the listing. A quiet suspension removes you from Maps entirely, and the notice usually lands in spam.
+2. How many local citations did you build or fix this month? Ask for the directories by name, with links.
 
-Check all three from your dashboard this week. It takes about ten minutes.
+3. Show me my current map pack position for my main keyword, measured from my service area. Position, not impressions.
 
-If you want me to check them for you, I offer a free Google audit at https://epgads.net.
+A provider doing the work answers all three in minutes. A provider coasting on your retainer needs a week to build a slide about it.
+
+If you want a straight second opinion, I run a free Google audit at epgads.net.

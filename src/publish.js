@@ -3,7 +3,7 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { config, paths, validateConfig } from './config.js';
 import { log } from './log.js';
-import { appendToLedger } from './state.js';
+import { appendToLedger, loadLedger } from './state.js';
 import { postCarouselToInstagram, postAlbumToFacebook, publicImageUrl, assertImageReachable } from './meta.js';
 import { postDocumentToLinkedIn } from './linkedin.js';
 
@@ -29,6 +29,21 @@ export async function publishStaged() {
   if (config.dryRun) { log.warn('DRY_RUN is true. Refusing to publish.'); return; }
 
   const { draft, pngFiles, pdfFile } = loadStaged();
+
+  // Safety net: output/ persists between runs, so a skipped or failed build
+  // leaves last run's files sitting there. Never post the same topic twice
+  // inside the minimum gap.
+  const lastPublished = loadLedger().posts.filter((p) => p.outcome === 'published').pop();
+  if (lastPublished && lastPublished.topicId === draft.topicId && config.minGapHours > 0) {
+    const hours = (Date.now() - new Date(lastPublished.postedAt).getTime()) / 3_600_000;
+    if (hours < config.minGapHours) {
+      log.warn(
+        `Staged content is topic "${draft.topicId}", already published ${hours.toFixed(1)}h ago. ` +
+          'Refusing to post a duplicate.',
+      );
+      return;
+    }
+  }
   const igCaption = `${draft.instagramCaption}\n\n${(draft.hashtags || []).join(' ')}`;
   const results = [];
   const errors = [];

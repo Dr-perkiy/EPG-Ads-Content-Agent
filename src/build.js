@@ -3,7 +3,7 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { config, paths, loadBrand, validateConfig } from './config.js';
 import { log } from './log.js';
-import { pickNextTopic, pickNextTheme, recentHooks, isPaused, appendToLedger, relative } from './state.js';
+import { pickNextTopic, pickNextTheme, recentHooks, isPaused, appendToLedger, relative, daysSinceLastPost } from './state.js';
 import { generateContent } from './generate.js';
 import { checkContent, describeViolations } from './guardrails.js';
 import { renderCarousel } from './render.js';
@@ -16,6 +16,19 @@ import { renderCarousel } from './render.js';
 export async function buildContent() {
   if (!config.enabled) { log.warn('AGENT_ENABLED is false. Skipping build.'); return null; }
   if (isPaused()) { log.warn('Kill switch active (state/PAUSED). Skipping build.'); return null; }
+
+  // Each schedule window fires several times so a dropped GitHub run still
+  // lands. Only the first attempt that gets through should post.
+  if (config.minGapHours > 0) {
+    const days = daysSinceLastPost();
+    if (days !== null && days * 24 < config.minGapHours) {
+      log.info(
+        `Last post was ${(days * 24).toFixed(1)}h ago, inside the ${config.minGapHours}h minimum gap. ` +
+          'This is a duplicate attempt from the same window. Skipping.',
+      );
+      return null;
+    }
+  }
 
   const brand = loadBrand();
   const topic = pickNextTopic();
@@ -66,5 +79,11 @@ export async function buildContent() {
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   log.step('EPG content agent - build');
   validateConfig();
-  await buildContent();
+  const built = await buildContent();
+  // The workflow gates the publish step on this, so a skipped build never
+  // republishes whatever is left in output/ from the previous run.
+  if (process.env.GITHUB_OUTPUT) {
+    fs.appendFileSync(process.env.GITHUB_OUTPUT, `built=${built ? 'true' : 'false'}
+`);
+  }
 }
