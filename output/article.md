@@ -1,71 +1,69 @@
-# How to Know if SEO Is Working: 3 Questions Tampa and Brandon Business Owners Should Ask Their Provider
+# How Long Does Local SEO Take? The Honest Timeline for Tampa and Brandon Businesses
 
-Most business owners who call me are not sure whether their SEO company is doing anything. They get a monthly report. Impressions are up. Sessions are up. There is a chart with a green arrow. But the phone rings about the same as it did last year, and the competitor down the road is still holding the map pack.
+How long does local SEO take? For most Tampa and Brandon businesses, meaningful movement in the Google map pack takes about 60 to 90 days. Anyone selling you page 1 in seven days is not faster than everyone else. They are using shortcuts that put your profile at risk.
 
-That gap between the report and the phone is the whole problem. So here is how to know if SEO is working, without learning SEO yourself.
+I want to give you the real timeline, month by month, so you can tell honest work from expensive theater.
 
-Three questions. Ask them on your next monthly call. A provider doing real work answers all three from memory or in about a minute. A provider coasting on your retainer will need to get back to you.
+Why 60 to 90 days is the real number
 
-Question 1: What is my primary Google Business Profile category?
+Google is not ranking your business off a single change. It is watching for consistency over time: is this business real, is it active, is it actually located where it says it is, do customers keep showing up and leaving feedback.
 
-Your Google Business Profile lets you pick one primary category and several secondary ones. The primary category does the heavy lifting. It tells Google what kind of business you are and which searches you belong in.
+Those signals accumulate. One updated category will not do it. A category update, plus corrected service areas, plus photos added weekly, plus reviews arriving steadily, plus directory listings that finally match each other, all over the course of two or three months, will.
 
-Get it wrong and nothing else you do matters much. A roofing company listed under general contractor will struggle for roof repair searches in Tampa. A med spa listed under beauty salon will lose the treatments people actually search for. A personal injury firm listed as law firm competes with every attorney in Hillsborough County instead of ranking for the cases it wants.
+Here is what a normal timeline looks like.
 
-Anyone actively managing your profile knows your primary category without looking it up. It is one of the first things they would have checked and probably changed.
+Days 1 to 30. Cleanup. Categories, services, hours, service areas, business description, photos. Citation errors get fixed. You should see impressions and map views start to climb before your ranking position changes. That is normal and it is a good sign.
 
-How to verify: search your own business name on Google, open your profile, and look at the category shown under your name. Or sign into your business profile and check the category field. Compare it to what your provider told you.
+Days 30 to 60. Momentum. Reviews start coming in on a schedule instead of at random. Directory corrections get indexed. You begin appearing for more search terms, often long ones first, like a specific service plus a neighborhood.
 
-Question 2: How many local citations did you build or fix this month?
+Days 60 to 90. Position. This is where head terms move. The searches with real volume in Tampa, Brandon, Riverview and Valrico start putting you closer to the top three.
 
-Citations are mentions of your business name, address, and phone number on other sites. Yelp, Apple Maps, Bing Places, Facebook, the Better Business Bureau, industry directories, chamber listings.
+What a seven day promise actually means
 
-Google cross checks these. When your old suite number is still sitting on four directories, or your phone number changed and half the web never got the memo, Google trusts your data less. Less trust means a lower spot in the map pack.
+Nobody can compress that trust building. So when the timeline gets promised in days, something else is happening. Usually one of these.
 
-Citation work is unglamorous and it is measurable. That is what makes it a good test question. A provider doing it can name the sites, show you the old listing and the corrected one, and tell you which ones are still pending because the directory takes weeks to approve edits.
+Keyword stuffing your business name. Adding words like "best" or a service and a city into the name field on your profile. It can bump rankings quickly. It also violates Google's guidelines, and competitors report it constantly.
 
-A vague answer like we are working on your citations means nothing. Ask for the list.
+Fake or borrowed addresses. Listing a virtual office, a mailbox, or a friend's storefront to appear in a city where you have no staffed location. This is one of the fastest routes to suspension.
 
-Question 3: Show me my current map pack position for my main keyword
+Bulk reviews. A batch of reviews from accounts with no history, appearing in a short window. Google filters many of them, and the pattern flags the profile.
 
-This is the one that separates real reporting from decoration.
+Lead gen doorway pages. Thin pages built for dozens of cities you do not serve, all pointing back to one address.
 
-The map pack is the block of three businesses that appears above the regular results with a map. For local searches, that block gets most of the clicks and most of the calls. If you are not in it, you are largely invisible no matter what your website traffic chart says.
+The cost when it fails is not just a lost month. A suspended profile takes your reviews, your photos, and your map presence offline while you appeal. Reinstatement can take weeks. Some profiles never come back, and you start over with a new listing and no review history.
 
-So ask for your position. Not impressions. Not clicks. Not domain authority. Your ranking in the map for the keyword that actually brings you money, measured from the neighborhoods you serve.
+What actually holds a ranking
 
-That last part matters. Local rankings change based on where the searcher is standing. You might sit at position two in Brandon and position eleven in Riverview. Grid tools show this as a map of your service area with a number at each point. They run in seconds. Any provider tracking rankings already has one.
+Three things, repeated.
 
-If nobody can show you a position, nobody is measuring the thing you are paying for.
+Your profile. The primary category matters more than almost anything else on the listing. Choose the one that matches the money service, not the broadest option. Fill in services with real descriptions. Add photos regularly, taken at your location, not stock images.
 
-What good answers sound like
+Your reviews. Volume matters, but so does pace and content. A steady trickle beats a flood. Reviews that mention the service and the city give Google context that a star rating alone does not.
 
-A provider doing the work says something like: your primary category is water damage restoration service, we changed it from general contractor in month one. We fixed eleven citations this month, here is the list with links. Your grid for your main keyword shows position three in central Brandon and position nine on the east edge, so this month we are working on the east side.
+Your citations. Your name, address, and phone number should match exactly everywhere you appear. Apple Maps, Bing, Yelp, chamber directories, industry listings. Mismatched data is one of the most common reasons a legitimate business stalls at position eight.
 
-Specific. Checkable. Boring in the best way.
+None of that is exciting. All of it works, and it keeps working after the contract ends.
+
+What to ask before you hire anyone
+
+Ask what changes in week one. Ask whether your business name on Google will match your signage and your license exactly. Ask where the reviews will come from. Ask what happens if the profile gets suspended.
+
+Honest answers sound slower. They are also the ones that leave you with an asset instead of a cleanup project.
 
 FAQ
 
-How long before local SEO shows results?
+How long does local SEO take to show results?
+Expect impressions and map views to move in the first 30 days, and ranking positions to move between 60 and 90 days for most local businesses.
 
-Movement in the map pack usually starts inside the first month or two, with meaningful position changes over three months. If nothing has moved in ninety days, something is wrong with the approach, not with your patience.
+Can local SEO work faster than 90 days?
+Sometimes, if your profile is already established and the fixes are simple. But nobody can promise it, and anyone who does is usually breaking guidelines.
 
-Is website traffic a good measure of local SEO?
+What gets a Google Business Profile suspended?
+Keywords in the business name, addresses you do not staff, fake reviews, and duplicate listings are the most common causes.
 
-Not on its own. Traffic can rise from irrelevant visitors while your map ranking stays flat. Track map pack position and calls first.
+Do reviews need to come in fast?
+No. Steady is better. A predictable flow of real reviews looks natural and keeps working over time.
 
-What if my provider gets defensive about these questions?
+Get a free Google audit
 
-That is an answer too. Owners have every right to ask what work was done. Real providers welcome it because the questions are easy for them.
-
-Can I check any of this myself?
-
-Yes. Your primary category takes thirty seconds to confirm. Your citations you can spot check by searching your business name and phone number. Map pack position is harder to judge yourself because your own location and search history skew results.
-
-Get a straight second opinion
-
-If you asked these three questions and did not like the answers, I will run a free Google audit on your business. I check your primary category, your citation consistency, your map pack position across your service area, and the gap between you and the businesses ranking above you. Then I tell you plainly what I find, whether you hire me or not.
-
-We work with local businesses across Tampa, Brandon, Riverview, Valrico, Wesley Chapel, Plant City, Clearwater, and St. Petersburg. Our guarantee is simple: top 3 on Google within 90 days or your money back.
-
-Book your free audit at https://epgads.net.
+If you are not in the top three for your service in Tampa, Brandon, Riverview or anywhere in Tampa Bay, I will tell you why. The audit covers your profile, your citations, and the competitors currently outranking you. It is free, and there is no obligation. Request yours at https://epgads.net. When we work together, the guarantee is simple: top 3 on Google within 90 days or your money back.
