@@ -1,73 +1,73 @@
 {
   "cover": {
-    "eyebrow": "Spending order matters",
-    "headline": "Rank the *profile* before you build the *site*",
-    "subhead": "A profile in the top 3 rings your phone this month. A new website only pays off once people can find you."
+    "eyebrow": "Local SEO basics",
+    "headline": "The free ranking factor nobody told you about: *citations*",
+    "subhead": "Your name, address, and phone across the web either match, or they cost you rankings."
   },
   "context": {
-    "eyebrow": "The sequence problem",
-    "headline": "Most owners buy the site first, then wonder where the *calls* went",
+    "eyebrow": "Why this matters",
+    "headline": "Google is *checking* your details right now",
     "paragraphs": [
-      "I talk to owners in Tampa and Brandon every week who just paid for a redesign. The site looks clean. The phone is still quiet. Nothing is wrong with the site. It is sitting at the end of a road nobody drives down.",
-      "Good news: the order is fixable, and the cheap half comes first. Your Google Business Profile is free to claim and free to fix, and it is what shows up in the map pack when someone searches near you. Get that ranking, then put money into the website it feeds."
+      "Every time Google sees your business listed somewhere, it compares those details to your Google Business Profile. Match after match builds confidence. Mismatch after mismatch builds doubt, and doubt keeps you out of the top three in Tampa and Brandon.",
+      "The good news: this one is free to fix. No ad budget, no new website. Just an afternoon of cleanup and a spreadsheet you keep for good."
     ]
   },
   "points": [
     {
-      "label": "Calls before code",
-      "title": "A ranked profile *calls* first",
-      "body": "People searching plumber near me on a phone tap the map results. Most of them call straight from the profile and never open a website at all. That means a profile in the top 3 produces booked jobs while your site is still in wireframes.",
-      "action": "Open your profile on a phone today and check that the call button, service area, and hours are all correct and live."
+      "label": "What a citation actually is",
+      "title": "Any *mention* of your details",
+      "body": "A citation is your business name, address, and phone number listed anywhere online. Yelp, Apple Maps, Bing Places, Facebook, the Better Business Bureau, chamber pages, industry directories, even old vendor pages. You do not need a link for it to count. The mention itself is the signal.",
+      "action": "Search your phone number in Google, in quotes, and write down every site that shows up."
     },
     {
-      "label": "Conversion needs traffic",
-      "title": "A site converts *existing* demand",
-      "body": "A website is a conversion tool. It takes people who already found you and turns them into calls and forms. If nothing is sending people there, a better layout just makes a nicer empty room.",
-      "action": "Check your analytics for last month. If local search sends you almost nothing, fix visibility before you touch the design."
+      "label": "Consistency builds trust",
+      "title": "Make every listing *match*",
+      "body": "Google wants proof you are a real business at a real address. It gets that proof when the same details repeat across independent sources. Pick one exact format for your name, suite number, street abbreviation, and phone, then use that format everywhere without changing it.",
+      "action": "Copy your name, address, and phone exactly as they appear on your Google profile into a note. That is your master version."
     },
     {
-      "label": "Map pack, then money",
-      "title": "Earn the *map pack*, then build",
-      "body": "Work the profile until you hold a top 3 spot for your main service in your city. Primary category set exactly, every service listed, real photos added monthly, reviews coming in steadily with replies. Once calls are landing, you know which services actually sell, and you can build the site around those instead of guessing.",
-      "action": "Pick one money service and one city, search it from your service area, and note where you sit. That number is your starting line."
+      "label": "Old data quietly leaks",
+      "title": "One old number *hurts*",
+      "body": "A tracking number from an old marketing company, a suite you moved out of, a name you changed years ago: any of these can sit on a directory and contradict you. Google sees the conflict and softens how much it trusts your listing. Customers who call the dead number just leave.",
+      "action": "Claim or correct the three worst offenders you found today, starting with Yelp, Bing Places, and Apple Maps."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "These three fix the order you spend in. Ranking in a competitive Tampa Bay category takes more moving parts than one carousel holds.",
+    "body": "Clean citations move you up, but they are one layer. Most businesses stuck outside the top three have several other things pulling against them at the same time.",
     "done": [
-      "Profile brings calls",
-      "Site converts traffic",
-      "Map pack comes first"
+      "Found your mentions",
+      "Set one master format",
+      "Fixed the bad data"
     ],
-    "locked": "Category and service mapping, citation cleanup, review velocity, service area pages, photo and post cadence, spam competitor reporting"
+    "locked": "Duplicate listings, category selection, review velocity, service area setup, on page location signals"
   },
   "cta": {
-    "eyebrow": "Free audit",
-    "headline": "See what your profile needs, *free*",
-    "body": "I will look at your Google Business Profile and tell you where you rank and what is holding you back. If you hire us, it is top 3 on Google within 90 days or your money back.",
+    "eyebrow": "Next step",
+    "headline": "Get a *free* Google audit",
+    "body": "I will check your citations, your profile, and what is keeping you out of the map pack, then tell you plainly what I find. Nothing to buy.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "A beautiful website nobody finds is the most expensive thing a local business can buy.\n\nHere is the order I would spend in:\n\n1. Rank the Google Business Profile. Most people searching on a phone call straight from the map result and never open a website.\n2. Remember what a site actually does. It converts traffic you already have. No traffic, no conversions.\n3. Get into the map pack for one service in one city first. Then build the site around the services that are already selling.\n\nThe profile part is free to claim and free to fix. Start there.\n\nWant to know where you stand? I will audit your profile free at epgads.net.\n\nSave this before your next redesign quote.",
-  "linkedinPost": "Most local owners buy the website first and the visibility second. That is backwards.\n\nA Google Business Profile in the top 3 generates calls right now. Nearly all of those callers tap the number in the map result and never load a site.\n\nA website converts demand you already have. If local search is not sending anyone, a redesign cannot fix that.\n\nSo: get into the map pack for your main service and city, learn which jobs actually come in, then build the site around them.\n\nFree profile audit at epgads.net if you want to see where you currently rank.",
+  "instagramCaption": "There is a free ranking factor most Tampa business owners have never heard of: citations.\n\n1. A citation is any mention of your business name, address, and phone online. Yelp, Apple Maps, Bing Places, Facebook, chamber and industry directories. No link needed.\n\n2. Google trusts the business whose details match everywhere. Same name, same suite, same phone, every single time.\n\n3. One old tracking number or a suite you moved out of can quietly contradict you. Google sees the conflict. Customers calling the dead line just give up.\n\nDo this today: search your phone number in quotes on Google, list every site that shows up, and fix the ones that are wrong.\n\nWant me to look at yours? Free Google audit at epgads.net.\n\nSave this so you can work through the list this week.",
+  "linkedinPost": "Citations are the free local ranking factor most business owners have never heard of.\n\nA citation is any mention of your business name, address, and phone across the web: Yelp, Apple Maps, Bing Places, directories, chamber pages. No link required for it to count.\n\nGoogle builds confidence when those details match your Google Business Profile everywhere it looks. It loses confidence when they do not.\n\nThe usual culprit is small: an old tracking number from a former marketing company, or a suite number you left behind. It sits there and contradicts you.\n\nSearch your phone number in quotes, list what comes up, and correct the wrong ones this week.\n\nIf you want a second set of eyes, I offer a free Google audit at https://epgads.net.",
   "article": {
-    "title": "Google Business Profile vs Website for Local Businesses in Tampa and Brandon",
-    "body": "Google Business Profile vs Website for Local: Which Comes First?\n\nEvery month I talk with an owner in Tampa or Brandon who just spent real money on a website redesign. The site loads fast. The photos look good. The phone still is not ringing.\n\nNothing is wrong with the website. The problem is the order they bought in.\n\nIf you are deciding between a Google Business Profile and a website for local search, the profile comes first. Not because websites do not matter. They do. But a profile brings people in, and a website converts people who already arrived. You cannot convert what you never attracted.\n\nHere is how I explain the sequence.\n\nA ranked profile brings calls before the site exists\n\nSearch plumber near me or dentist Brandon FL on your phone. Look at what fills the screen. Three business listings with stars, hours, a directions button, and a call button. That is the map pack.\n\nMost people searching on a phone tap the call button right there. They never open a website. They pick from the top three, they call one, and if that one answers, the search is over.\n\nThat means a profile sitting in the top 3 produces booked jobs while your new website is still a wireframe in someone's design tool. The profile is also free to claim and free to improve. The only cost is attention.\n\nA website only converts traffic you can already get\n\nA website is a conversion tool. Its job is to take someone who already found you and turn them into a call, a form, or a booking. It answers questions, shows proof, and reduces hesitation.\n\nNone of that happens without visitors.\n\nPull up your analytics and look at last month. How many people arrived from local search? If the answer is almost nobody, a better layout will not change your revenue. You would be polishing a room nobody walks into.\n\nThis is the part that stings, because a redesign feels like progress. It looks like work got done. But the metric that matters is calls, and calls come from being findable.\n\nGet into the map pack first, then invest in the site\n\nHere is the order I would spend in if it were my business.\n\nStep one: claim and verify the profile. If you never verified it, nothing else matters.\n\nStep two: set your primary category to exactly what you sell. Not close. Exactly. A category that is one notch off will keep you out of the results you want.\n\nStep three: list every service you offer with a real description for each. Set your service area to the cities you actually drive to, like Riverview, Valrico, or Wesley Chapel, not the whole state.\n\nStep four: add real photos on a regular schedule. Job sites, your team, your storefront, your equipment. Not stock images.\n\nStep five: ask for reviews steadily and reply to all of them. Steady is better than a burst.\n\nStep six: pick one money service and one city. Search it. Note where you rank. That number is your starting line, and it is the number you are trying to move.\n\nOnce you hold a top 3 spot and calls are landing, something useful happens. You learn which services people actually call about. Now you can build a website around those services instead of guessing. The money goes into pages that match real demand.\n\nDoes this mean skip the website?\n\nNo. Keep a working site up. It needs to load quickly, list your services and service areas, show your phone number on every page, and match the name, address, and phone on your profile exactly. That baseline supports your ranking.\n\nWhat I am arguing against is spending your marketing budget on a full redesign before anyone can find you. Fix visibility, then upgrade the site with money the phone calls paid for.\n\nFAQ\n\nCan I rank in the map pack without a website?\nYes, it happens. A website helps, and a mismatched one hurts, but plenty of profiles rank on the strength of category accuracy, reviews, photos, and consistent information.\n\nHow long does it take to rank a profile?\nIt depends on your category and how crowded your city is. Our guarantee is top 3 on Google within 90 days or your money back.\n\nMy website is old. Should I fix it now?\nFix the basics: load speed, correct phone number, service pages, and matching business information. Save the full redesign until the profile is bringing calls.\n\nI rank in one city but not the next one over. Why?\nMap results are tied to where the searcher is standing. Ranking in Tampa does not automatically mean ranking in Plant City. Each area is its own contest.\n\nWhat should I do first this week?\nOpen your profile on your phone. Check the category, the hours, the service area, and the call button. Then search your main service and see where you land.\n\nGet a free audit\n\nIf you want to know exactly where your profile ranks and what is holding it back, I will look at it and tell you. No pitch, no obligation. Request your free Google audit at https://epgads.net."
+    "title": "What Are Local Citations for SEO? A Plain Guide for Tampa and Brandon Businesses",
+    "body": "If you run a business in Tampa or Brandon and you are stuck below the top three on Google, there is a good chance nobody has ever mentioned citations to you. They are free, they are boring, and they move the needle.\n\nWhat are local citations for SEO\n\nA citation is any place online where your business name, address, and phone number appear. That is it. Yelp, Apple Maps, Bing Places, Facebook, the Better Business Bureau, your local chamber page, industry directories, supplier pages, old press mentions.\n\nA citation does not need to link to your website to count. The mention itself is the signal. Google crawls the web, sees your details in a lot of independent places, and uses that to confirm you are a real business operating where you say you are.\n\nPeople shorten the three details to name, address, phone. You will see it written as NAP in most guides. Same thing.\n\nWhy Google cares so much about consistency\n\nThink about how Google decides which three businesses to show in the map pack. It has to pick businesses it is confident about. Confidence comes from agreement between sources.\n\nWhen your details match across dozens of sites, Google gets a clean, repeated answer. There is one business, at one address, with one phone number. Easy call.\n\nWhen your details disagree, Google gets a messy answer. Is the suite number 200 or 210? Is the phone the local line or the 800 number? Is it Smith Plumbing or Smith Plumbing and Drain Services? Google does not guess in your favor. It just trusts you a little less, and that trust shows up in where you rank.\n\nThis matters more in a dense market. In Riverview, Valrico, and Wesley Chapel there are plenty of competitors targeting the same searches. Small trust differences decide who fills the three slots.\n\nThe old phone number problem\n\nHere is the one I see most in Tampa Bay.\n\nA business hires a marketing company. That company sets up a call tracking number and pushes it out to directories. Two years later the relationship ends. The tracking number stops working, but the listings never get cleaned up.\n\nNow there are directory pages showing a phone number that does not belong to you. Google sees conflicting data. Customers who find those pages call a dead line and move on to the next result. You never hear about the ones you lost.\n\nThe same thing happens with an address after a move, a business name after a rebrand, or a suite number that got dropped when someone typed the listing in a hurry.\n\nNone of it is dramatic. That is why it goes unnoticed for years.\n\nHow to audit your citations this week\n\nSet aside an hour. You can do all of this yourself.\n\nStep one: write your master version. Open your Google Business Profile. Copy your business name, address, and phone exactly as they appear there. That formatting is now your standard. Suite or Ste. Street or St. Pick one and never change it.\n\nStep two: find your mentions. Search your phone number in Google with quotation marks around it. Do the same for your business name plus your city. Write every result into a spreadsheet with the site name, the details listed, and whether they are right.\n\nStep three: fix the biggest sites first. Yelp, Apple Maps, Bing Places, and Facebook carry more weight than a random directory. Claim each listing and correct it to your master version.\n\nStep four: hunt duplicates. Two listings for the same business at the same address will split your signals. Merge or remove the extra one.\n\nStep five: keep the spreadsheet. Next time you change your number or move offices, you already know every place that needs updating.\n\nFAQ\n\nDo I need to pay a service to build citations?\nNo. You can create and correct the main ones yourself for free. Paid services save time, not results, and a service that dumps you onto hundreds of low quality directories does more harm than good.\n\nHow many citations do I need?\nThere is no magic number. Accuracy beats volume. A handful of clean listings on sites people actually use is worth more than piles of junk directory pages with mismatched details.\n\nHow fast do citation fixes show up in rankings?\nIt takes time. Directories update on their own schedules, and Google needs to recrawl them. Give it several weeks before judging the change.\n\nAre citations enough to reach the top three?\nUsually not on their own. Categories, reviews, service area setup, duplicate listings, and location signals on your website all matter too. Citations are one layer of a stack.\n\nGet a second set of eyes\n\nIf you fix your citations and still are not showing up, something else is holding you back. I will run a free Google audit on your business, look at your profile and your listings, and tell you plainly what I find. No pitch and no obligation.\n\nStart at https://epgads.net."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#MapPack",
-    "#TampaSmallBusiness",
+    "#TampaBusiness",
     "#BrandonFL",
+    "#MapPack",
     "#GoogleMaps",
-    "#GetFoundOnline",
-    "#TampaBay",
-    "#SEOTips"
+    "#SEOTips",
+    "#TampaSmallBusiness",
+    "#GetFoundOnline"
   ],
-  "topicId": "profile-before-website",
-  "hook": "Rank your Google profile before you spend a dollar on a website",
-  "themeId": "violet"
+  "topicId": "citations-explained",
+  "hook": "The free ranking factor most local businesses have never heard of: citations",
+  "themeId": "ocean"
 }

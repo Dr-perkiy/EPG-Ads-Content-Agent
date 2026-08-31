@@ -11,7 +11,13 @@
  * other than epgads.net are still blocked.
  */
 
-const ALLOWED_CAPS = new Set(['SEO', 'GBP', 'FAQ', 'DIY', 'USA', 'CTA', 'NAP', 'DM']);
+// Real abbreviations, not shouting. Anything outside this set that is written
+// in all caps triggers a stylistic regeneration, so keep legitimate business
+// and industry terms here or they waste a generation every time they appear.
+const ALLOWED_CAPS = new Set([
+  'SEO', 'GBP', 'FAQ', 'DIY', 'USA', 'CTA', 'NAP', 'DM',
+  'LLC', 'INC', 'LTD', 'HVAC', 'CEO', 'DBA', 'URL', 'API', 'PDF', 'HOA', 'ADA', 'FL',
+]);
 
 // Domains the content is allowed to reference (the brand site plus Google, since
 // every post is about Google). Anything else is treated as a stray link.
