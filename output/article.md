@@ -1,67 +1,76 @@
 # What Are Local Citations for SEO? A Plain Guide for Tampa and Brandon Businesses
 
-If you run a business in Tampa or Brandon and you are stuck below the top three on Google, there is a good chance nobody has ever mentioned citations to you. They are free, they are boring, and they move the needle.
+If you run a business in Tampa, Brandon, or anywhere around Tampa Bay and you are stuck below the top 3 on Google, there is a good chance nobody has ever checked your citations. It is one of the few ranking factors you can fix yourself, for free, in an afternoon.
+
+Here is the full explanation, plus the task to do today.
 
 What are local citations for SEO
 
-A citation is any place online where your business name, address, and phone number appear. That is it. Yelp, Apple Maps, Bing Places, Facebook, the Better Business Bureau, your local chamber page, industry directories, supplier pages, old press mentions.
+A citation is any place on the internet that mentions your business name, address, and phone number. That is it. No link required.
 
-A citation does not need to link to your website to count. The mention itself is the signal. Google crawls the web, sees your details in a lot of independent places, and uses that to confirm you are a real business operating where you say you are.
+Citations live in obvious places like Yelp, Apple Maps, Bing Places, Yellow Pages, and Facebook. They also live in places you forgot about: an industry directory you signed up for years ago, a chamber of commerce member page, a sponsor list for a Riverview youth league, a supplier's dealer locator, an old contractor lead site.
 
-People shorten the three details to name, address, phone. You will see it written as NAP in most guides. Same thing.
+Together these mentions form a record of your business across the web. Google reads that record.
 
-Why Google cares so much about consistency
+Why Google cares about your name, address, and phone
 
-Think about how Google decides which three businesses to show in the map pack. It has to pick businesses it is confident about. Confidence comes from agreement between sources.
+Google's job in the map pack is to send a searcher to a real business that is open, findable, and reachable. Before it puts you in the top 3, it wants confirmation that you are exactly who your Google Business Profile says you are.
 
-When your details match across dozens of sites, Google gets a clean, repeated answer. There is one business, at one address, with one phone number. Easy call.
+Citations are one of the ways it confirms that. When the same business name, the same street address, and the same phone number show up the same way across many independent sites, Google gains confidence. Confidence is what earns position.
 
-When your details disagree, Google gets a messy answer. Is the suite number 200 or 210? Is the phone the local line or the 800 number? Is it Smith Plumbing or Smith Plumbing and Drain Services? Google does not guess in your favor. It just trusts you a little less, and that trust shows up in where you rank.
-
-This matters more in a dense market. In Riverview, Valrico, and Wesley Chapel there are plenty of competitors targeting the same searches. Small trust differences decide who fills the three slots.
+When those details disagree, Google has to decide which version is correct. That uncertainty is a quiet drag on your ranking. You will not see an error message. You will just sit in position five while a competitor with tidier listings sits in position two.
 
 The old phone number problem
 
-Here is the one I see most in Tampa Bay.
+Almost every established business has a ghost listing somewhere.
 
-A business hires a marketing company. That company sets up a call tracking number and pushes it out to directories. Two years later the relationship ends. The tracking number stops working, but the listings never get cleaned up.
+You moved from one side of Brandon to the other. You dropped the suite number. You switched from a landline to a cell. You changed your business name from Smith Plumbing to Smith Plumbing and Air. The new details went on your website and your Google profile. The old details stayed frozen on a directory nobody has logged into in years.
 
-Now there are directory pages showing a phone number that does not belong to you. Google sees conflicting data. Customers who find those pages call a dead line and move on to the next result. You never hear about the ones you lost.
+That single stale listing does two things. It splits your identity in Google's eyes, and it sends real customers to a number that no longer rings. The second problem is worse than the ranking hit.
 
-The same thing happens with an address after a move, a business name after a rebrand, or a suite number that got dropped when someone typed the listing in a hurry.
+How to audit your citations today
 
-None of it is dramatic. That is why it goes unnoticed for years.
+This takes about an hour.
 
-How to audit your citations this week
+Step one: set your master version. Open your Google Business Profile and copy the exact business name, address, and phone number as they appear there. Suite number formatting, abbreviations, everything. That is your one version from now on. Do not vary it.
 
-Set aside an hour. You can do all of this yourself.
+Step two: find your mentions. Search your phone number in quotation marks on Google. Then search your business name plus your city. Then search your old phone number if you have one. Write down every site that appears.
 
-Step one: write your master version. Open your Google Business Profile. Copy your business name, address, and phone exactly as they appear there. That formatting is now your standard. Suite or Ste. Street or St. Pick one and never change it.
+Step three: sort the list. Mark each listing as correct, wrong, or duplicate.
 
-Step two: find your mentions. Search your phone number in Google with quotation marks around it. Do the same for your business name plus your city. Write every result into a spreadsheet with the site name, the details listed, and whether they are right.
+Step four: fix the wrong ones first. Claim the listing, update the details to your master version, and save. Start with the big ones: Yelp, Apple Maps, Bing Places, Facebook, Yellow Pages. Then work down your list.
 
-Step three: fix the biggest sites first. Yelp, Apple Maps, Bing Places, and Facebook carry more weight than a random directory. Claim each listing and correct it to your master version.
+Step five: kill duplicates. Two listings for the same location is worse than one. Most directories have a report duplicate option.
 
-Step four: hunt duplicates. Two listings for the same business at the same address will split your signals. Merge or remove the extra one.
+Step six: check back in ninety days. Some directories pull from data providers and revert. Recheck the important ones twice a year.
 
-Step five: keep the spreadsheet. Next time you change your number or move offices, you already know every place that needs updating.
+Where citations fit in the bigger picture
+
+Be realistic about what this does. Clean citations remove a drag. They do not, on their own, lift a profile that is weak in other ways.
+
+Categories, service area settings, review volume and how fast reviews come in, whether you reply to reviews, photos, and location content on your website all matter too. Citations are one item on a list of eight to ten things that decide who sits in the top 3 in Tampa.
+
+But it is the item almost nobody has touched, which is exactly why it is worth your afternoon.
 
 FAQ
 
 Do I need to pay a service to build citations?
-No. You can create and correct the main ones yourself for free. Paid services save time, not results, and a service that dumps you onto hundreds of low quality directories does more harm than good.
+No. You can claim and correct the main directories yourself for free. Paid services save time, they do not buy rankings.
 
 How many citations do I need?
-There is no magic number. Accuracy beats volume. A handful of clean listings on sites people actually use is worth more than piles of junk directory pages with mismatched details.
+There is no magic number. Accuracy across the major platforms beats volume on low quality directories every time.
 
-How fast do citation fixes show up in rankings?
-It takes time. Directories update on their own schedules, and Google needs to recrawl them. Give it several weeks before judging the change.
+Does the phone number have to match exactly?
+Yes, use one primary number everywhere. A tracking number on your website is fine, but keep your listings on the main line.
 
-Are citations enough to reach the top three?
-Usually not on their own. Categories, reviews, service area setup, duplicate listings, and location signals on your website all matter too. Citations are one layer of a stack.
+What if a directory will not let me edit?
+Claim the listing first, which usually requires a phone or postcard verification. If that fails, most sites have a suggest an edit or contact form.
 
-Get a second set of eyes
+Does a citation without a link still count?
+Yes. The mention of your name, address, and phone is the signal. A link is a bonus.
 
-If you fix your citations and still are not showing up, something else is holding you back. I will run a free Google audit on your business, look at your profile and your listings, and tell you plainly what I find. No pitch and no obligation.
+Get a free audit
 
-Start at https://epgads.net.
+If you would rather have someone check the whole picture, I will do it for free. I will look at your citations, your Google Business Profile setup, and what your top competitors in your area are doing differently, then tell you plainly what is holding you back. No obligation.
+
+Book your free Google audit at https://epgads.net. And if you decide to work with us: top 3 on Google within 90 days or your money back.

@@ -2,70 +2,70 @@
   "cover": {
     "eyebrow": "Local SEO basics",
     "headline": "The free ranking factor nobody told you about: *citations*",
-    "subhead": "Your name, address, and phone across the web either match, or they cost you rankings."
+    "subhead": "Your name, address, and phone are scattered across the web right now, and Google is reading all of it."
   },
   "context": {
     "eyebrow": "Why this matters",
-    "headline": "Google is *checking* your details right now",
+    "headline": "Google is *cross checking* your business right now",
     "paragraphs": [
-      "Every time Google sees your business listed somewhere, it compares those details to your Google Business Profile. Match after match builds confidence. Mismatch after mismatch builds doubt, and doubt keeps you out of the top three in Tampa and Brandon.",
-      "The good news: this one is free to fix. No ad budget, no new website. Just an afternoon of cleanup and a spreadsheet you keep for good."
+      "Before Google puts you in the top 3 for Tampa or Brandon searches, it wants proof you are a real, stable business. One way it checks is by comparing your details across directories, apps, and data providers. If those details disagree, Google gets less confident, and less confidence means a lower spot on the map.",
+      "The good news: cleaning this up costs nothing but time. Most owners in Riverview and Valrico have never audited their listings, so fixing yours is one of the cheapest ways to move up."
     ]
   },
   "points": [
     {
       "label": "What a citation actually is",
-      "title": "Any *mention* of your details",
-      "body": "A citation is your business name, address, and phone number listed anywhere online. Yelp, Apple Maps, Bing Places, Facebook, the Better Business Bureau, chamber pages, industry directories, even old vendor pages. You do not need a link for it to count. The mention itself is the signal.",
-      "action": "Search your phone number in Google, in quotes, and write down every site that shows up."
+      "title": "Every *mention* of your details",
+      "body": "A citation is any place online that lists your business name, address, and phone number. Think Yelp, Apple Maps, Bing Places, Yellow Pages, the Chamber of Commerce page, industry directories, even a sponsor list on a local sports team site. You do not need a link for it to count, just the details.",
+      "action": "Search your phone number in quotes on Google and write down every site that shows up."
     },
     {
-      "label": "Consistency builds trust",
-      "title": "Make every listing *match*",
-      "body": "Google wants proof you are a real business at a real address. It gets that proof when the same details repeat across independent sources. Pick one exact format for your name, suite number, street abbreviation, and phone, then use that format everywhere without changing it.",
-      "action": "Copy your name, address, and phone exactly as they appear on your Google profile into a note. That is your master version."
+      "label": "Why matching wins",
+      "title": "Google rewards *consistency*",
+      "body": "When the same name, address, and phone appear the same way in dozens of places, Google treats that as confirmation. When they differ, Google has to guess which version is right. Guessing costs you position, and in the map pack there are only three positions.",
+      "action": "Pick the exact name, address, and phone shown on your Google Business Profile and make that your one master version."
     },
     {
-      "label": "Old data quietly leaks",
-      "title": "One old number *hurts*",
-      "body": "A tracking number from an old marketing company, a suite you moved out of, a name you changed years ago: any of these can sit on a directory and contradict you. Google sees the conflict and softens how much it trusts your listing. Customers who call the dead number just leave.",
-      "action": "Claim or correct the three worst offenders you found today, starting with Yelp, Bing Places, and Apple Maps."
+      "label": "The quiet ranking leak",
+      "title": "One old number *hurts* you",
+      "body": "Most businesses have moved, changed a phone line, or dropped a suite number at some point. The old details usually stay live on a directory nobody remembers signing up for. That single stale listing splits your identity, and worse, a customer may call a number that no longer rings.",
+      "action": "Fix or claim the wrong listings first, starting with Yelp, Apple Maps, Bing Places, and Yellow Pages."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Clean citations move you up, but they are one layer. Most businesses stuck outside the top three have several other things pulling against them at the same time.",
+    "body": "Citations are one input. They help, but they will not carry a profile that is weak everywhere else. Fix them and you remove a drag on your ranking.",
     "done": [
-      "Found your mentions",
-      "Set one master format",
-      "Fixed the bad data"
+      "Found your citations",
+      "Locked one master version",
+      "Cleaned the old listings"
     ],
-    "locked": "Duplicate listings, category selection, review velocity, service area setup, on page location signals"
+    "locked": "Category setup, service area targeting, review pace and replies, photo signals, on page location content, competitor gap check"
   },
   "cta": {
-    "eyebrow": "Next step",
-    "headline": "Get a *free* Google audit",
-    "body": "I will check your citations, your profile, and what is keeping you out of the map pack, then tell you plainly what I find. Nothing to buy.",
+    "eyebrow": "Free audit",
+    "headline": "Want the *free* audit of your listings?",
+    "body": "I will look at your citations and the rest of your Google setup and tell you what is holding you back. No obligation, and you keep the notes either way.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "There is a free ranking factor most Tampa business owners have never heard of: citations.\n\n1. A citation is any mention of your business name, address, and phone online. Yelp, Apple Maps, Bing Places, Facebook, chamber and industry directories. No link needed.\n\n2. Google trusts the business whose details match everywhere. Same name, same suite, same phone, every single time.\n\n3. One old tracking number or a suite you moved out of can quietly contradict you. Google sees the conflict. Customers calling the dead line just give up.\n\nDo this today: search your phone number in quotes on Google, list every site that shows up, and fix the ones that are wrong.\n\nWant me to look at yours? Free Google audit at epgads.net.\n\nSave this so you can work through the list this week.",
-  "linkedinPost": "Citations are the free local ranking factor most business owners have never heard of.\n\nA citation is any mention of your business name, address, and phone across the web: Yelp, Apple Maps, Bing Places, directories, chamber pages. No link required for it to count.\n\nGoogle builds confidence when those details match your Google Business Profile everywhere it looks. It loses confidence when they do not.\n\nThe usual culprit is small: an old tracking number from a former marketing company, or a suite number you left behind. It sits there and contradicts you.\n\nSearch your phone number in quotes, list what comes up, and correct the wrong ones this week.\n\nIf you want a second set of eyes, I offer a free Google audit at https://epgads.net.",
+  "instagramCaption": "There is a free ranking factor most Tampa business owners have never heard of: citations.\n\n1. A citation is any mention of your business name, address, and phone online. Yelp, Apple Maps, Bing Places, directories, local sponsor pages.\n2. Google trusts a business whose details match everywhere. Matching details mean confidence, and confidence means a better map spot.\n3. One old phone number sitting on a directory you forgot about splits your identity and sends callers nowhere.\n\nDo this today: search your phone number in quotes on Google and list every site that comes back. Fix the ones that are wrong.\n\nWant a free audit of your listings and your Google profile? Head to epgads.net. Top 3 on Google within 90 days or your money back.\n\nSave this so you actually do the search later.",
+  "linkedinPost": "Citations are the free local ranking factor most business owners in Tampa and Brandon have never looked at.\n\nA citation is any online mention of your business name, address, and phone: Yelp, Apple Maps, Bing Places, chamber pages, industry directories.\n\nGoogle compares those mentions. When they match, it gains confidence in you. When one old phone number or a dropped suite number is still live somewhere, that confidence drops and so does your map position.\n\nStart here: search your phone number in quotes, list every site that appears, then correct anything that does not match your Google Business Profile exactly.\n\nWant a free audit of your listings and your full Google setup? epgads.net",
   "article": {
     "title": "What Are Local Citations for SEO? A Plain Guide for Tampa and Brandon Businesses",
-    "body": "If you run a business in Tampa or Brandon and you are stuck below the top three on Google, there is a good chance nobody has ever mentioned citations to you. They are free, they are boring, and they move the needle.\n\nWhat are local citations for SEO\n\nA citation is any place online where your business name, address, and phone number appear. That is it. Yelp, Apple Maps, Bing Places, Facebook, the Better Business Bureau, your local chamber page, industry directories, supplier pages, old press mentions.\n\nA citation does not need to link to your website to count. The mention itself is the signal. Google crawls the web, sees your details in a lot of independent places, and uses that to confirm you are a real business operating where you say you are.\n\nPeople shorten the three details to name, address, phone. You will see it written as NAP in most guides. Same thing.\n\nWhy Google cares so much about consistency\n\nThink about how Google decides which three businesses to show in the map pack. It has to pick businesses it is confident about. Confidence comes from agreement between sources.\n\nWhen your details match across dozens of sites, Google gets a clean, repeated answer. There is one business, at one address, with one phone number. Easy call.\n\nWhen your details disagree, Google gets a messy answer. Is the suite number 200 or 210? Is the phone the local line or the 800 number? Is it Smith Plumbing or Smith Plumbing and Drain Services? Google does not guess in your favor. It just trusts you a little less, and that trust shows up in where you rank.\n\nThis matters more in a dense market. In Riverview, Valrico, and Wesley Chapel there are plenty of competitors targeting the same searches. Small trust differences decide who fills the three slots.\n\nThe old phone number problem\n\nHere is the one I see most in Tampa Bay.\n\nA business hires a marketing company. That company sets up a call tracking number and pushes it out to directories. Two years later the relationship ends. The tracking number stops working, but the listings never get cleaned up.\n\nNow there are directory pages showing a phone number that does not belong to you. Google sees conflicting data. Customers who find those pages call a dead line and move on to the next result. You never hear about the ones you lost.\n\nThe same thing happens with an address after a move, a business name after a rebrand, or a suite number that got dropped when someone typed the listing in a hurry.\n\nNone of it is dramatic. That is why it goes unnoticed for years.\n\nHow to audit your citations this week\n\nSet aside an hour. You can do all of this yourself.\n\nStep one: write your master version. Open your Google Business Profile. Copy your business name, address, and phone exactly as they appear there. That formatting is now your standard. Suite or Ste. Street or St. Pick one and never change it.\n\nStep two: find your mentions. Search your phone number in Google with quotation marks around it. Do the same for your business name plus your city. Write every result into a spreadsheet with the site name, the details listed, and whether they are right.\n\nStep three: fix the biggest sites first. Yelp, Apple Maps, Bing Places, and Facebook carry more weight than a random directory. Claim each listing and correct it to your master version.\n\nStep four: hunt duplicates. Two listings for the same business at the same address will split your signals. Merge or remove the extra one.\n\nStep five: keep the spreadsheet. Next time you change your number or move offices, you already know every place that needs updating.\n\nFAQ\n\nDo I need to pay a service to build citations?\nNo. You can create and correct the main ones yourself for free. Paid services save time, not results, and a service that dumps you onto hundreds of low quality directories does more harm than good.\n\nHow many citations do I need?\nThere is no magic number. Accuracy beats volume. A handful of clean listings on sites people actually use is worth more than piles of junk directory pages with mismatched details.\n\nHow fast do citation fixes show up in rankings?\nIt takes time. Directories update on their own schedules, and Google needs to recrawl them. Give it several weeks before judging the change.\n\nAre citations enough to reach the top three?\nUsually not on their own. Categories, reviews, service area setup, duplicate listings, and location signals on your website all matter too. Citations are one layer of a stack.\n\nGet a second set of eyes\n\nIf you fix your citations and still are not showing up, something else is holding you back. I will run a free Google audit on your business, look at your profile and your listings, and tell you plainly what I find. No pitch and no obligation.\n\nStart at https://epgads.net."
+    "body": "If you run a business in Tampa, Brandon, or anywhere around Tampa Bay and you are stuck below the top 3 on Google, there is a good chance nobody has ever checked your citations. It is one of the few ranking factors you can fix yourself, for free, in an afternoon.\n\nHere is the full explanation, plus the task to do today.\n\nWhat are local citations for SEO\n\nA citation is any place on the internet that mentions your business name, address, and phone number. That is it. No link required.\n\nCitations live in obvious places like Yelp, Apple Maps, Bing Places, Yellow Pages, and Facebook. They also live in places you forgot about: an industry directory you signed up for years ago, a chamber of commerce member page, a sponsor list for a Riverview youth league, a supplier's dealer locator, an old contractor lead site.\n\nTogether these mentions form a record of your business across the web. Google reads that record.\n\nWhy Google cares about your name, address, and phone\n\nGoogle's job in the map pack is to send a searcher to a real business that is open, findable, and reachable. Before it puts you in the top 3, it wants confirmation that you are exactly who your Google Business Profile says you are.\n\nCitations are one of the ways it confirms that. When the same business name, the same street address, and the same phone number show up the same way across many independent sites, Google gains confidence. Confidence is what earns position.\n\nWhen those details disagree, Google has to decide which version is correct. That uncertainty is a quiet drag on your ranking. You will not see an error message. You will just sit in position five while a competitor with tidier listings sits in position two.\n\nThe old phone number problem\n\nAlmost every established business has a ghost listing somewhere.\n\nYou moved from one side of Brandon to the other. You dropped the suite number. You switched from a landline to a cell. You changed your business name from Smith Plumbing to Smith Plumbing and Air. The new details went on your website and your Google profile. The old details stayed frozen on a directory nobody has logged into in years.\n\nThat single stale listing does two things. It splits your identity in Google's eyes, and it sends real customers to a number that no longer rings. The second problem is worse than the ranking hit.\n\nHow to audit your citations today\n\nThis takes about an hour.\n\nStep one: set your master version. Open your Google Business Profile and copy the exact business name, address, and phone number as they appear there. Suite number formatting, abbreviations, everything. That is your one version from now on. Do not vary it.\n\nStep two: find your mentions. Search your phone number in quotation marks on Google. Then search your business name plus your city. Then search your old phone number if you have one. Write down every site that appears.\n\nStep three: sort the list. Mark each listing as correct, wrong, or duplicate.\n\nStep four: fix the wrong ones first. Claim the listing, update the details to your master version, and save. Start with the big ones: Yelp, Apple Maps, Bing Places, Facebook, Yellow Pages. Then work down your list.\n\nStep five: kill duplicates. Two listings for the same location is worse than one. Most directories have a report duplicate option.\n\nStep six: check back in ninety days. Some directories pull from data providers and revert. Recheck the important ones twice a year.\n\nWhere citations fit in the bigger picture\n\nBe realistic about what this does. Clean citations remove a drag. They do not, on their own, lift a profile that is weak in other ways.\n\nCategories, service area settings, review volume and how fast reviews come in, whether you reply to reviews, photos, and location content on your website all matter too. Citations are one item on a list of eight to ten things that decide who sits in the top 3 in Tampa.\n\nBut it is the item almost nobody has touched, which is exactly why it is worth your afternoon.\n\nFAQ\n\nDo I need to pay a service to build citations?\nNo. You can claim and correct the main directories yourself for free. Paid services save time, they do not buy rankings.\n\nHow many citations do I need?\nThere is no magic number. Accuracy across the major platforms beats volume on low quality directories every time.\n\nDoes the phone number have to match exactly?\nYes, use one primary number everywhere. A tracking number on your website is fine, but keep your listings on the main line.\n\nWhat if a directory will not let me edit?\nClaim the listing first, which usually requires a phone or postcard verification. If that fails, most sites have a suggest an edit or contact form.\n\nDoes a citation without a link still count?\nYes. The mention of your name, address, and phone is the signal. A link is a bonus.\n\nGet a free audit\n\nIf you would rather have someone check the whole picture, I will do it for free. I will look at your citations, your Google Business Profile setup, and what your top competitors in your area are doing differently, then tell you plainly what is holding you back. No obligation.\n\nBook your free Google audit at https://epgads.net. And if you decide to work with us: top 3 on Google within 90 days or your money back."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#TampaBusiness",
+    "#TampaSmallBusiness",
     "#BrandonFL",
     "#MapPack",
     "#GoogleMaps",
     "#SEOTips",
-    "#TampaSmallBusiness",
-    "#GetFoundOnline"
+    "#GetFoundOnline",
+    "#TampaBay"
   ],
   "topicId": "citations-explained",
   "hook": "The free ranking factor most local businesses have never heard of: citations",
