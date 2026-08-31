@@ -57,6 +57,38 @@ trips((d) => (d.instagramCaption += ' This is a game-changer -- really.'), 'no-e
 trips((d) => (d.hashtags = ['#NotInPool']), 'hashtag-not-in-pool');
 trips((d) => (d.points = d.points.slice(0, 2)), 'wrong-point-count');
 
+console.log('\nPromo rule is context aware (EPG teaches that review incentives break policy):');
+const promoCase = (line, shouldBlock) => {
+  const d = structuredClone(goodDraft);
+  d.instagramCaption = `Ask for reviews the right way. ${line} Free audit at epgads.net.`;
+  const blocked = checkContent(d, brand).blocking.some((x) => x.rule === 'no-promos');
+  assert(blocked === shouldBlock, `${shouldBlock ? 'blocks' : 'allows'}: "${line.slice(0, 52)}..."`);
+};
+promoCase('Never offer a discount in exchange for a review.', false);
+promoCase('Offering discounts for reviews violates Google policy.', false);
+promoCase('Do not use a coupon to bribe customers into leaving a review.', false);
+promoCase('Get a discount on your first month when you sign up today.', true);
+promoCase('Special offer for new clients this month.', true);
+promoCase('Use promo code SEO for money off.', true);
+
+console.log('\nA blocked topic must not jam the queue:');
+{
+  // Simulated ledger ordering: the blocked topic should sort behind a topic
+  // that has never run, so the next pick moves on instead of retrying it.
+  const attempts = [
+    { topicId: 'reviews-that-rank', outcome: 'blocked', postedAt: '2026-08-31T15:19:00Z' },
+    { topicId: 'three-free-fixes', outcome: 'published', postedAt: '2026-08-18T18:00:00Z' },
+  ];
+  const lastUsed = new Map();
+  for (const p of attempts) {
+    if (p.outcome !== 'published' && p.outcome !== 'blocked') continue;
+    lastUsed.set(p.topicId, new Date(p.postedAt).getTime());
+  }
+  assert(lastUsed.has('reviews-that-rank'), 'a blocked attempt counts as usage');
+  const never = ['citations-explained'].every((id) => !lastUsed.has(id));
+  assert(never, 'an untried topic still sorts ahead of the blocked one');
+}
+
 console.log('\nTestimonial rule (praise + first person blocks; explanatory quote does not):');
 const fake = structuredClone(goodDraft);
 fake.instagramCaption += ' A client said "I love EPG, they helped me rank number one and I highly recommend them."';

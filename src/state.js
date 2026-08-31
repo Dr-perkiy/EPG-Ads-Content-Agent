@@ -37,9 +37,15 @@ export function pickNextTopic() {
   const active = topics.filter((t) => !t.paused);
   if (!active.length) throw new Error('No active topics in content-calendar.json (all paused?).');
 
-  const lastUsed = new Map(); // topicId -> timestamp of last published post
+  // Count blocked attempts as usage, not just successful posts. Otherwise a
+  // topic whose copy trips a guardrail stays at the front of the queue and
+  // every later run picks it again, jamming the whole schedule on one bad
+  // topic. Treating it as used sends it to the back, so the next run moves on
+  // and the topic gets a fresh attempt when it comes around again.
+  const lastUsed = new Map(); // topicId -> timestamp of last attempt
   for (const p of loadLedger().posts) {
-    if (p.outcome !== 'published' || !p.topicId) continue;
+    if (!p.topicId) continue;
+    if (p.outcome !== 'published' && p.outcome !== 'blocked') continue;
     const t = new Date(p.postedAt).getTime();
     if (!lastUsed.has(p.topicId) || t > lastUsed.get(p.topicId)) lastUsed.set(p.topicId, t);
   }

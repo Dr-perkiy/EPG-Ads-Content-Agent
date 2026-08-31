@@ -60,8 +60,19 @@ export function checkContent(draft, brand) {
     block('no-pricing', 'Contains a dollar amount. Drive to the free audit instead.');
   }
   if (!claims.discountsOrPromos) {
-    const promo = all.match(/(\bpercent off\b|\bdiscount(s|ed)?\b|\bcoupon\b|\bpromo code\b|\bsale price\b|\bact now\b|\bspecial offer\b|\bsave big\b)/i);
-    if (promo) block('no-promos', `Contains promotional claim: "${promo[0]}"`);
+    // Context matters here. EPG teaches that offering discounts for reviews
+    // breaks Google's policy, so the word "discount" shows up legitimately in
+    // warnings. Only block when the sentence reads as EPG making the offer,
+    // not when it tells the reader NOT to.
+    const PROMO = /(\bpercent off\b|\bdiscount(s|ed)?\b|\bcoupons?\b|\bpromo code\b|\bsale price\b|\bact now\b|\bspecial offers?\b|\bsave big\b)/i;
+    const PROHIBITION = /\b(never|do not|don'?t|avoid|without|instead of|not allowed|against (google'?s? )?(policy|policies|guidelines|terms)|violat\w+|prohibit\w+|forbid\w+|banned|risk\w*|penalt\w+|suspend\w+|cannot|can'?t|illegal|stop|refrain|no need to|does not require|bribe\w*)\b/i;
+    for (const sentence of all.split(/(?<=[.!?])\s+|\n+/)) {
+      const hit = sentence.match(PROMO);
+      if (hit && !PROHIBITION.test(sentence)) {
+        block('no-promos', `Reads as EPG offering a promotion: "${sentence.trim().slice(0, 90)}"`);
+        break;
+      }
+    }
   }
   if (!claims.financing) {
     const fin = all.match(/\b(financing|no interest|apr|monthly payments|0 down)\b/i);
