@@ -178,6 +178,15 @@
       "violations": [
         "[block] no-promos: Contains promotional claim: \"discounts\""
       ]
+    },
+    {
+      "topicId": "reviews-that-rank",
+      "hook": "The right way to ask for reviews so they actually help your ranking",
+      "outcome": "blocked",
+      "postedAt": "2026-08-31T15:19:37.043Z",
+      "violations": [
+        "[block] no-promos: Contains promotional claim: \"Discounts\""
+      ]
     }
   ]
 }
