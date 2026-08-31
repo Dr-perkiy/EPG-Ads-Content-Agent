@@ -187,6 +187,21 @@
       "violations": [
         "[block] no-promos: Contains promotional claim: \"Discounts\""
       ]
+    },
+    {
+      "topicId": "citations-explained",
+      "themeId": "ocean",
+      "hook": "The free ranking factor most local businesses have never heard of: citations",
+      "outcome": "published",
+      "postedAt": "2026-08-31T18:29:45.580Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/Dctu3vjDugf/",
+        "https://facebook.com/1321161914409792_122105518155449137"
+      ]
     }
   ]
 }
