@@ -160,6 +160,15 @@
         "https://www.instagram.com/p/DcmXzMBmTQq/",
         "https://facebook.com/1321161914409792_122104622403449137"
       ]
+    },
+    {
+      "topicId": "reviews-that-rank",
+      "hook": "The right way to ask for reviews so they actually help your ranking",
+      "outcome": "blocked",
+      "postedAt": "2026-08-31T13:19:29.956Z",
+      "violations": [
+        "[block] no-promos: Contains promotional claim: \"discount\""
+      ]
     }
   ]
 }
