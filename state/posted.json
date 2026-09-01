@@ -202,6 +202,25 @@
         "https://www.instagram.com/p/Dctu3vjDugf/",
         "https://facebook.com/1321161914409792_122105518155449137"
       ]
+    },
+    {
+      "topicId": "reply-to-reviews",
+      "themeId": "slate",
+      "hook": "Replying to reviews is a ranking factor most owners skip",
+      "outcome": "published",
+      "postedAt": "2026-09-01T13:27:08.616Z",
+      "platforms": [
+        "facebook"
+      ],
+      "urls": [
+        "https://facebook.com/1321161914409792_122105738457449137"
+      ],
+      "errors": [
+        {
+          "platform": "instagram",
+          "error": "Meta Graph API 403: Application request limit reached (code 4/2207051)"
+        }
+      ]
     }
   ]
 }
