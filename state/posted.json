@@ -221,6 +221,25 @@
           "error": "Meta Graph API 403: Application request limit reached (code 4/2207051)"
         }
       ]
+    },
+    {
+      "topicId": "photos-that-rank",
+      "themeId": "midnight",
+      "hook": "The photos on your Google profile are doing more than you think",
+      "outcome": "published",
+      "postedAt": "2026-09-01T22:27:32.203Z",
+      "platforms": [
+        "facebook"
+      ],
+      "urls": [
+        "https://facebook.com/1321161914409792_122105843529449137"
+      ],
+      "errors": [
+        {
+          "platform": "instagram",
+          "error": "Meta Graph API 403: Application request limit reached (code 4/2207051)"
+        }
+      ]
     }
   ]
 }
