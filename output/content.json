@@ -1,73 +1,73 @@
 {
   "cover": {
-    "eyebrow": "Google Business Profile habit",
-    "headline": "Your review replies are a *ranking* signal too",
-    "subhead": "Google reads what you write back, and so does the customer deciding between you and the shop down the road."
+    "eyebrow": "Google Business Profile",
+    "headline": "Your profile photos are a *ranking* signal too",
+    "subhead": "One logo and nothing else tells Google your business went quiet."
   },
   "context": {
     "eyebrow": "Why this matters",
-    "headline": "Silence under your reviews costs you *twice*",
+    "headline": "An empty photo tab looks like a *closed* business",
     "paragraphs": [
-      "Most Tampa and Brandon owners collect reviews and stop there. The stars go up, the review section stays quiet. Google sees a profile nobody tends, and shoppers see an owner who does not answer.",
-      "The good news: this is free and it takes minutes. Replies add fresh text and real service words to your profile, and they close readers who are still deciding. You can catch up on months of missed replies in one sitting."
+      "Most Tampa and Brandon profiles I open have a logo, maybe a stock photo someone bought years ago, and nothing since. Google reads that the same way a customer does: this place may not be operating anymore.",
+      "The good news is photos are the easiest thing on your profile to fix. You already have them on your phone. Twenty minutes of uploading puts you ahead of nearly all your competitors in the map pack."
     ]
   },
   "points": [
     {
-      "label": "Speed and consistency",
-      "title": "Answer *every* review, fast",
-      "body": "Reply to all of them, five star and one star, within a few days. Google looks at whether a profile is actively managed, and a reply also puts a fresh date stamp on that listing. A short two line thank you counts.",
-      "action": "Open your profile today and reply to every review from the last ninety days, oldest first."
+      "label": "Real work beats stock",
+      "title": "Post *real* job photos",
+      "body": "Stock images do nothing for you. Google can tell a purchased photo from one shot on a phone in Riverview, and so can the person deciding who to call. Real photos carry location data, real backgrounds, and real detail.",
+      "action": "Pull ten photos off your phone from recent jobs and upload them today."
     },
     {
-      "label": "Wording inside replies",
-      "title": "Name the *service* and city",
-      "body": "Write like a person, but mention what you actually did and where. Thanks for having us out for the AC tune up in Valrico reads naturally and tells Google what you do. Do not paste the same keyword line under every review, because it reads like spam to people and adds nothing.",
-      "action": "Write three different reply templates that each name one real service and one city you serve."
+      "label": "Freshness signals activity",
+      "title": "Add new photos *every* month",
+      "body": "A profile that gets new images monthly looks active. A profile frozen since 2021 looks abandoned. Google favors profiles that keep moving, and steady uploads also keep giving customers a reason to scroll.",
+      "action": "Set a phone reminder for the first Monday of each month to upload three photos."
     },
     {
-      "label": "Handling the bad ones",
-      "title": "A calm reply *outsells* perfection",
-      "body": "Nobody trusts a wall of flawless ratings. Buyers scroll straight to the worst review to see how you behave. Own the part you got wrong, state the fix in one sentence, and invite them to call you. That reply sells to every future reader, not just the one complaining.",
-      "action": "Find your worst review and rewrite your response: no defense, no blame, one clear next step."
+      "label": "Cover every category",
+      "title": "Fill all *four* photo types",
+      "body": "Google gives you slots for exterior, interior, team, and work, and most owners fill one. Shoot the front of your building so people can find the door, the inside so they know what to expect, your crew so you look like humans, and finished jobs so they trust the result.",
+      "action": "Take one photo in each of the four categories this week and upload them."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Replies help, but they are one input. If your profile is losing to the same three competitors every week, something else is holding it down.",
+    "body": "Photos help, but they are one piece. If your categories, service areas, or citations are wrong, better photos will not move you into the top 3 on their own.",
     "done": [
-      "Reply to all, fast",
-      "Service and city named",
-      "Calm reply to bad review"
+      "Real job photos",
+      "Monthly uploads",
+      "All four types"
     ],
-    "locked": "Category setup, service area accuracy, citation consistency, photo cadence, review velocity, on page location signals"
+    "locked": "Primary category, service area setup, citation consistency, review velocity, landing page match"
   },
   "cta": {
     "eyebrow": "Next step",
     "headline": "Get a *free* Google audit of your profile",
-    "body": "I will look at your profile, your reviews, and the businesses beating you in the map pack, then tell you plainly what to fix. No obligation.",
+    "body": "I will look at your profile and tell you what is holding your ranking back, in plain language. No pitch, no obligation.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "Your review replies are a ranking signal, and most owners skip them.\n\n1. Reply to every review, good and bad, within a few days. Google favors profiles that are actually managed, and each reply refreshes your listing.\n\n2. Mention the service and the city naturally. Thanks for trusting us with the drain repair in Brandon works. The same keyword line pasted twenty times does not.\n\n3. Answer bad reviews calmly. Own your part, give the fix in one sentence, invite a call. Buyers read that reply and decide you are safe to hire. A calm reply beats a flawless rating every time.\n\nWant to know what else is holding your profile back? Grab a free Google audit at epgads.net.\n\nSave this and knock out your replies this week.",
-  "linkedinPost": "Replying to Google reviews is a ranking habit, not a courtesy.\n\nReply to every review within a few days. Google rewards profiles that are actively managed.\n\nName the service and the city naturally in the reply. Never paste the same keyword line under each one.\n\nAnswer negative reviews calmly: own your part, state the fix, invite a call. That single reply converts every future reader.\n\nIf you are still outside the top 3 in Tampa or Brandon, book a free Google audit at epgads.net and I will show you what is actually holding the profile down.",
+  "instagramCaption": "If your Google profile has one logo and nothing else, Google thinks you might be closed.\n\nThree fixes you can do today:\n\n1. Upload real job photos, not stock. Google and customers can both tell the difference.\n2. Add new photos every month. Fresh uploads make the profile look active instead of abandoned.\n3. Cover all four types: exterior, interior, team, and finished work. Most owners only ever post one.\n\nThat is three of the eight to ten things that decide who lands in the top 3. Want to know which ones you are missing? Book a free Google audit at epgads.net.\n\nSave this and go check your photo tab.",
+  "linkedinPost": "Most local profiles I review in Tampa and Brandon have one photo: the logo.\n\nThree things that change that fast:\n1. Upload real photos from real jobs. Stock images add nothing.\n2. Add new photos monthly so the profile reads as active, not abandoned.\n3. Cover exterior, interior, team, and finished work, not just one category.\n\nPhotos are one signal out of eight to ten that decide the map pack, but they are the easiest one to fix this week.\n\nWant the full picture on your profile? Book a free Google audit at epgads.net.",
   "article": {
-    "title": "Should You Reply to Google Reviews? A Tampa and Brandon Owner's Guide",
-    "body": "Should you reply to Google reviews? Yes, all of them, and sooner than you think. It is one of the few ranking habits that is free, takes minutes, and pays off twice: once with Google, once with the customer reading your profile at ten at night deciding who to call in the morning.\n\nI see the same pattern across Tampa, Brandon, Riverview and Valrico. The business has decent reviews. Nobody has replied to any of them since last year. Meanwhile the competitor sitting in the top 3 answers every single one.\n\nWhy Google cares about replies\n\nGoogle wants to send searchers to businesses that are open, active, and paying attention. Your review section is one of the clearest signals of that. A profile with fresh owner responses looks managed. A profile with a wall of unanswered reviews looks abandoned.\n\nThere is a content angle too. Every reply you write is new text attached to your listing, written by you, containing the words you actually want to rank for. Reviews say what customers experienced. Replies let you say what you do and where you do it.\n\nFix 1: Reply to every review within a few days\n\nDo not filter by star rating. Reply to the five star ones, the three star ones, and the angry ones. Consistency is the signal. A profile where the owner answers everything within a few days reads very differently from one where only the complaints get a response.\n\nShort is fine. Two or three sentences. Thank them, name what you did, invite them back. You do not need to be clever.\n\nIf you are behind, block out thirty minutes and work backwards from the newest review. Catching up on a year of silence in one sitting is normal and it will not hurt you.\n\nFix 2: Use the service and the city naturally\n\nThis is where most owners either do nothing or overdo it. The right move sits in the middle.\n\nGood: Thanks Maria, glad the AC tune up in Valrico went smoothly. Call us any time before summer hits.\n\nBad: Thanks for choosing us for AC repair Tampa, AC repair Brandon, AC repair Riverview, best HVAC near me.\n\nThe first one reads like a human wrote it and still tells Google your service and your service area. The second one reads like spam, and shoppers notice it before Google does. Write for the person, and let the keywords land naturally because you are describing real work.\n\nA simple habit: in each reply, mention one specific job and one specific place. Rotate them. Over a year you build a review section full of your services across the whole Tampa Bay area, in plain English.\n\nFix 3: A calm reply to a bad review sells better than a perfect rating\n\nNobody believes a business with nothing but glowing reviews. Buyers know how that happens. So they do what you do when you shop: they sort to the worst review and read your response.\n\nThat response is your real sales page. If you argue, blame the customer, or write a wall of defense, you lose every reader who was on the fence. If you stay calm, own the part you got wrong, state the fix in one sentence, and give them a way to reach you directly, you win most of them back.\n\nA structure that works every time:\n\nAcknowledge what happened. Apologise for the specific thing, not in general. Say what you changed or what you are willing to do. Invite them to contact you.\n\nKeep it under five sentences. Never mention private details. Never repeat the accusation.\n\nThe odd truth is that a well handled one star review can bring in more calls than another five star review would have. It proves you are still there when something goes wrong.\n\nWhat replies will not fix\n\nReplying is one input. If your category is wrong, your service area is set up badly, your name and address are inconsistent across the web, or you have no photos from the last several months, replies alone will not move you into the top 3. There are usually eight to ten things holding a local profile down and this is one of them.\n\nFAQ\n\nHow fast should I reply?\nWithin a few days. Same week is fine. Consistency matters more than speed.\n\nShould I reply to reviews with no text, just stars?\nYes. A one line thank you is enough.\n\nCan I ask a customer to remove a bad review?\nNot in the public reply. Handle it offline. Ask calmly, and only after you have fixed the problem.\n\nDo replies help me rank on their own?\nThey contribute. They keep the profile active and add relevant text. They work alongside your categories, citations, photos, and review volume.\n\nCan I use the same reply for everyone?\nNo. Duplicate replies look automated and add nothing new to your listing.\n\nNot sure why you are still outside the top 3?\n\nI will run a free Google audit of your profile, look at your reviews and the businesses ranking above you, and tell you plainly what to fix. Book it at https://epgads.net. And if we work together, you are in the top 3 on Google within 90 days or you get your money back."
+    "title": "Do Photos Help Google Business Profile Ranking? A Tampa and Brandon Owner's Guide",
+    "body": "Do photos help Google Business Profile ranking?\n\nShort answer: yes, indirectly and directly. Photos are not a magic switch that lifts you into the top 3 by themselves. But they feed two things Google cares about: how active your profile looks and how people behave when they land on it. When someone opens your listing, scrolls through recent photos of your work, and then taps to call, that is a signal. When they open your listing, see one blurry logo from 2019, and go back to the results to pick someone else, that is also a signal.\n\nI open Google Business Profiles for businesses across Tampa, Brandon, Riverview, and Valrico every week. The pattern is the same. The photo tab is either empty or it holds a logo and a stock photo somebody bought when the website was built. Meanwhile the business ranking above them has forty photos, most of them taken on a phone.\n\nWhy an empty photo tab hurts you\n\nGoogle's job is to send people to businesses that are open and operating. It looks for proof. Reviews arriving. Posts going up. Photos being added. A profile with no new activity for two years looks like a business that might not answer the phone.\n\nCustomers read it the same way. Before someone calls a contractor, a dentist, or a shop they have never used, they scroll the photos. They are checking whether you are real. No photos means no proof, and they move on to the next result.\n\nFix 1: Upload real job photos, not stock images\n\nStock photography does nothing for your ranking and very little for your credibility. A generic photo of a smiling person in a hard hat is invisible. People skip it.\n\nPhotos taken on your phone at an actual job in Wesley Chapel or Plant City look like your business. They show your truck, your tools, your finished work, and the kind of homes and buildings your customers recognise. That recognition is what turns a scroll into a call.\n\nPractical version: go into your camera roll right now. Find ten photos from recent jobs. Upload them. That single step puts you ahead of most competitors in your category.\n\nFix 2: Add new photos every month\n\nFreshness matters. A profile that receives new images every month reads as active. A profile that has not changed since the day it was verified reads as dormant.\n\nYou do not need a photographer or a content calendar. Three photos a month is enough. Before, during, after. A new team member. A delivery. A finished install. Anything that is genuinely from your business.\n\nSet a recurring reminder on your phone for the first Monday of the month. Open the Google app, tap your profile, add photos, done in five minutes. Consistency beats volume here. A steady trickle of new images looks more alive than one dump of eighty photos followed by silence.\n\nFix 3: Cover the four basics\n\nGoogle gives you distinct photo categories, and most owners fill exactly one. Cover all four:\n\nExterior. Shots of your building, your signage, your parking entrance. This helps people physically find you, and it helps Google associate your business with a real location.\n\nInterior. What the space looks like when someone walks in. Waiting area, shop floor, service counter. If you are mobile only, show your vehicle and equipment instead.\n\nTeam. Faces. People hire people. A crew photo does more for trust than another shot of a logo.\n\nFinished work. This is the one that converts. Before and after images of completed jobs answer the only question the customer actually has: can you do this well?\n\nA few practical rules\n\nShoot in daylight where you can. Hold the phone steady. Do not add heavy text overlays or watermarks across the image. Do not upload the same photo twice. Do not upload anything you do not own the rights to.\n\nAnd do not obsess over perfection. An honest phone photo of real work outperforms a polished stock image every time.\n\nFAQ\n\nHow many photos should my Google Business Profile have?\nThere is no fixed number. Aim to be at least in the same range as the businesses ranking above you in your category, then keep adding monthly.\n\nDo photos alone get me into the top 3?\nNo. Photos are one of roughly eight to ten factors. Your primary category, service area setup, citation consistency, reviews, and the page you send traffic to all matter too.\n\nDoes it matter who uploads the photos, me or a customer?\nBoth help. Customer photos add credibility you cannot create yourself. Keep adding your own regardless.\n\nShould I geotag my photos?\nIt does not hurt, but it is not the lever people claim it is. Spend your energy on posting real, recent images consistently.\n\nNext step\n\nPhotos are the easiest part of your profile to fix, and most local businesses in Tampa Bay still have not done it. Start there this week.\n\nIf you want to know which of the other factors are actually holding your ranking back, book a free Google audit at https://epgads.net. I will look at your profile and tell you plainly what is missing. No pitch, no obligation."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#TampaSmallBusiness",
+    "#TampaBusiness",
     "#BrandonFL",
     "#MapPack",
-    "#GoogleRanking",
+    "#GoogleMaps",
     "#SEOTips",
     "#TampaBay",
-    "#LocalBusiness"
+    "#GetFoundOnline"
   ],
-  "topicId": "reply-to-reviews",
-  "hook": "Replying to reviews is a ranking factor most owners skip",
-  "themeId": "slate"
+  "topicId": "photos-that-rank",
+  "hook": "The photos on your Google profile are doing more than you think",
+  "themeId": "midnight"
 }
