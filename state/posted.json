@@ -250,6 +250,21 @@
         "[block] no-promos: Reads as EPG offering a promotion: \"Sales language, discount codes and calls to action like call now are also off limits.\"",
         "[block] no-awards: Contains an award or ranking claim about EPG: \"voted\""
       ]
+    },
+    {
+      "topicId": "service-area-setup",
+      "themeId": "paper",
+      "hook": "Setting your service area wrong is quietly capping your reach",
+      "outcome": "published",
+      "postedAt": "2026-09-02T21:28:08.600Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DczM4gWH84y/",
+        "https://facebook.com/1321161914409792_122106200463449137"
+      ]
     }
   ]
 }
