@@ -1,73 +1,72 @@
 {
   "cover": {
-    "eyebrow": "Google Business Profile",
-    "headline": "Your profile photos are a *ranking* signal too",
-    "subhead": "One logo and nothing else tells Google your business went quiet."
+    "eyebrow": "Service area settings",
+    "headline": "Your service area is *capping* your reach",
+    "subhead": "Most service businesses in Tampa set this field wrong, then wonder why the map pack ignores them."
   },
   "context": {
-    "eyebrow": "Why this matters",
-    "headline": "An empty photo tab looks like a *closed* business",
+    "eyebrow": "Why it matters",
+    "headline": "Google reads your service area as a *relevance* signal",
     "paragraphs": [
-      "Most Tampa and Brandon profiles I open have a logo, maybe a stock photo someone bought years ago, and nothing since. Google reads that the same way a customer does: this place may not be operating anymore.",
-      "The good news is photos are the easiest thing on your profile to fix. You already have them on your phone. Twenty minutes of uploading puts you ahead of nearly all your competitors in the map pack."
+      "If you are a plumber, mobile detailer, roofer, cleaner, or anyone who drives to the customer, your service area tells Google where you claim to belong. Owners either list one zip code and disappear from every neighboring town, or list all of Florida and get treated as generic.",
+      "The fix takes about ten minutes and costs nothing. Here are the three settings that actually move you."
     ]
   },
   "points": [
     {
-      "label": "Real work beats stock",
-      "title": "Post *real* job photos",
-      "body": "Stock images do nothing for you. Google can tell a purchased photo from one shot on a phone in Riverview, and so can the person deciding who to call. Real photos carry location data, real backgrounds, and real detail.",
-      "action": "Pull ten photos off your phone from recent jobs and upload them today."
+      "label": "Name the real cities",
+      "title": "List cities you *actually* serve",
+      "body": "Open your profile, go to service area, and add the specific cities and zip codes you drive to every week. Brandon, Riverview, Valrico, Wesley Chapel, whatever is on your real route sheet. Do not add the whole state or a region you would turn down.",
+      "action": "Write down the last ten jobs you ran and add only those cities."
     },
     {
-      "label": "Freshness signals activity",
-      "title": "Add new photos *every* month",
-      "body": "A profile that gets new images monthly looks active. A profile frozen since 2021 looks abandoned. Google favors profiles that keep moving, and steady uploads also keep giving customers a reason to scroll.",
-      "action": "Set a phone reminder for the first Monday of each month to upload three photos."
+      "label": "Radius is not reach",
+      "title": "A wide radius *dilutes* every city",
+      "body": "Google does not reward you for claiming more ground. When you cover a huge area, your relevance thins out across all of it, so you rank a little worse in the towns you count on. Tight and honest beats wide and hopeful.",
+      "action": "Cut your service area to roughly a one hour drive and remove the outliers."
     },
     {
-      "label": "Cover every category",
-      "title": "Fill all *four* photo types",
-      "body": "Google gives you slots for exterior, interior, team, and work, and most owners fill one. Shoot the front of your building so people can find the door, the inside so they know what to expect, your crew so you look like humans, and finished jobs so they trust the result.",
-      "action": "Take one photo in each of the four categories this week and upload them."
+      "label": "Address visibility rule",
+      "title": "Hide your address only when *nobody* visits",
+      "body": "If customers ever come to your shop, showroom, or office, keep the address public. Hiding it throws away a strong proximity signal. Hide it only when you are fully mobile or working out of your house, because an unstaffed address can get your profile suspended.",
+      "action": "Decide today: customers visit, keep the address. They never do, hide it."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Photos help, but they are one piece. If your categories, service areas, or citations are wrong, better photos will not move you into the top 3 on their own.",
+    "body": "Service area is one lever. It works best when the rest of the profile is pulling in the same direction.",
     "done": [
-      "Real job photos",
-      "Monthly uploads",
-      "All four types"
+      "Real cities listed",
+      "Radius tightened",
+      "Address handled"
     ],
-    "locked": "Primary category, service area setup, citation consistency, review velocity, landing page match"
+    "locked": "Primary category, service list, city landing pages, citation consistency, review pace, photo geo signals"
   },
   "cta": {
-    "eyebrow": "Next step",
+    "eyebrow": "Free audit",
     "headline": "Get a *free* Google audit of your profile",
-    "body": "I will look at your profile and tell you what is holding your ranking back, in plain language. No pitch, no obligation.",
+    "body": "I will look at your service area, categories, and what is holding your ranking back, then tell you plainly what to fix. No obligation.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "If your Google profile has one logo and nothing else, Google thinks you might be closed.\n\nThree fixes you can do today:\n\n1. Upload real job photos, not stock. Google and customers can both tell the difference.\n2. Add new photos every month. Fresh uploads make the profile look active instead of abandoned.\n3. Cover all four types: exterior, interior, team, and finished work. Most owners only ever post one.\n\nThat is three of the eight to ten things that decide who lands in the top 3. Want to know which ones you are missing? Book a free Google audit at epgads.net.\n\nSave this and go check your photo tab.",
-  "linkedinPost": "Most local profiles I review in Tampa and Brandon have one photo: the logo.\n\nThree things that change that fast:\n1. Upload real photos from real jobs. Stock images add nothing.\n2. Add new photos monthly so the profile reads as active, not abandoned.\n3. Cover exterior, interior, team, and finished work, not just one category.\n\nPhotos are one signal out of eight to ten that decide the map pack, but they are the easiest one to fix this week.\n\nWant the full picture on your profile? Book a free Google audit at epgads.net.",
+  "instagramCaption": "Your service area setting is probably costing you calls in the towns you care about most.\n\n1. List the cities you truly serve. Brandon, Riverview, Valrico, not all of Florida.\n2. Too wide a radius thins your relevance in every single city.\n3. Hide your address only if customers never come to you. Otherwise keep it public.\n\nWant a second set of eyes? I do a free Google audit at epgads.net and tell you exactly what is capping your reach.\n\nSave this before your next profile edit.",
+  "linkedinPost": "Service area businesses get this setting backwards more than any other field on a Google Business Profile.\n\nList the cities you genuinely serve, not an entire state you would never drive to.\n\nA wide radius does not expand reach. It spreads your relevance thin, so you slip in the towns that actually pay the bills.\n\nHide your address only if customers never visit you. If they do, a public address is a proximity signal worth keeping.\n\nFree Google audit at epgads.net if you want to know what else is holding your ranking back.",
   "article": {
-    "title": "Do Photos Help Google Business Profile Ranking? A Tampa and Brandon Owner's Guide",
-    "body": "Do photos help Google Business Profile ranking?\n\nShort answer: yes, indirectly and directly. Photos are not a magic switch that lifts you into the top 3 by themselves. But they feed two things Google cares about: how active your profile looks and how people behave when they land on it. When someone opens your listing, scrolls through recent photos of your work, and then taps to call, that is a signal. When they open your listing, see one blurry logo from 2019, and go back to the results to pick someone else, that is also a signal.\n\nI open Google Business Profiles for businesses across Tampa, Brandon, Riverview, and Valrico every week. The pattern is the same. The photo tab is either empty or it holds a logo and a stock photo somebody bought when the website was built. Meanwhile the business ranking above them has forty photos, most of them taken on a phone.\n\nWhy an empty photo tab hurts you\n\nGoogle's job is to send people to businesses that are open and operating. It looks for proof. Reviews arriving. Posts going up. Photos being added. A profile with no new activity for two years looks like a business that might not answer the phone.\n\nCustomers read it the same way. Before someone calls a contractor, a dentist, or a shop they have never used, they scroll the photos. They are checking whether you are real. No photos means no proof, and they move on to the next result.\n\nFix 1: Upload real job photos, not stock images\n\nStock photography does nothing for your ranking and very little for your credibility. A generic photo of a smiling person in a hard hat is invisible. People skip it.\n\nPhotos taken on your phone at an actual job in Wesley Chapel or Plant City look like your business. They show your truck, your tools, your finished work, and the kind of homes and buildings your customers recognise. That recognition is what turns a scroll into a call.\n\nPractical version: go into your camera roll right now. Find ten photos from recent jobs. Upload them. That single step puts you ahead of most competitors in your category.\n\nFix 2: Add new photos every month\n\nFreshness matters. A profile that receives new images every month reads as active. A profile that has not changed since the day it was verified reads as dormant.\n\nYou do not need a photographer or a content calendar. Three photos a month is enough. Before, during, after. A new team member. A delivery. A finished install. Anything that is genuinely from your business.\n\nSet a recurring reminder on your phone for the first Monday of the month. Open the Google app, tap your profile, add photos, done in five minutes. Consistency beats volume here. A steady trickle of new images looks more alive than one dump of eighty photos followed by silence.\n\nFix 3: Cover the four basics\n\nGoogle gives you distinct photo categories, and most owners fill exactly one. Cover all four:\n\nExterior. Shots of your building, your signage, your parking entrance. This helps people physically find you, and it helps Google associate your business with a real location.\n\nInterior. What the space looks like when someone walks in. Waiting area, shop floor, service counter. If you are mobile only, show your vehicle and equipment instead.\n\nTeam. Faces. People hire people. A crew photo does more for trust than another shot of a logo.\n\nFinished work. This is the one that converts. Before and after images of completed jobs answer the only question the customer actually has: can you do this well?\n\nA few practical rules\n\nShoot in daylight where you can. Hold the phone steady. Do not add heavy text overlays or watermarks across the image. Do not upload the same photo twice. Do not upload anything you do not own the rights to.\n\nAnd do not obsess over perfection. An honest phone photo of real work outperforms a polished stock image every time.\n\nFAQ\n\nHow many photos should my Google Business Profile have?\nThere is no fixed number. Aim to be at least in the same range as the businesses ranking above you in your category, then keep adding monthly.\n\nDo photos alone get me into the top 3?\nNo. Photos are one of roughly eight to ten factors. Your primary category, service area setup, citation consistency, reviews, and the page you send traffic to all matter too.\n\nDoes it matter who uploads the photos, me or a customer?\nBoth help. Customer photos add credibility you cannot create yourself. Keep adding your own regardless.\n\nShould I geotag my photos?\nIt does not hurt, but it is not the lever people claim it is. Spend your energy on posting real, recent images consistently.\n\nNext step\n\nPhotos are the easiest part of your profile to fix, and most local businesses in Tampa Bay still have not done it. Start there this week.\n\nIf you want to know which of the other factors are actually holding your ranking back, book a free Google audit at https://epgads.net. I will look at your profile and tell you plainly what is missing. No pitch, no obligation."
+    "title": "How to Set Service Area in Google Business Profile: A Tampa and Brandon Guide",
+    "body": "If you drive to your customers, the service area field on your Google Business Profile is one of the most misunderstood settings you own. I see it wrong on most profiles I audit around Tampa and Brandon. Either the owner claims the entire state of Florida, or they list one zip code and vanish everywhere else.\n\nHere is how to set service area in Google Business Profile properly, and why it changes what shows up in the map pack.\n\nWhat the service area field actually does\n\nGoogle uses your service area as a relevance signal. It is not a delivery boundary and it is not a promise. It is a statement about where your business belongs. When a person in Riverview searches for your service, Google weighs three things: how relevant you are to that search, how close you appear to be, and how prominent your business is overall. Your service area feeds the relevance and proximity side of that.\n\nIt does not force Google to show you in every city you list. Listing Miami will not get you calls in Miami. It will, however, make you look less specific to Brandon.\n\nStep 1: List the cities you truly serve\n\nOpen your Google Business Profile, go to the business information section, and find service area. Add the specific cities, towns, and zip codes you actually drive to.\n\nFor a Brandon based contractor, that might be Brandon, Valrico, Riverview, Seffner, Lithia, and parts of Tampa. That is a real route. That is defensible.\n\nWhat you should not do is add every county in the state because you would technically take a job there. Google is trying to match a searcher with a business that plausibly serves them. Vague coverage reads as generic.\n\nA simple test: pull up your last ten to fifteen invoices. Where did those jobs happen? Those cities go in. Anything you would quote high on just to discourage the drive stays out.\n\nStep 2: Stop treating a wide radius like extra reach\n\nThis is the part owners resist. A bigger service area does not mean more visibility. It usually means less.\n\nWhen you spread your claimed coverage across an enormous area, you dilute how strongly you connect to any single place in it. You end up slightly weaker in Brandon, slightly weaker in Tampa, slightly weaker in Wesley Chapel, and dominant nowhere. Meanwhile the competitor who claimed six towns and built content around them takes the top three.\n\nA practical rule: keep your service area to roughly the distance you would drive for a normal job, often around an hour. Then trim the outliers. If you added a city because you did one job there in 2022, remove it.\n\nGoogle also caps how many areas you can list, so treat those slots as valuable. Spend them on places you want more work from, not places you tolerate.\n\nStep 3: Decide whether to hide your address\n\nGoogle gives you the option to hide your street address and show only your service area. The rule is simple.\n\nIf customers ever come to you, whether that is a shop, a showroom, a studio, or an office where you meet people, keep the address public. A visible, staffed address is a strong proximity signal. Hiding it throws that away for nothing.\n\nIf customers never come to you, hide it. This applies if you run the business from your home or entirely from a truck. Leaving a home address public, or listing a location nobody staffs, invites a suspension. Google verifies these, and a suspended profile disappears from the map entirely while you fight to get it back.\n\nDo not use a mailbox rental or a coworking desk you never sit at. That is the fastest way to lose a profile that took months to build.\n\nWhat to check after you change it\n\nGive it a few days. Then search your main service plus your target city from a phone that is physically in that city, or use a rank tracking tool that lets you set a location. Watch whether your position in your core towns improves. Reach usually consolidates before it grows.\n\nAlso make sure your website matches. If you claim Riverview and Valrico in your profile but your site never mentions either, the signals disagree. City specific pages with real content, not copy and pasted templates, help close that gap.\n\nFAQ\n\nCan I list the whole Tampa Bay area?\nYou can, but you probably should not. Pick the cities you work in regularly. Broad coverage weakens your relevance in each one.\n\nDoes my service area have to include my address?\nNo. If you have a storefront, your address anchors you. Your service area extends outward from there.\n\nWill hiding my address hurt my ranking?\nIt can, if customers actually visit you. If they never do, hiding it is correct and keeps your profile compliant.\n\nHow often should I update it?\nReview it once or twice a year, or whenever you add a crew, open a second location, or drop a territory.\n\nCan I use a radius instead of cities?\nYou can, but naming cities and zip codes is clearer and easier to align with your website content.\n\nWant a second opinion on your setup?\n\nI will run a free Google audit of your profile: service area, categories, address settings, and what is actually holding your ranking back. You get a plain list of fixes, whether you hire us or not. Start at epgads.net."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#TampaBusiness",
+    "#TampaSmallBusiness",
     "#BrandonFL",
-    "#MapPack",
     "#GoogleMaps",
-    "#SEOTips",
-    "#TampaBay",
-    "#GetFoundOnline"
+    "#MapPack",
+    "#GetFoundOnline",
+    "#TampaBay"
   ],
-  "topicId": "photos-that-rank",
-  "hook": "The photos on your Google profile are doing more than you think",
-  "themeId": "midnight"
+  "topicId": "service-area-setup",
+  "hook": "Setting your service area wrong is quietly capping your reach",
+  "themeId": "paper"
 }

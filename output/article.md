@@ -1,67 +1,68 @@
-# Do Photos Help Google Business Profile Ranking? A Tampa and Brandon Owner's Guide
+# How to Set Service Area in Google Business Profile: A Tampa and Brandon Guide
 
-Do photos help Google Business Profile ranking?
+If you drive to your customers, the service area field on your Google Business Profile is one of the most misunderstood settings you own. I see it wrong on most profiles I audit around Tampa and Brandon. Either the owner claims the entire state of Florida, or they list one zip code and vanish everywhere else.
 
-Short answer: yes, indirectly and directly. Photos are not a magic switch that lifts you into the top 3 by themselves. But they feed two things Google cares about: how active your profile looks and how people behave when they land on it. When someone opens your listing, scrolls through recent photos of your work, and then taps to call, that is a signal. When they open your listing, see one blurry logo from 2019, and go back to the results to pick someone else, that is also a signal.
+Here is how to set service area in Google Business Profile properly, and why it changes what shows up in the map pack.
 
-I open Google Business Profiles for businesses across Tampa, Brandon, Riverview, and Valrico every week. The pattern is the same. The photo tab is either empty or it holds a logo and a stock photo somebody bought when the website was built. Meanwhile the business ranking above them has forty photos, most of them taken on a phone.
+What the service area field actually does
 
-Why an empty photo tab hurts you
+Google uses your service area as a relevance signal. It is not a delivery boundary and it is not a promise. It is a statement about where your business belongs. When a person in Riverview searches for your service, Google weighs three things: how relevant you are to that search, how close you appear to be, and how prominent your business is overall. Your service area feeds the relevance and proximity side of that.
 
-Google's job is to send people to businesses that are open and operating. It looks for proof. Reviews arriving. Posts going up. Photos being added. A profile with no new activity for two years looks like a business that might not answer the phone.
+It does not force Google to show you in every city you list. Listing Miami will not get you calls in Miami. It will, however, make you look less specific to Brandon.
 
-Customers read it the same way. Before someone calls a contractor, a dentist, or a shop they have never used, they scroll the photos. They are checking whether you are real. No photos means no proof, and they move on to the next result.
+Step 1: List the cities you truly serve
 
-Fix 1: Upload real job photos, not stock images
+Open your Google Business Profile, go to the business information section, and find service area. Add the specific cities, towns, and zip codes you actually drive to.
 
-Stock photography does nothing for your ranking and very little for your credibility. A generic photo of a smiling person in a hard hat is invisible. People skip it.
+For a Brandon based contractor, that might be Brandon, Valrico, Riverview, Seffner, Lithia, and parts of Tampa. That is a real route. That is defensible.
 
-Photos taken on your phone at an actual job in Wesley Chapel or Plant City look like your business. They show your truck, your tools, your finished work, and the kind of homes and buildings your customers recognise. That recognition is what turns a scroll into a call.
+What you should not do is add every county in the state because you would technically take a job there. Google is trying to match a searcher with a business that plausibly serves them. Vague coverage reads as generic.
 
-Practical version: go into your camera roll right now. Find ten photos from recent jobs. Upload them. That single step puts you ahead of most competitors in your category.
+A simple test: pull up your last ten to fifteen invoices. Where did those jobs happen? Those cities go in. Anything you would quote high on just to discourage the drive stays out.
 
-Fix 2: Add new photos every month
+Step 2: Stop treating a wide radius like extra reach
 
-Freshness matters. A profile that receives new images every month reads as active. A profile that has not changed since the day it was verified reads as dormant.
+This is the part owners resist. A bigger service area does not mean more visibility. It usually means less.
 
-You do not need a photographer or a content calendar. Three photos a month is enough. Before, during, after. A new team member. A delivery. A finished install. Anything that is genuinely from your business.
+When you spread your claimed coverage across an enormous area, you dilute how strongly you connect to any single place in it. You end up slightly weaker in Brandon, slightly weaker in Tampa, slightly weaker in Wesley Chapel, and dominant nowhere. Meanwhile the competitor who claimed six towns and built content around them takes the top three.
 
-Set a recurring reminder on your phone for the first Monday of the month. Open the Google app, tap your profile, add photos, done in five minutes. Consistency beats volume here. A steady trickle of new images looks more alive than one dump of eighty photos followed by silence.
+A practical rule: keep your service area to roughly the distance you would drive for a normal job, often around an hour. Then trim the outliers. If you added a city because you did one job there in 2022, remove it.
 
-Fix 3: Cover the four basics
+Google also caps how many areas you can list, so treat those slots as valuable. Spend them on places you want more work from, not places you tolerate.
 
-Google gives you distinct photo categories, and most owners fill exactly one. Cover all four:
+Step 3: Decide whether to hide your address
 
-Exterior. Shots of your building, your signage, your parking entrance. This helps people physically find you, and it helps Google associate your business with a real location.
+Google gives you the option to hide your street address and show only your service area. The rule is simple.
 
-Interior. What the space looks like when someone walks in. Waiting area, shop floor, service counter. If you are mobile only, show your vehicle and equipment instead.
+If customers ever come to you, whether that is a shop, a showroom, a studio, or an office where you meet people, keep the address public. A visible, staffed address is a strong proximity signal. Hiding it throws that away for nothing.
 
-Team. Faces. People hire people. A crew photo does more for trust than another shot of a logo.
+If customers never come to you, hide it. This applies if you run the business from your home or entirely from a truck. Leaving a home address public, or listing a location nobody staffs, invites a suspension. Google verifies these, and a suspended profile disappears from the map entirely while you fight to get it back.
 
-Finished work. This is the one that converts. Before and after images of completed jobs answer the only question the customer actually has: can you do this well?
+Do not use a mailbox rental or a coworking desk you never sit at. That is the fastest way to lose a profile that took months to build.
 
-A few practical rules
+What to check after you change it
 
-Shoot in daylight where you can. Hold the phone steady. Do not add heavy text overlays or watermarks across the image. Do not upload the same photo twice. Do not upload anything you do not own the rights to.
+Give it a few days. Then search your main service plus your target city from a phone that is physically in that city, or use a rank tracking tool that lets you set a location. Watch whether your position in your core towns improves. Reach usually consolidates before it grows.
 
-And do not obsess over perfection. An honest phone photo of real work outperforms a polished stock image every time.
+Also make sure your website matches. If you claim Riverview and Valrico in your profile but your site never mentions either, the signals disagree. City specific pages with real content, not copy and pasted templates, help close that gap.
 
 FAQ
 
-How many photos should my Google Business Profile have?
-There is no fixed number. Aim to be at least in the same range as the businesses ranking above you in your category, then keep adding monthly.
+Can I list the whole Tampa Bay area?
+You can, but you probably should not. Pick the cities you work in regularly. Broad coverage weakens your relevance in each one.
 
-Do photos alone get me into the top 3?
-No. Photos are one of roughly eight to ten factors. Your primary category, service area setup, citation consistency, reviews, and the page you send traffic to all matter too.
+Does my service area have to include my address?
+No. If you have a storefront, your address anchors you. Your service area extends outward from there.
 
-Does it matter who uploads the photos, me or a customer?
-Both help. Customer photos add credibility you cannot create yourself. Keep adding your own regardless.
+Will hiding my address hurt my ranking?
+It can, if customers actually visit you. If they never do, hiding it is correct and keeps your profile compliant.
 
-Should I geotag my photos?
-It does not hurt, but it is not the lever people claim it is. Spend your energy on posting real, recent images consistently.
+How often should I update it?
+Review it once or twice a year, or whenever you add a crew, open a second location, or drop a territory.
 
-Next step
+Can I use a radius instead of cities?
+You can, but naming cities and zip codes is clearer and easier to align with your website content.
 
-Photos are the easiest part of your profile to fix, and most local businesses in Tampa Bay still have not done it. Start there this week.
+Want a second opinion on your setup?
 
-If you want to know which of the other factors are actually holding your ranking back, book a free Google audit at https://epgads.net. I will look at your profile and tell you plainly what is missing. No pitch, no obligation.
+I will run a free Google audit of your profile: service area, categories, address settings, and what is actually holding your ranking back. You get a plain list of fixes, whether you hire us or not. Start at epgads.net.
