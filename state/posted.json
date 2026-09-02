@@ -240,6 +240,16 @@
           "error": "Meta Graph API 403: Application request limit reached (code 4/2207051)"
         }
       ]
+    },
+    {
+      "topicId": "business-description",
+      "hook": "How to write a Google Business Profile description that actually helps",
+      "outcome": "blocked",
+      "postedAt": "2026-09-02T13:27:02.406Z",
+      "violations": [
+        "[block] no-promos: Reads as EPG offering a promotion: \"Sales language, discount codes and calls to action like call now are also off limits.\"",
+        "[block] no-awards: Contains an award or ranking claim about EPG: \"voted\""
+      ]
     }
   ]
 }
