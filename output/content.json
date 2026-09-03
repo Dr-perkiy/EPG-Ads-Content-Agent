@@ -1,72 +1,73 @@
 {
   "cover": {
-    "eyebrow": "Service area settings",
-    "headline": "Your service area is *capping* your reach",
-    "subhead": "Most service businesses in Tampa set this field wrong, then wonder why the map pack ignores them."
+    "eyebrow": "Google Business Profile",
+    "headline": "You might have a *second* Google listing you never made",
+    "subhead": "Duplicate profiles are common after a move or a rebrand, and they quietly hold your ranking back."
   },
   "context": {
-    "eyebrow": "Why it matters",
-    "headline": "Google reads your service area as a *relevance* signal",
+    "eyebrow": "Why this matters",
+    "headline": "Two listings means *half* the strength",
     "paragraphs": [
-      "If you are a plumber, mobile detailer, roofer, cleaner, or anyone who drives to the customer, your service area tells Google where you claim to belong. Owners either list one zip code and disappear from every neighboring town, or list all of Florida and get treated as generic.",
-      "The fix takes about ten minutes and costs nothing. Here are the three settings that actually move you."
+      "Google creates listings on its own from old data: a permit, a directory, a phone book scrape, an address you left years ago. You never touched it, but it exists, and it carries your name.",
+      "Here is the good news. Duplicates are one of the easiest ranking problems to fix, and you can find yours in about ten minutes from your phone."
     ]
   },
   "points": [
     {
-      "label": "Name the real cities",
-      "title": "List cities you *actually* serve",
-      "body": "Open your profile, go to service area, and add the specific cities and zip codes you drive to every week. Brandon, Riverview, Valrico, Wesley Chapel, whatever is on your real route sheet. Do not add the whole state or a region you would turn down.",
-      "action": "Write down the last ten jobs you ran and add only those cities."
+      "label": "Find it before Google does",
+      "title": "Search your own *name* and number",
+      "body": "Open Google Maps and search your exact business name. Then search your phone number on its own, then your old address if you have moved. Scroll past the first result, because the duplicate usually sits lower with no photos and a handful of reviews.",
+      "action": "Search your name, your phone number, and any old address in Google Maps and screenshot anything that looks like you."
     },
     {
-      "label": "Radius is not reach",
-      "title": "A wide radius *dilutes* every city",
-      "body": "Google does not reward you for claiming more ground. When you cover a huge area, your relevance thins out across all of it, so you rank a little worse in the towns you count on. Tight and honest beats wide and hopeful.",
-      "action": "Cut your service area to roughly a one hour drive and remove the outliers."
+      "label": "What duplicates cost you",
+      "title": "Your reviews get *split*",
+      "body": "Every review, photo, click, and direction request that lands on the wrong listing does nothing for the one you actually manage. Google also gets mixed messages about which address and phone number are real, so it trusts both less. That is why a business with strong reviews can still sit outside the top 3 in Brandon or Riverview.",
+      "action": "Count the reviews on the duplicate. Those are yours, and merging brings them home."
     },
     {
-      "label": "Address visibility rule",
-      "title": "Hide your address only when *nobody* visits",
-      "body": "If customers ever come to your shop, showroom, or office, keep the address public. Hiding it throws away a strong proximity signal. Hide it only when you are fully mobile or working out of your house, because an unstaffed address can get your profile suspended.",
-      "action": "Decide today: customers visit, keep the address. They never do, hide it."
+      "label": "The actual fix",
+      "title": "Claim it, then *merge* it",
+      "body": "Do not just delete the extra listing, because deleting throws away the reviews on it. Claim the duplicate first so both profiles sit in your account, then request a merge through Google Business Profile support and tell them which listing you want to keep. If the duplicate belongs to a closed location, mark that one permanently closed instead of removing it.",
+      "action": "Claim the duplicate, then open the support flow in Google Business Profile and request a merge into your main listing."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Service area is one lever. It works best when the rest of the profile is pulling in the same direction.",
+    "body": "Cleaning up duplicates removes a brake. It does not add the gas. The rest of the work is in the signals Google reads next.",
     "done": [
-      "Real cities listed",
-      "Radius tightened",
-      "Address handled"
+      "Duplicates found",
+      "Review split explained",
+      "Merge requested"
     ],
-    "locked": "Primary category, service list, city landing pages, citation consistency, review pace, photo geo signals"
+    "locked": "Category depth, citation cleanup, service area setup, review pace, photo signals, landing page match"
   },
   "cta": {
-    "eyebrow": "Free audit",
-    "headline": "Get a *free* Google audit of your profile",
-    "body": "I will look at your service area, categories, and what is holding your ranking back, then tell you plainly what to fix. No obligation.",
+    "eyebrow": "Next step",
+    "headline": "Get a *free* Google audit",
+    "body": "I will check your profile for duplicates and tell you what is keeping you out of the top 3. If we work together, you rank in the top 3 within 90 days or you get your money back.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "Your service area setting is probably costing you calls in the towns you care about most.\n\n1. List the cities you truly serve. Brandon, Riverview, Valrico, not all of Florida.\n2. Too wide a radius thins your relevance in every single city.\n3. Hide your address only if customers never come to you. Otherwise keep it public.\n\nWant a second set of eyes? I do a free Google audit at epgads.net and tell you exactly what is capping your reach.\n\nSave this before your next profile edit.",
-  "linkedinPost": "Service area businesses get this setting backwards more than any other field on a Google Business Profile.\n\nList the cities you genuinely serve, not an entire state you would never drive to.\n\nA wide radius does not expand reach. It spreads your relevance thin, so you slip in the towns that actually pay the bills.\n\nHide your address only if customers never visit you. If they do, a public address is a proximity signal worth keeping.\n\nFree Google audit at epgads.net if you want to know what else is holding your ranking back.",
+  "instagramCaption": "There may be a second Google listing with your name on it, and you never created it.\n\nIt happens after a move, a rebrand, or a name change. Google builds a listing from old data and it sits there collecting a few of your reviews.\n\nHere is how to handle it:\n\n1. Search your business name in Google Maps, then your phone number, then your old address. Duplicates usually show up lower with no photos.\n\n2. Understand the damage. Reviews, clicks, and direction requests get split between two listings, so neither one looks strong to Google.\n\n3. Claim the duplicate, then request a merge through Google Business Profile support. Do not delete it, or the reviews on it disappear with it.\n\nWant me to look? Free Google audit at epgads.net. Save this and check your name tonight.",
+  "linkedinPost": "Most local businesses I audit in Tampa and Brandon have a duplicate Google listing they never created.\n\nGoogle builds them from old data after a move, a rebrand, or a name change. The duplicate then splits your reviews and ranking signals across two profiles.\n\nFix it in three steps: search your name, phone number, and old address in Google Maps. Confirm which listing you manage. Claim the duplicate and request a merge through Google Business Profile support instead of deleting it, so the reviews carry over.\n\nIf you want a second set of eyes, I do free Google audits at epgads.net.",
   "article": {
-    "title": "How to Set Service Area in Google Business Profile: A Tampa and Brandon Guide",
-    "body": "If you drive to your customers, the service area field on your Google Business Profile is one of the most misunderstood settings you own. I see it wrong on most profiles I audit around Tampa and Brandon. Either the owner claims the entire state of Florida, or they list one zip code and vanish everywhere else.\n\nHere is how to set service area in Google Business Profile properly, and why it changes what shows up in the map pack.\n\nWhat the service area field actually does\n\nGoogle uses your service area as a relevance signal. It is not a delivery boundary and it is not a promise. It is a statement about where your business belongs. When a person in Riverview searches for your service, Google weighs three things: how relevant you are to that search, how close you appear to be, and how prominent your business is overall. Your service area feeds the relevance and proximity side of that.\n\nIt does not force Google to show you in every city you list. Listing Miami will not get you calls in Miami. It will, however, make you look less specific to Brandon.\n\nStep 1: List the cities you truly serve\n\nOpen your Google Business Profile, go to the business information section, and find service area. Add the specific cities, towns, and zip codes you actually drive to.\n\nFor a Brandon based contractor, that might be Brandon, Valrico, Riverview, Seffner, Lithia, and parts of Tampa. That is a real route. That is defensible.\n\nWhat you should not do is add every county in the state because you would technically take a job there. Google is trying to match a searcher with a business that plausibly serves them. Vague coverage reads as generic.\n\nA simple test: pull up your last ten to fifteen invoices. Where did those jobs happen? Those cities go in. Anything you would quote high on just to discourage the drive stays out.\n\nStep 2: Stop treating a wide radius like extra reach\n\nThis is the part owners resist. A bigger service area does not mean more visibility. It usually means less.\n\nWhen you spread your claimed coverage across an enormous area, you dilute how strongly you connect to any single place in it. You end up slightly weaker in Brandon, slightly weaker in Tampa, slightly weaker in Wesley Chapel, and dominant nowhere. Meanwhile the competitor who claimed six towns and built content around them takes the top three.\n\nA practical rule: keep your service area to roughly the distance you would drive for a normal job, often around an hour. Then trim the outliers. If you added a city because you did one job there in 2022, remove it.\n\nGoogle also caps how many areas you can list, so treat those slots as valuable. Spend them on places you want more work from, not places you tolerate.\n\nStep 3: Decide whether to hide your address\n\nGoogle gives you the option to hide your street address and show only your service area. The rule is simple.\n\nIf customers ever come to you, whether that is a shop, a showroom, a studio, or an office where you meet people, keep the address public. A visible, staffed address is a strong proximity signal. Hiding it throws that away for nothing.\n\nIf customers never come to you, hide it. This applies if you run the business from your home or entirely from a truck. Leaving a home address public, or listing a location nobody staffs, invites a suspension. Google verifies these, and a suspended profile disappears from the map entirely while you fight to get it back.\n\nDo not use a mailbox rental or a coworking desk you never sit at. That is the fastest way to lose a profile that took months to build.\n\nWhat to check after you change it\n\nGive it a few days. Then search your main service plus your target city from a phone that is physically in that city, or use a rank tracking tool that lets you set a location. Watch whether your position in your core towns improves. Reach usually consolidates before it grows.\n\nAlso make sure your website matches. If you claim Riverview and Valrico in your profile but your site never mentions either, the signals disagree. City specific pages with real content, not copy and pasted templates, help close that gap.\n\nFAQ\n\nCan I list the whole Tampa Bay area?\nYou can, but you probably should not. Pick the cities you work in regularly. Broad coverage weakens your relevance in each one.\n\nDoes my service area have to include my address?\nNo. If you have a storefront, your address anchors you. Your service area extends outward from there.\n\nWill hiding my address hurt my ranking?\nIt can, if customers actually visit you. If they never do, hiding it is correct and keeps your profile compliant.\n\nHow often should I update it?\nReview it once or twice a year, or whenever you add a crew, open a second location, or drop a territory.\n\nCan I use a radius instead of cities?\nYou can, but naming cities and zip codes is clearer and easier to align with your website content.\n\nWant a second opinion on your setup?\n\nI will run a free Google audit of your profile: service area, categories, address settings, and what is actually holding your ranking back. You get a plain list of fixes, whether you hire us or not. Start at epgads.net."
+    "title": "Duplicate Google Business Profile: How Tampa and Brandon Businesses Find and Merge Them",
+    "body": "A duplicate Google Business Profile is one of the most common ranking problems I find in Tampa Bay, and almost nobody creates it on purpose. You move your shop from Brandon to Riverview. You change your name after a rebrand. You add a second phone line. Somewhere in that process, Google builds a second listing from old data and leaves it live.\n\nYou now have two listings. Customers find both. Reviews land on both. And Google has to guess which one is real.\n\nWhy duplicates happen\n\nGoogle does not only use the profile you claimed. It pulls business data from directories, permits, aggregators, and user submissions. If an old address or an old business name is still floating around online, Google can create a listing for it.\n\nThe most common triggers I see in the Tampa area:\n\nA move to a new address, where the old location was never marked closed.\n\nA rebrand or a name change, where the old name still lives in directories.\n\nA practitioner listing plus a business listing, common with law firms, dentists, and agents.\n\nA second listing created by a past employee or a past marketing vendor with a login nobody has anymore.\n\nWhat a duplicate actually costs you\n\nThis is the part owners underestimate. A duplicate does not just sit there being harmless. It divides everything you earn.\n\nReviews split. A customer searches your name, taps whichever result appears first, and leaves a review there. If that is the duplicate, the review does nothing for the listing you actually manage.\n\nEngagement splits. Clicks to your website, direction requests, and calls are signals Google watches. Spread across two profiles, both look weaker than the one profile should look.\n\nTrust drops. When Google sees two addresses and two phone numbers attached to one business name, it has less confidence in either. Confidence is what puts you in the map pack.\n\nI have seen businesses with a solid review count sitting outside the top 3 for no other reason than a forgotten second listing pulling signals away.\n\nStep 1: Search your name and your phone number in Google Maps\n\nOpen Google Maps, not regular search, and run three searches.\n\nSearch your exact business name. Scroll past the first result. Duplicates usually appear further down with no photos, a thin description, and a few reviews.\n\nSearch your phone number by itself. If a listing you do not manage comes up, that is a duplicate.\n\nSearch your old address if you have moved in the last few years. Old locations often stay live as separate listings.\n\nScreenshot anything that looks like you. Note the review count on each one.\n\nStep 2: Confirm which listing is the one you manage\n\nLog into Google Business Profile and compare. The listing you manage will show your dashboard. The other one will show a link to claim it or suggest an edit. That is your duplicate.\n\nStep 3: Claim the duplicate, then merge it\n\nDo not report the duplicate as spam and do not delete it. Deleting takes the reviews with it, and those reviews are yours.\n\nClaim the duplicate first. Google will ask you to verify ownership. Once both listings sit in your account, open the support flow inside Google Business Profile and request a merge. Tell support clearly which listing you want to keep as the primary one.\n\nIf the duplicate is an old location you truly closed, mark it permanently closed rather than removing it. That keeps the history and points people to your live listing.\n\nMerges are not instant. Give it a few weeks, and check back to make sure the reviews carried over.\n\nFAQ\n\nHow do I know if my duplicate Google Business Profile is hurting me?\n\nLook at where the reviews are going. If new reviews keep appearing on a listing you do not control, signals are leaking.\n\nCan I just delete the extra listing?\n\nYou can, but you will lose the reviews attached to it. Merging preserves them. Always try the merge first.\n\nDoes Google fix duplicates automatically?\n\nSometimes, eventually. I would not wait. An unmanaged duplicate can sit live for years.\n\nWhat if I cannot verify the duplicate?\n\nContact Google Business Profile support directly through your dashboard and explain that you own both. Have your business license and a utility bill ready.\n\nI moved within Tampa. Should I create a new listing?\n\nNo. Edit the address on your existing listing so you keep the reviews and history. Creating a new one is exactly how duplicates start.\n\nNext step\n\nIf you are not sure whether you have a duplicate, I will check for you. Book a free Google audit at https://epgads.net and I will tell you what is actually keeping you out of the top 3 in your area."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#TampaSmallBusiness",
+    "#TampaBusiness",
     "#BrandonFL",
     "#GoogleMaps",
     "#MapPack",
+    "#TampaBay",
     "#GetFoundOnline",
-    "#TampaBay"
+    "#SEOTips"
   ],
-  "topicId": "service-area-setup",
-  "hook": "Setting your service area wrong is quietly capping your reach",
-  "themeId": "paper"
+  "topicId": "duplicate-listings",
+  "hook": "You might have a second Google listing you never created",
+  "themeId": "forest"
 }

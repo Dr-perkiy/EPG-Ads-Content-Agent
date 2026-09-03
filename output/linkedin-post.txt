@@ -1,9 +1,7 @@
-Service area businesses get this setting backwards more than any other field on a Google Business Profile.
+Most local businesses I audit in Tampa and Brandon have a duplicate Google listing they never created.
 
-List the cities you genuinely serve, not an entire state you would never drive to.
+Google builds them from old data after a move, a rebrand, or a name change. The duplicate then splits your reviews and ranking signals across two profiles.
 
-A wide radius does not expand reach. It spreads your relevance thin, so you slip in the towns that actually pay the bills.
+Fix it in three steps: search your name, phone number, and old address in Google Maps. Confirm which listing you manage. Claim the duplicate and request a merge through Google Business Profile support instead of deleting it, so the reviews carry over.
 
-Hide your address only if customers never visit you. If they do, a public address is a proximity signal worth keeping.
-
-Free Google audit at epgads.net if you want to know what else is holding your ranking back.
+If you want a second set of eyes, I do free Google audits at epgads.net.
