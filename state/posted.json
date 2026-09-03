@@ -265,6 +265,21 @@
         "https://www.instagram.com/p/DczM4gWH84y/",
         "https://facebook.com/1321161914409792_122106200463449137"
       ]
+    },
+    {
+      "topicId": "duplicate-listings",
+      "themeId": "forest",
+      "hook": "You might have a second Google listing you never created",
+      "outcome": "published",
+      "postedAt": "2026-09-03T17:04:36.108Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/Dc1TgaEFDv8/",
+        "https://facebook.com/1321161914409792_122106411261449137"
+      ]
     }
   ]
 }
