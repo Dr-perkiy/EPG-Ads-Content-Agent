@@ -1,73 +1,73 @@
 {
   "cover": {
-    "eyebrow": "Google Business Profile",
-    "headline": "You might have a *second* Google listing you never made",
-    "subhead": "Duplicate profiles are common after a move or a rebrand, and they quietly hold your ranking back."
+    "eyebrow": "Local SEO basics",
+    "headline": "One old phone number can *cost* you rankings",
+    "subhead": "Google reads every listing with your business name on it, including the ones you forgot about."
   },
   "context": {
     "eyebrow": "Why this matters",
-    "headline": "Two listings means *half* the strength",
+    "headline": "Google needs to be *sure* you are real",
     "paragraphs": [
-      "Google creates listings on its own from old data: a permit, a directory, a phone book scrape, an address you left years ago. You never touched it, but it exists, and it carries your name.",
-      "Here is the good news. Duplicates are one of the easiest ranking problems to fix, and you can find yours in about ten minutes from your phone."
+      "Before Google puts you in the top 3, it checks your details against the rest of the web. Name, address, phone. If a directory from four years ago still lists your old number or an old suite, Google sees a conflict. Conflicts create doubt, and doubt costs you position in the map pack.</br>",
+      "The good news: this is one of the few ranking problems you can fix yourself in an afternoon. No tools, no budget. Just a list and some patience."
     ]
   },
   "points": [
     {
-      "label": "Find it before Google does",
-      "title": "Search your own *name* and number",
-      "body": "Open Google Maps and search your exact business name. Then search your phone number on its own, then your old address if you have moved. Scroll past the first result, because the duplicate usually sits lower with no photos and a handful of reviews.",
-      "action": "Search your name, your phone number, and any old address in Google Maps and screenshot anything that looks like you."
+      "label": "Match it everywhere",
+      "title": "Pick one *exact* version",
+      "body": "Write your business name, street address, and phone number down once, exactly as they appear on your Google Business Profile. That is your master copy. Every site that mentions your business should use that same version, down to the suite number and the Ste or Suite spelling.",
+      "action": "Type your name, address, and phone in a note on your phone and keep it open while you clean up listings."
     },
     {
-      "label": "What duplicates cost you",
-      "title": "Your reviews get *split*",
-      "body": "Every review, photo, click, and direction request that lands on the wrong listing does nothing for the one you actually manage. Google also gets mixed messages about which address and phone number are real, so it trusts both less. That is why a business with strong reviews can still sit outside the top 3 in Brandon or Riverview.",
-      "action": "Count the reviews on the duplicate. Those are yours, and merging brings them home."
+      "label": "Old listings confuse Google",
+      "title": "Hunt the *stale* records",
+      "body": "Search your business name in quotes, then search your old phone number on its own. You will usually find listings you never made: data aggregators, chamber pages, a supplier directory, an old franchise page. Each one with wrong details tells Google a different story about who you are and where you are.",
+      "action": "Google your old phone number right now and write down every site that still shows it."
     },
     {
-      "label": "The actual fix",
-      "title": "Claim it, then *merge* it",
-      "body": "Do not just delete the extra listing, because deleting throws away the reviews on it. Claim the duplicate first so both profiles sit in your account, then request a merge through Google Business Profile support and tell them which listing you want to keep. If the duplicate belongs to a closed location, mark that one permanently closed instead of removing it.",
-      "action": "Claim the duplicate, then open the support flow in Google Business Profile and request a merge into your main listing."
+      "label": "Work in order of weight",
+      "title": "Fix the *big* ones first",
+      "body": "Not every listing carries the same weight. Start with Google, Apple Maps, Bing Places, Facebook, Yelp, and the big data providers that feed hundreds of smaller sites. Once those match, the long tail of small directories matters far less, and many of them will update on their own.",
+      "action": "Claim and correct your Apple Maps and Bing Places listings this week, then move down your list."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Cleaning up duplicates removes a brake. It does not add the gas. The rest of the work is in the signals Google reads next.",
+    "body": "Clean details will pull you up, but they are one signal out of many. Most Tampa businesses stuck outside the top 3 have several things off at once.",
     "done": [
-      "Duplicates found",
-      "Review split explained",
-      "Merge requested"
+      "One master version",
+      "Stale listings found",
+      "Big directories first"
     ],
-    "locked": "Category depth, citation cleanup, service area setup, review pace, photo signals, landing page match"
+    "locked": "Category selection, review velocity, service pages, photo signals, duplicate listings, competitor gap"
   },
   "cta": {
     "eyebrow": "Next step",
     "headline": "Get a *free* Google audit",
-    "body": "I will check your profile for duplicates and tell you what is keeping you out of the top 3. If we work together, you rank in the top 3 within 90 days or you get your money back.",
+    "body": "I will check your listings across the web and show you exactly where your details do not match. You keep the findings either way.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "There may be a second Google listing with your name on it, and you never created it.\n\nIt happens after a move, a rebrand, or a name change. Google builds a listing from old data and it sits there collecting a few of your reviews.\n\nHere is how to handle it:\n\n1. Search your business name in Google Maps, then your phone number, then your old address. Duplicates usually show up lower with no photos.\n\n2. Understand the damage. Reviews, clicks, and direction requests get split between two listings, so neither one looks strong to Google.\n\n3. Claim the duplicate, then request a merge through Google Business Profile support. Do not delete it, or the reviews on it disappear with it.\n\nWant me to look? Free Google audit at epgads.net. Save this and check your name tonight.",
-  "linkedinPost": "Most local businesses I audit in Tampa and Brandon have a duplicate Google listing they never created.\n\nGoogle builds them from old data after a move, a rebrand, or a name change. The duplicate then splits your reviews and ranking signals across two profiles.\n\nFix it in three steps: search your name, phone number, and old address in Google Maps. Confirm which listing you manage. Claim the duplicate and request a merge through Google Business Profile support instead of deleting it, so the reviews carry over.\n\nIf you want a second set of eyes, I do free Google audits at epgads.net.",
+  "instagramCaption": "One old phone number on a directory you forgot about can hold you out of the top 3.\n\nHere is the fix:\n\n1. Pick one exact version of your name, address, and phone, copied from your Google Business Profile. That is your master copy.\n\n2. Search your old phone number on its own. Old listings with a former number or a dropped suite tell Google two different stories about your business.\n\n3. Fix the heavy hitters first: Google, Apple Maps, Bing Places, Facebook, Yelp, and the big data providers. The small directories matter much less once those match.\n\nBoring work. Real results.\n\nWant to know which listings are wrong right now? Book a free Google audit at epgads.net.\n\nSave this for your next slow afternoon.",
+  "linkedinPost": "Google checks your business details against the rest of the web before it ranks you in the map pack.\n\nIf an old directory still lists a former phone number or a suite you moved out of, that conflict creates doubt, and doubt costs you position.\n\nThree steps: set one exact version of your name, address, and phone from your Google Business Profile. Search your old number to find stale listings. Fix Google, Apple Maps, Bing Places, Facebook, Yelp, and the major data providers before the small stuff.\n\nIt is unglamorous work that most Tampa Bay owners never do.\n\nWant the list of what is wrong with yours? Free Google audit at epgads.net.",
   "article": {
-    "title": "Duplicate Google Business Profile: How Tampa and Brandon Businesses Find and Merge Them",
-    "body": "A duplicate Google Business Profile is one of the most common ranking problems I find in Tampa Bay, and almost nobody creates it on purpose. You move your shop from Brandon to Riverview. You change your name after a rebrand. You add a second phone line. Somewhere in that process, Google builds a second listing from old data and leaves it live.\n\nYou now have two listings. Customers find both. Reviews land on both. And Google has to guess which one is real.\n\nWhy duplicates happen\n\nGoogle does not only use the profile you claimed. It pulls business data from directories, permits, aggregators, and user submissions. If an old address or an old business name is still floating around online, Google can create a listing for it.\n\nThe most common triggers I see in the Tampa area:\n\nA move to a new address, where the old location was never marked closed.\n\nA rebrand or a name change, where the old name still lives in directories.\n\nA practitioner listing plus a business listing, common with law firms, dentists, and agents.\n\nA second listing created by a past employee or a past marketing vendor with a login nobody has anymore.\n\nWhat a duplicate actually costs you\n\nThis is the part owners underestimate. A duplicate does not just sit there being harmless. It divides everything you earn.\n\nReviews split. A customer searches your name, taps whichever result appears first, and leaves a review there. If that is the duplicate, the review does nothing for the listing you actually manage.\n\nEngagement splits. Clicks to your website, direction requests, and calls are signals Google watches. Spread across two profiles, both look weaker than the one profile should look.\n\nTrust drops. When Google sees two addresses and two phone numbers attached to one business name, it has less confidence in either. Confidence is what puts you in the map pack.\n\nI have seen businesses with a solid review count sitting outside the top 3 for no other reason than a forgotten second listing pulling signals away.\n\nStep 1: Search your name and your phone number in Google Maps\n\nOpen Google Maps, not regular search, and run three searches.\n\nSearch your exact business name. Scroll past the first result. Duplicates usually appear further down with no photos, a thin description, and a few reviews.\n\nSearch your phone number by itself. If a listing you do not manage comes up, that is a duplicate.\n\nSearch your old address if you have moved in the last few years. Old locations often stay live as separate listings.\n\nScreenshot anything that looks like you. Note the review count on each one.\n\nStep 2: Confirm which listing is the one you manage\n\nLog into Google Business Profile and compare. The listing you manage will show your dashboard. The other one will show a link to claim it or suggest an edit. That is your duplicate.\n\nStep 3: Claim the duplicate, then merge it\n\nDo not report the duplicate as spam and do not delete it. Deleting takes the reviews with it, and those reviews are yours.\n\nClaim the duplicate first. Google will ask you to verify ownership. Once both listings sit in your account, open the support flow inside Google Business Profile and request a merge. Tell support clearly which listing you want to keep as the primary one.\n\nIf the duplicate is an old location you truly closed, mark it permanently closed rather than removing it. That keeps the history and points people to your live listing.\n\nMerges are not instant. Give it a few weeks, and check back to make sure the reviews carried over.\n\nFAQ\n\nHow do I know if my duplicate Google Business Profile is hurting me?\n\nLook at where the reviews are going. If new reviews keep appearing on a listing you do not control, signals are leaking.\n\nCan I just delete the extra listing?\n\nYou can, but you will lose the reviews attached to it. Merging preserves them. Always try the merge first.\n\nDoes Google fix duplicates automatically?\n\nSometimes, eventually. I would not wait. An unmanaged duplicate can sit live for years.\n\nWhat if I cannot verify the duplicate?\n\nContact Google Business Profile support directly through your dashboard and explain that you own both. Have your business license and a utility bill ready.\n\nI moved within Tampa. Should I create a new listing?\n\nNo. Edit the address on your existing listing so you keep the reviews and history. Creating a new one is exactly how duplicates start.\n\nNext step\n\nIf you are not sure whether you have a duplicate, I will check for you. Book a free Google audit at https://epgads.net and I will tell you what is actually keeping you out of the top 3 in your area."
+    "title": "NAP Consistency Local SEO: Why One Wrong Phone Number Hurts Tampa and Brandon Rankings",
+    "body": "If your business is stuck on page one but below the top 3, the cause is often something dull. Not your website design. Not your ad budget. A phone number on a directory you have not looked at since you opened.\n\nThis is NAP consistency, and it is one of the quieter parts of local SEO. NAP stands for name, address, and phone. Getting it right will not make you famous. Getting it wrong will quietly hold you back.\n\nWhy Google cares about your phone number\n\nGoogle does not take your word for it when you fill out a business profile. It cross checks. It looks at how your business appears across directories, chamber sites, industry listings, data aggregators, social profiles, and other people's websites.\n\nWhen those sources agree, Google gets more confident that your business exists, that it is where you say it is, and that people can reach you. Confidence is what earns a spot in the map pack.\n\nWhen those sources disagree, Google has to decide which version is true. Sometimes it guesses right. Sometimes it hedges by ranking you lower. In a competitive market like Tampa or Brandon, where several businesses in your category are all fighting for three slots, hedging is enough to keep you out.\n\nThe three fixes, in order\n\n1. Pick one exact version and use it everywhere\n\nOpen your Google Business Profile and copy your name, street address, and phone number exactly as they appear there. That is your master copy. Save it somewhere you can reach on your phone.\n\nExactly means exactly. If your profile says Ste 200, do not write Suite 200 elsewhere. If your legal name has LLC on it but your profile does not, leave it off. Small mismatches are usually forgiven, but there is no reason to create them.\n\n2. Find the old listings that still show the wrong details\n\nThis is the step almost nobody does. Search your business name in quotation marks. Then search your old phone number on its own, with no other words. Then search your previous street address.\n\nYou will find listings you never created. Data aggregators build them from public records and old sources. A supplier directory added you years ago. A chamber page from a membership you dropped. An old landing page from a marketing company you stopped working with.\n\nEvery one of those with an outdated number or a former suite is a vote against your current details. Write them all down before you start fixing anything.\n\n3. Fix the heavy directories first\n\nNot all listings carry the same weight, and chasing every obscure site is a waste of an afternoon.\n\nStart here: Google Business Profile, Apple Maps, Bing Places, Facebook, Yelp, and the major data providers that syndicate business information to hundreds of smaller sites. These are the sources most of the web pulls from.\n\nOnce those are clean and matching, work down your list. Many small directories will correct themselves within a few weeks because they pull from the big providers. The rest you can handle a few at a time.\n\nWhat this looks like in practice around Tampa Bay\n\nA contractor in Riverview moves from a home office to a real address. He updates Google. He never updates the eight directories that listed the home address. Two years later he wonders why a newer competitor outranks him.\n\nA dental office in Valrico switches phone systems and gets a new number. The old number is still live on a health directory and an insurance provider page. Patients still find both, and so does Google.\n\nA restaurant in Plant City opens a second location. Now there are two addresses attached to one business name across the web, and neither ranks as well as it should.\n\nNone of this is dramatic. All of it costs position.\n\nHow long before it helps\n\nGive it time. Directory changes take days to weeks to propagate, and Google recrawls on its own schedule. Most owners see movement within a month or two of a real cleanup, assuming the rest of the profile is in decent shape.\n\nConsistency alone will rarely lift you from position ten to position two. It removes a drag. Combined with correct categories, steady reviews, real photos, and pages that match what people search, it adds up.\n\nFAQ\n\nDoes a tracking phone number hurt NAP consistency?\nIt can, if the tracking number replaces your main number in some places and not others. If you use call tracking, keep your main number as the primary on Google and list the tracking number as a secondary.\n\nWhat if I cannot get an old listing removed?\nTry to claim and edit it first. If the site is abandoned, correcting the big data providers will usually reduce its influence over time.\n\nDo I need to fix listings on sites nobody visits?\nGoogle reads them even if people do not. Fix the major ones first, then handle the small ones as you have time.\n\nDoes my address need to be public?\nNo. Service area businesses can hide the address on Google. Keep it consistent in your records so directories do not invent their own version.\n\nWant to know which listings are wrong?\n\nI will run a free Google audit on your business, check how your name, address, and phone appear across the web, and send you the list of what does not match. No pitch, no obligation. You keep the findings whether you work with me or not.\n\nBook your free Google audit at https://epgads.net."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
     "#TampaBusiness",
     "#BrandonFL",
-    "#GoogleMaps",
     "#MapPack",
+    "#GoogleMaps",
+    "#SEOTips",
     "#TampaBay",
-    "#GetFoundOnline",
-    "#SEOTips"
+    "#GetFoundOnline"
   ],
-  "topicId": "duplicate-listings",
-  "hook": "You might have a second Google listing you never created",
-  "themeId": "forest"
+  "topicId": "nap-consistency",
+  "hook": "One wrong phone number on an old directory can hurt your ranking",
+  "themeId": "clay"
 }

@@ -1,7 +1,9 @@
-Most local businesses I audit in Tampa and Brandon have a duplicate Google listing they never created.
+Google checks your business details against the rest of the web before it ranks you in the map pack.
 
-Google builds them from old data after a move, a rebrand, or a name change. The duplicate then splits your reviews and ranking signals across two profiles.
+If an old directory still lists a former phone number or a suite you moved out of, that conflict creates doubt, and doubt costs you position.
 
-Fix it in three steps: search your name, phone number, and old address in Google Maps. Confirm which listing you manage. Claim the duplicate and request a merge through Google Business Profile support instead of deleting it, so the reviews carry over.
+Three steps: set one exact version of your name, address, and phone from your Google Business Profile. Search your old number to find stale listings. Fix Google, Apple Maps, Bing Places, Facebook, Yelp, and the major data providers before the small stuff.
 
-If you want a second set of eyes, I do free Google audits at epgads.net.
+It is unglamorous work that most Tampa Bay owners never do.
+
+Want the list of what is wrong with yours? Free Google audit at epgads.net.
