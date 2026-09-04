@@ -1,73 +1,72 @@
 {
   "cover": {
-    "eyebrow": "Local SEO basics",
-    "headline": "One old phone number can *cost* you rankings",
-    "subhead": "Google reads every listing with your business name on it, including the ones you forgot about."
+    "eyebrow": "Google profile settings",
+    "headline": "There is a *text me* button you never switched on",
+    "subhead": "Messaging is off by default on most Google Business Profiles, so leads that would rather text just move on."
   },
   "context": {
-    "eyebrow": "Why this matters",
-    "headline": "Google needs to be *sure* you are real",
+    "eyebrow": "Why it matters",
+    "headline": "A free lead channel is sitting *dark* on your listing",
     "paragraphs": [
-      "Before Google puts you in the top 3, it checks your details against the rest of the web. Name, address, phone. If a directory from four years ago still lists your old number or an old suite, Google sees a conflict. Conflicts create doubt, and doubt costs you position in the map pack.</br>",
-      "The good news: this is one of the few ranking problems you can fix yourself in an afternoon. No tools, no budget. Just a list and some patience."
+      "Plenty of people in Tampa and Brandon will not call a business they have never used. They are at work, they are on a job site, they have a kid asleep in the car. If there is no way to send a quick message, they tap the next listing that lets them.",
+      "The good news: messaging is built into your Google Business Profile, it costs nothing, and turning it on takes about two minutes. Texts land in the Google Business Profile app on your phone, and you reply like a normal message."
     ]
   },
   "points": [
     {
-      "label": "Match it everywhere",
-      "title": "Pick one *exact* version",
-      "body": "Write your business name, street address, and phone number down once, exactly as they appear on your Google Business Profile. That is your master copy. Every site that mentions your business should use that same version, down to the suite number and the Ste or Suite spelling.",
-      "action": "Type your name, address, and phone in a note on your phone and keep it open while you clean up listings."
+      "label": "Switch the channel on",
+      "title": "Turn *messaging* on today",
+      "body": "Open your profile in Google Search or the Google Business Profile app, find the messages section, and enable chat. Once it is live, a message button shows up next to call and directions on your listing and in Maps. That button is the whole point: it gives a quiet buyer a way to reach you without dialing.",
+      "action": "Enable chat in your profile, then send yourself a test message from another phone."
     },
     {
-      "label": "Old listings confuse Google",
-      "title": "Hunt the *stale* records",
-      "body": "Search your business name in quotes, then search your old phone number on its own. You will usually find listings you never made: data aggregators, chamber pages, a supplier directory, an old franchise page. Each one with wrong details tells Google a different story about who you are and where you are.",
-      "action": "Google your old phone number right now and write down every site that still shows it."
+      "label": "Cover the off hours",
+      "title": "Write a real *away* reply",
+      "body": "Google lets you set an automatic first response. Use it to say when you will reply and what you need from them, like their address, the service they want, and a good time to call. Silence after someone reaches out is worse than no button at all.",
+      "action": "Set your welcome message to one line plus one question so the lead keeps typing."
     },
     {
-      "label": "Work in order of weight",
-      "title": "Fix the *big* ones first",
-      "body": "Not every listing carries the same weight. Start with Google, Apple Maps, Bing Places, Facebook, Yelp, and the big data providers that feed hundreds of smaller sites. Once those match, the long tail of small directories matters far less, and many of them will update on their own.",
-      "action": "Claim and correct your Apple Maps and Bing Places listings this week, then move down your list."
+      "label": "Speed keeps it alive",
+      "title": "Answer *fast* or lose it",
+      "body": "Google tracks how long you take to respond, and profiles that leave messages sitting can have the feature switched off. Aim to reply inside a few minutes during business hours. Turn on message notifications so a lead is not buried under group texts.",
+      "action": "Add the Google Business Profile app to your home screen and allow its notifications."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Clean details will pull you up, but they are one signal out of many. Most Tampa businesses stuck outside the top 3 have several things off at once.",
+    "body": "Messaging brings in leads you were already losing. It does not, by itself, move you into the top 3 for the searches that matter.",
     "done": [
-      "One master version",
-      "Stale listings found",
-      "Big directories first"
+      "Messaging on",
+      "Away reply set",
+      "Fast responses"
     ],
-    "locked": "Category selection, review velocity, service pages, photo signals, duplicate listings, competitor gap"
+    "locked": "Category and service setup, review velocity, citation cleanup, photo cadence, service area, website and profile match"
   },
   "cta": {
     "eyebrow": "Next step",
-    "headline": "Get a *free* Google audit",
-    "body": "I will check your listings across the web and show you exactly where your details do not match. You keep the findings either way.",
+    "headline": "Get a *free* audit of your Google profile",
+    "body": "I will look at your listing and tell you what is holding your ranking back, in plain language. No pitch, no obligation.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "One old phone number on a directory you forgot about can hold you out of the top 3.\n\nHere is the fix:\n\n1. Pick one exact version of your name, address, and phone, copied from your Google Business Profile. That is your master copy.\n\n2. Search your old phone number on its own. Old listings with a former number or a dropped suite tell Google two different stories about your business.\n\n3. Fix the heavy hitters first: Google, Apple Maps, Bing Places, Facebook, Yelp, and the big data providers. The small directories matter much less once those match.\n\nBoring work. Real results.\n\nWant to know which listings are wrong right now? Book a free Google audit at epgads.net.\n\nSave this for your next slow afternoon.",
-  "linkedinPost": "Google checks your business details against the rest of the web before it ranks you in the map pack.\n\nIf an old directory still lists a former phone number or a suite you moved out of, that conflict creates doubt, and doubt costs you position.\n\nThree steps: set one exact version of your name, address, and phone from your Google Business Profile. Search your old number to find stale listings. Fix Google, Apple Maps, Bing Places, Facebook, Yelp, and the major data providers before the small stuff.\n\nIt is unglamorous work that most Tampa Bay owners never do.\n\nWant the list of what is wrong with yours? Free Google audit at epgads.net.",
+  "instagramCaption": "Most Google Business Profiles have messaging turned off, and the owner has no idea.\n\n1. Turn messaging on. In Google Search or the Google Business Profile app, enable chat. A message button appears on your listing next to call and directions.\n\n2. Set an away reply. One line saying when you will respond, plus a question that keeps them typing.\n\n3. Reply fast. Google can disable messaging for slow responders, so switch on notifications and answer within minutes during business hours.\n\nSome people will never call a stranger. They will text. Give them the option.\n\nWant to know what else is capping your ranking? Free Google audit at epgads.net.\n\nSave this and go check your settings.",
+  "linkedinPost": "Messaging is off by default on most Google Business Profiles, which means a free lead channel is sitting unused.\n\nThree steps: enable chat in your profile so a message button appears on your listing, set an away reply that tells people when you will respond and asks for one detail, and answer quickly, because Google can disable the feature for slow responders.\n\nBuyers who will not call a business they have never used will still send a text. Give them the option.\n\nWant to see what else is holding your ranking back? Free Google audit at epgads.net.",
   "article": {
-    "title": "NAP Consistency Local SEO: Why One Wrong Phone Number Hurts Tampa and Brandon Rankings",
-    "body": "If your business is stuck on page one but below the top 3, the cause is often something dull. Not your website design. Not your ad budget. A phone number on a directory you have not looked at since you opened.\n\nThis is NAP consistency, and it is one of the quieter parts of local SEO. NAP stands for name, address, and phone. Getting it right will not make you famous. Getting it wrong will quietly hold you back.\n\nWhy Google cares about your phone number\n\nGoogle does not take your word for it when you fill out a business profile. It cross checks. It looks at how your business appears across directories, chamber sites, industry listings, data aggregators, social profiles, and other people's websites.\n\nWhen those sources agree, Google gets more confident that your business exists, that it is where you say it is, and that people can reach you. Confidence is what earns a spot in the map pack.\n\nWhen those sources disagree, Google has to decide which version is true. Sometimes it guesses right. Sometimes it hedges by ranking you lower. In a competitive market like Tampa or Brandon, where several businesses in your category are all fighting for three slots, hedging is enough to keep you out.\n\nThe three fixes, in order\n\n1. Pick one exact version and use it everywhere\n\nOpen your Google Business Profile and copy your name, street address, and phone number exactly as they appear there. That is your master copy. Save it somewhere you can reach on your phone.\n\nExactly means exactly. If your profile says Ste 200, do not write Suite 200 elsewhere. If your legal name has LLC on it but your profile does not, leave it off. Small mismatches are usually forgiven, but there is no reason to create them.\n\n2. Find the old listings that still show the wrong details\n\nThis is the step almost nobody does. Search your business name in quotation marks. Then search your old phone number on its own, with no other words. Then search your previous street address.\n\nYou will find listings you never created. Data aggregators build them from public records and old sources. A supplier directory added you years ago. A chamber page from a membership you dropped. An old landing page from a marketing company you stopped working with.\n\nEvery one of those with an outdated number or a former suite is a vote against your current details. Write them all down before you start fixing anything.\n\n3. Fix the heavy directories first\n\nNot all listings carry the same weight, and chasing every obscure site is a waste of an afternoon.\n\nStart here: Google Business Profile, Apple Maps, Bing Places, Facebook, Yelp, and the major data providers that syndicate business information to hundreds of smaller sites. These are the sources most of the web pulls from.\n\nOnce those are clean and matching, work down your list. Many small directories will correct themselves within a few weeks because they pull from the big providers. The rest you can handle a few at a time.\n\nWhat this looks like in practice around Tampa Bay\n\nA contractor in Riverview moves from a home office to a real address. He updates Google. He never updates the eight directories that listed the home address. Two years later he wonders why a newer competitor outranks him.\n\nA dental office in Valrico switches phone systems and gets a new number. The old number is still live on a health directory and an insurance provider page. Patients still find both, and so does Google.\n\nA restaurant in Plant City opens a second location. Now there are two addresses attached to one business name across the web, and neither ranks as well as it should.\n\nNone of this is dramatic. All of it costs position.\n\nHow long before it helps\n\nGive it time. Directory changes take days to weeks to propagate, and Google recrawls on its own schedule. Most owners see movement within a month or two of a real cleanup, assuming the rest of the profile is in decent shape.\n\nConsistency alone will rarely lift you from position ten to position two. It removes a drag. Combined with correct categories, steady reviews, real photos, and pages that match what people search, it adds up.\n\nFAQ\n\nDoes a tracking phone number hurt NAP consistency?\nIt can, if the tracking number replaces your main number in some places and not others. If you use call tracking, keep your main number as the primary on Google and list the tracking number as a secondary.\n\nWhat if I cannot get an old listing removed?\nTry to claim and edit it first. If the site is abandoned, correcting the big data providers will usually reduce its influence over time.\n\nDo I need to fix listings on sites nobody visits?\nGoogle reads them even if people do not. Fix the major ones first, then handle the small ones as you have time.\n\nDoes my address need to be public?\nNo. Service area businesses can hide the address on Google. Keep it consistent in your records so directories do not invent their own version.\n\nWant to know which listings are wrong?\n\nI will run a free Google audit on your business, check how your name, address, and phone appear across the web, and send you the list of what does not match. No pitch, no obligation. You keep the findings whether you work with me or not.\n\nBook your free Google audit at https://epgads.net."
+    "title": "Google Business Profile Messaging: The Free Lead Channel Most Tampa and Brandon Businesses Never Turn On",
+    "body": "If you run a local business in Tampa or Brandon, there is a good chance your Google Business Profile has a feature switched off that would bring you leads for free. It is messaging. Most profiles have it disabled by default, and most owners have never opened the setting.\n\nHere is what it does, how to set it up properly, and how to keep Google from taking it away.\n\nWhat Google Business Profile messaging actually is\n\nWhen messaging is enabled, a message button appears on your listing in Google Search and Google Maps, right next to call and directions. Someone taps it, types a question, and the message arrives in the Google Business Profile app on your phone. You reply the way you reply to any text. No extra software, no cost.\n\nWhy it matters more than owners expect\n\nA lot of people will not call a business they have never used. They are at work, on a job site, in a waiting room, or sitting in the car with a sleeping kid. Calling a stranger feels like a commitment. Sending a short message does not.\n\nWhen your listing has no message button, those people do not call you instead. They tap the next listing in the map pack that does let them message. You never see the lead, so you never know you lost it.\n\nThat is the part worth sitting with. This is not a lead source you have to buy. It is a lead source you already own and have not switched on.\n\nStep one: turn messaging on\n\nOpen your business profile in Google Search while logged into the account that manages it, or open the Google Business Profile app. Find the messages section and enable chat.\n\nVerify your phone number if Google asks. Then test it. Pull up your listing on a different phone, tap message, and send yourself something. If it arrives, you are live. If it does not, the setting did not save, which happens more often than it should.\n\nStep two: set an away reply that does work\n\nGoogle lets you set an automatic first response that fires the moment someone messages you. Most owners either skip this or write something empty like thanks for reaching out.\n\nUse the space better. Do two things in it:\n\nTell them when you will reply. Something like: got your message, I answer within the hour during business hours.\n\nAsk for one useful detail. The service they need, their neighborhood, or a good time to call. Now the lead is qualifying itself while you finish the job you are on.\n\nSilence after someone reaches out is worse than having no button at all. An away reply makes sure nobody gets silence.\n\nStep three: answer fast, or Google turns it off\n\nThis is the part that surprises people. Google tracks your response time on messages. Profiles that consistently leave messages sitting can have the messaging feature disabled entirely.\n\nThat is a fair rule. A message button that leads nowhere makes Google look bad. So treat these like phone calls, not like email.\n\nTwo practical moves:\n\nPut the Google Business Profile app on your home screen and allow its notifications. Messages get missed when they are buried in a notification list you swipe away.\n\nDecide who answers. If you have staff, give one person the app and make replies part of their job. Aim to respond within a few minutes during business hours.\n\nWhat messaging will and will not do\n\nMessaging captures leads you were already losing. It gets you conversations from people who would never have dialed.\n\nWhat it will not do on its own is move you into the top 3 of the map pack. Ranking comes from a stack of things working together: correct primary category, complete services, consistent name address and phone across the web, a steady flow of reviews with replies, fresh photos, an accurate service area, and a website that matches your profile. Messaging sits on top of that stack. It is worth doing, and it is one of eight to ten things that need attention.\n\nFAQ\n\nIs Google Business Profile messaging free?\nYes. It is included with your profile at no cost.\n\nWhere do the messages go?\nTo the Google Business Profile app on your phone. You reply from there.\n\nCan customers see my personal cell number?\nNo. Messages route through Google, so your personal number stays private.\n\nDoes messaging help my ranking?\nNot directly. It helps conversion, which means more of the people who already find you turn into customers. Engagement signals like this also tell Google your listing is active.\n\nWhat if I get spam messages?\nYou can report and block them inside the app. It is not common, and the trade for real leads is worth it.\n\nCan I turn it off later?\nYes, at any time. But if leads are coming in, the better fix is a faster response process, not a switch.\n\nNext step\n\nCheck your profile today. If messaging is off, turn it on, write an away reply that asks a question, and switch on notifications. That is a real lead channel opened in under five minutes.\n\nIf you want to know what else is holding your listing out of the top 3, I will audit your Google Business Profile for free and tell you plainly what needs fixing. No pitch, no obligation. Go to epgads.net to book it."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#TampaBusiness",
+    "#TampaSmallBusiness",
     "#BrandonFL",
     "#MapPack",
-    "#GoogleMaps",
-    "#SEOTips",
-    "#TampaBay",
-    "#GetFoundOnline"
+    "#GetFoundOnline",
+    "#SmallBizMarketing",
+    "#TampaBay"
   ],
-  "topicId": "nap-consistency",
-  "hook": "One wrong phone number on an old directory can hurt your ranking",
-  "themeId": "clay"
+  "topicId": "gbp-messaging",
+  "hook": "The Google profile button that sends leads straight to your phone",
+  "themeId": "signal"
 }
