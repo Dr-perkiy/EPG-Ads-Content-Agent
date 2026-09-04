@@ -295,6 +295,25 @@
         "https://www.instagram.com/p/Dc33FtgnVDL/",
         "https://facebook.com/1321161914409792_122106712035449137"
       ]
+    },
+    {
+      "topicId": "gbp-messaging",
+      "themeId": "signal",
+      "hook": "The Google profile button that sends leads straight to your phone",
+      "outcome": "published",
+      "postedAt": "2026-09-04T23:05:22.028Z",
+      "platforms": [
+        "facebook"
+      ],
+      "urls": [
+        "https://facebook.com/1321161914409792_122106782283449137"
+      ],
+      "errors": [
+        {
+          "platform": "instagram",
+          "error": "Meta Graph API 500: An unexpected error has occurred. Please retry your request later. (code 2)"
+        }
+      ]
     }
   ]
 }
