@@ -314,6 +314,15 @@
           "error": "Meta Graph API 500: An unexpected error has occurred. Please retry your request later. (code 2)"
         }
       ]
+    },
+    {
+      "topicId": "questions-and-answers",
+      "hook": "Anyone can answer questions on your Google profile, including competitors",
+      "outcome": "blocked",
+      "postedAt": "2026-09-07T23:31:21.318Z",
+      "violations": [
+        "[block] no-awards: Contains an award or ranking claim about EPG: \"voted\""
+      ]
     }
   ]
 }
