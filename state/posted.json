@@ -323,6 +323,21 @@
       "violations": [
         "[block] no-awards: Contains an award or ranking claim about EPG: \"voted\""
       ]
+    },
+    {
+      "topicId": "keyword-in-name",
+      "themeId": "signal",
+      "hook": "Why stuffing keywords into your business name can get you suspended",
+      "outcome": "published",
+      "postedAt": "2026-09-08T17:17:32.357Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DdCM80PmHtZ/",
+        "https://facebook.com/1321161914409792_122108240727449137"
+      ]
     }
   ]
 }
