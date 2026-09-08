@@ -338,6 +338,21 @@
         "https://www.instagram.com/p/DdCM80PmHtZ/",
         "https://facebook.com/1321161914409792_122108240727449137"
       ]
+    },
+    {
+      "topicId": "accurate-hours",
+      "themeId": "violet",
+      "hook": "Wrong hours on Google cost you more customers than bad reviews",
+      "outcome": "published",
+      "postedAt": "2026-09-08T23:26:50.542Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DdC3QcSoAP0/",
+        "https://facebook.com/1321161914409792_122108341725449137"
+      ]
     }
   ]
 }
