@@ -1,73 +1,73 @@
 {
   "cover": {
-    "eyebrow": "Google Business Profile risk",
-    "headline": "Keyword stuffing your business name gets you *suspended*",
-    "subhead": "It lifts your ranking for a while, then Google takes the whole listing down."
+    "eyebrow": "Google Business Profile",
+    "headline": "Wrong hours cost you more than *bad* reviews",
+    "subhead": "A customer who drives to a locked door does not come back, and Google notices."
   },
   "context": {
-    "eyebrow": "What is at stake",
-    "headline": "A suspended profile means *zero* map leads",
+    "eyebrow": "Why it matters",
+    "headline": "Your hours are a *trust* signal, not a detail",
     "paragraphs": [
-      "I see it every week in Tampa and Brandon. A plumber named Smith Plumbing shows up on Google as Smith Plumbing Tampa Best Emergency Plumber 24 Hour Drain Repair. It ranks. For a few months it even ranks well. Then the listing disappears and the phone stops ringing.",
-      "The good news: the fix takes about two minutes, and doing it the honest way still gets you into the top 3. Keywords belong in your services, your description, and your website, not in your name."
+      "Google shows your hours right next to your name in the map pack. When someone searches at 6pm in Brandon and your profile says open, they go. If the lights are off, that is a wasted trip and a bad first impression of your business.",
+      "The good news: hours are one of the easiest things on your profile to fix, and you can fix them in about ten minutes today."
     ]
   },
   "points": [
     {
-      "label": "Match your real signage",
-      "title": "Use the name on your *door*",
-      "body": "Google's rule is plain: your profile name must be the name customers see in the real world. That means your sign, your truck wrap, your invoices, your storefront window. If a Google reviewer looks you up and the name does not match, that is grounds for a suspension.",
-      "action": "Open your profile, edit the name field, and delete everything that is not on your sign or your invoice."
+      "label": "Accurate every week",
+      "title": "Set *real* hours, then holidays",
+      "body": "Most profiles I audit still show hours from the day they were created. If you close at 4pm now, say 4pm. Then walk the calendar forward and update every holiday you actually close, from Thanksgiving to the Fourth of July.",
+      "action": "Open your profile, check each day against your actual schedule, and set the next three holidays now."
     },
     {
-      "label": "Someone will report it",
-      "title": "Competitors report you *fast*",
-      "body": "Anyone can suggest an edit to your name, and any competitor sitting at position four can report you in under a minute. Google also runs automated checks that flag service words and city names inside business names. So you are not hiding from one system, you are hiding from *two*.",
-      "action": "Search your main keyword, look at the top 3, and check whether their names are clean. Usually they are."
+      "label": "The one star trap",
+      "title": "A locked door earns *one* stars",
+      "body": "Nothing triggers an angry review faster than a drive across town to a closed business. Those reviews mention being closed, and future customers read them. You lose the sale, the review score, and the trust, all from one line of text.",
+      "action": "If you closed early this week, add a note in your Google post so anyone searching sees it before they drive out."
     },
     {
-      "label": "The math does not work",
-      "title": "Reinstatement takes *weeks*",
-      "body": "A hard suspension wipes your listing, and your reviews go with it until you win an appeal. Appeals can drag on for weeks, and you need documents like your business license, utility bills, and photos of your signage to get back. A few months of a fake ranking bump is not worth losing your reviews and your map leads during your busy season.",
-      "action": "Save photos of your signage and a copy of your license now, so you have proof ready if you are ever flagged."
+      "label": "Use the built in field",
+      "title": "Special hours exist for *this*",
+      "body": "Google gives you a special hours field for single dates. Use it instead of deleting your regular hours or marking yourself temporarily closed. Google then shows a clear closed on this date label, and your normal schedule comes back on its own.",
+      "action": "In your profile, tap Hours, then More hours or Special hours, and enter every date you are closed or on a short day."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Cleaning up your name protects you, but it does not rank you on its own. The lift comes from the rest of the profile.",
+    "body": "Fixing hours removes a real reason people bounce and complain. It is one piece of a profile that ranks.",
     "done": [
-      "Name matches signage",
-      "Report risk understood",
-      "Proof documents saved"
+      "Real weekly hours",
+      "No locked door surprises",
+      "Special hours set"
     ],
-    "locked": "Service list and descriptions, primary category choice, citation consistency, review velocity, geo-tagged photos, landing page relevance"
+    "locked": "Category setup, service list depth, review replies, photo cadence, local citations, landing page relevance"
   },
   "cta": {
     "eyebrow": "Next step",
     "headline": "Get a *free* Google audit",
-    "body": "I will look at your profile, tell you if your name puts you at risk, and show you what is actually holding your ranking back. No obligation.",
+    "body": "I will look at your profile and tell you what is holding your ranking back, in plain language. No obligation.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "Stuffing keywords into your Google business name works, right up until your listing vanishes.\n\n1. Your profile name has to match your real world signage. Sign, truck, invoice, window. If a reviewer checks and it does not match, that is a suspension.\n\n2. Competitors report stuffed names in under a minute, and Google's automated checks flag city and service words too. You are hiding from two systems, not one.\n\n3. A hard suspension takes your reviews with it. Appeals can run for weeks and you need your license, a utility bill, and photos of your signage to get back in. That is a bad trade for a temporary bump.\n\nPut the keywords in your services, description, and website instead. Same lift, no risk.\n\nWant to know if your name is a problem? Book a free Google audit at epgads.net.\n\nSave this before you touch that name field.",
-  "linkedinPost": "Keyword stuffing a Google Business Profile name is still one of the most common shortcuts I see in Tampa Bay. It ranks, for a while.\n\nThree things owners underestimate: your listed name must match your real world signage, competitors and Google's automated checks both flag stuffed names, and a hard suspension takes your reviews offline while you appeal.\n\nAppeals need documents: business license, utility bill, photos of your signage. That process can run weeks during your busiest season.\n\nThe keywords still belong in your profile, just in the services, categories, and description where Google wants them.\n\nIf you want to know whether your name is a liability, book a free Google audit at epgads.net.",
+  "instagramCaption": "Wrong hours on Google lose you more customers than a bad review ever will.\n\n1. Set your real hours, then update them for every holiday you close. Most profiles still show the hours they were set up with.\n\n2. A locked door when Google says open is how you earn instant one star reviews. Future customers read those.\n\n3. Use the special hours field for single dates. Google shows a clear closed label and your normal schedule returns by itself.\n\nTen minutes of work. Want to know what else is holding your ranking back? Book a free Google audit at epgads.net.\n\nSave this before the next holiday weekend.",
+  "linkedinPost": "Wrong hours on your Google Business Profile cost you more customers than bad reviews do.\n\nSet your real weekly hours, then update them for every holiday you close.\n\nWhen Google says open and the door is locked, you get one star reviews that mention it, and future customers read them.\n\nUse the special hours field for single dates. Google labels the closure and your regular schedule comes back automatically.\n\nWant to know what else is capping your ranking? Book a free Google audit at epgads.net.",
   "article": {
-    "title": "Keyword Stuffing Your Google Business Profile Name: Why Tampa and Brandon Businesses Get Suspended",
-    "body": "Keyword stuffing a Google Business Profile name is the most common shortcut I find when I audit local businesses in Tampa, Brandon, and Riverview. The profile name reads something like Smith Plumbing Tampa Best Emergency Plumber 24 Hour Drain Repair. It ranks. Sometimes it ranks well for months. Then the listing disappears, and the owner calls me asking why the phone went quiet.\n\nHere is the honest version of how this tactic works, why it stops working, and what to do instead.\n\nWhy it works at all\n\nGoogle's local algorithm looks at relevance, distance, and prominence. Your business name is one of the strongest relevance signals on the profile, because Google treats it as the official identity of the business. When you drop your city and your main service into that field, you are inflating a signal Google trusts. That is exactly why it moves the needle, and exactly why Google polices it.\n\nRule one: your name must match your real world signage\n\nGoogle's guidelines are not vague on this. Your profile name has to be the name customers actually encounter in the real world. That means your storefront sign, your truck wrap, your invoices, your business license, your front window.\n\nIf your van says Smith Plumbing and your profile says Smith Plumbing Tampa Emergency Drain Repair, you are outside the guidelines. A Google reviewer looking at your profile during a verification check or an appeal will see that gap immediately. Street View imagery, your website, and your licensing records all get compared.\n\nThe only extras allowed are things that are genuinely part of your legal or trading name. A location descriptor is fine when it is truly part of the brand, for example Brandon Auto Glass if that is the registered name on the sign. Adding Brandon to a name that does not carry it is a different thing.\n\nRule two: competitors and Google both report stuffed names\n\nTwo separate systems will find you.\n\nThe first is human. Anyone can suggest an edit to your business name from the search results. A competitor sitting in position four, watching you outrank them with a stuffed name, can report it in under a minute. Local SEO people do this routinely, because removing keyword spam from the map pack is the fastest way to improve their own client's position. In competitive Tampa Bay categories like plumbing, roofing, HVAC, law, and dentistry, expect it.\n\nThe second is automated. Google runs pattern checks that flag service terms and city names inside business names. These sweeps happen without any human tipping them off. So even in a quiet niche, time is not on your side.\n\nRule three: a suspension costs far more than the bump\n\nThere are two outcomes when you get flagged, and one of them is expensive.\n\nA soft suspension means the name gets reverted, or your edits stop taking effect. Annoying, survivable.\n\nA hard suspension removes your listing from Google Maps and Search entirely. Your reviews go with it. Everything you built up over years is offline until you win an appeal. During the appeal you need to supply proof: your business license, a recent utility bill at the address, photos of your exterior signage, sometimes registration documents. If your documents are thin or your address is a home office, the process gets harder.\n\nAppeals commonly run for weeks. Now put that against your busiest season. A few months of an inflated ranking is not worth going dark in July, or losing the review history that took you years to earn.\n\nWhat to do instead\n\nPut the keywords where Google wants them.\n\nFix your name first. Edit the name field so it matches your sign and your invoices. Nothing else.\n\nChoose your primary category carefully. This carries far more ranking weight than most owners realise, and it is the legitimate version of the signal you were trying to fake.\n\nFill out your services. List every service with its own name and a short description. This is a large text field and it is meant to be specific.\n\nWrite a real business description. Mention Tampa, Brandon, or whichever areas you actually serve, in plain sentences.\n\nBuild service pages on your website. A page for each service, with the location named, does the relevance work your business name cannot legally do.\n\nKeep reviews coming and reply to them. Prominence is the third pillar of local ranking, and it is the one competitors cannot report you for.\n\nFAQ\n\nWill Google warn me before suspending my profile?\n\nNot always. Soft suspensions sometimes show as a rejected edit. Hard suspensions can arrive with no warning and only a notification in your dashboard.\n\nCan I get my reviews back after a suspension?\n\nUsually yes, if the appeal succeeds and the listing is reinstated. If it fails, you can lose them.\n\nIs it safe to keep a location in my name if it is my legal name?\n\nYes, if that name appears on your signage, license, and paperwork. Consistency is what matters.\n\nI already have a stuffed name. Should I change it now?\n\nYes. Change it back before someone reports it. A voluntary correction is far safer than an appeal.\n\nWill my ranking drop when I remove the keywords?\n\nIt may dip. Then you rebuild it with categories, services, reviews, and pages that cannot be taken away from you.\n\nGet a free audit\n\nIf you are not sure whether your business name puts you at risk, or you want to know what is really holding your ranking back, I will take a look. Book a free Google audit at https://epgads.net. I will tell you what I find, and you decide what to do with it."
+    "title": "Google Business Profile Hours: The Trust Signal Costing Tampa and Brandon Businesses Customers",
+    "body": "Google Business Profile hours look like a small setting. They are one of the fastest ways to lose a customer you already earned.\n\nSomeone in Brandon searches for what you sell. Your profile shows up. It says open. They drive over. The door is locked. That customer does not call you tomorrow. They call the next business on the list, and some of them leave a review about the wasted trip on the way home.\n\nBad reviews hurt. Wrong hours hurt more, because wrong hours create the bad reviews and lose the sale at the same time.\n\nWhy hours carry so much weight\n\nGoogle puts your hours right next to your name in the map pack. It is one of the first things a searcher reads, alongside your rating and your distance. Open now is a decision trigger. If your profile says open now and you are not, Google delivered a promise you did not keep.\n\nGoogle also watches how people behave after they see you. Someone who taps your listing, gets directions, and then goes back to search for a competitor is a signal. Do that often enough and you look like a poor answer to that search.\n\nHoliday weeks are the worst offenders in Tampa Bay. Thanksgiving, Christmas Eve, New Years Day, the Fourth of July. Most local profiles roll straight through those days showing normal hours because nobody thought to change them.\n\nFix one: set real hours and update every holiday\n\nStart by comparing your listed hours to what you actually do. Many profiles still show whatever was typed in on the day they were created. If you moved your Saturday close from 5pm to 2pm two summers ago, Google may still be sending people at 4:30.\n\nThen walk the calendar forward. Pick the next three holidays you know you close or shorten and handle them now, while you are already in the dashboard. Doing it once a quarter beats doing it never.\n\nIf your team answers the phone outside of walk in hours, that is not the same thing. List the hours your door is actually open, and let your website or a Google post explain phone availability.\n\nFix two: a locked door earns instant one star reviews\n\nRead the one star reviews on any local business and you will find the same complaint over and over: I drove there and they were closed. Those reviews are hard to answer well and they stay visible for years.\n\nThat review does three things at once. It lowers your average. It gives the next searcher a reason to skip you. And it tells Google that people who choose you end up unhappy.\n\nIf you close early on a given day, say so before people arrive. A short Google post that says we are closing at 2pm today for the holiday shows on your profile and prevents the trip.\n\nFix three: use the special hours field\n\nGoogle built a field for this. In your profile, go to Hours, then look for More hours or Special hours. Enter the date and either the shortened times or mark it closed.\n\nUse that field instead of the two shortcuts business owners reach for. Do not delete your regular hours for the day, because then Google shows nothing and searchers assume you are unreliable. Do not mark yourself temporarily closed for a single holiday either, because that setting suppresses how you show in results and people forget to turn it off.\n\nSpecial hours are cleaner. Google displays a clear closed on this date note, and your normal schedule returns on its own the next day. Nothing to remember, nothing to undo.\n\nA ten minute routine\n\nOnce a quarter, open your profile and do three things. Check the weekly hours against reality. Add special hours for every upcoming holiday and any planned closure. Read your recent reviews for anyone mentioning hours, and reply to those first.\n\nThat is it. No tools, no budget, no developer.\n\nFAQ\n\nDo wrong hours actually affect ranking?\n\nNot as a direct setting Google grades. But they drive the behavior Google does measure: people tapping away from your listing, and reviews complaining about being closed. Both work against you.\n\nShould I mark myself temporarily closed for a holiday?\n\nNo. That setting is for extended closures like a remodel. For a single day, use special hours.\n\nWhat if my hours change week to week?\n\nList your most consistent baseline, then use special hours for the exceptions. Do not leave the field blank. An empty hours section makes searchers pick someone else.\n\nDo special hours help my reviews?\n\nIndirectly, yes. Fewer wasted trips means fewer reviews from people who never got to buy from you.\n\nThe bigger picture\n\nHours are one item on a longer list. Categories, services, photos, review replies, citations, and the page your profile links to all move your position in the map pack.\n\nIf you want to know which of those are holding you back, book a free Google audit at https://epgads.net. I will look at your profile and tell you what to fix, in plain language. And if we work together, the guarantee is simple: top 3 on Google within 90 days or your money back."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#TampaBusiness",
+    "#TampaSmallBusiness",
     "#BrandonFL",
-    "#MapPack",
     "#GoogleMaps",
+    "#MapPack",
     "#SEOTips",
     "#TampaBay",
-    "#GoogleRanking"
+    "#GetFoundOnline"
   ],
-  "topicId": "keyword-in-name",
-  "hook": "Why stuffing keywords into your business name can get you suspended",
-  "themeId": "signal"
+  "topicId": "accurate-hours",
+  "hook": "Wrong hours on Google cost you more customers than bad reviews",
+  "themeId": "violet"
 }
