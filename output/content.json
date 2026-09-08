@@ -1,72 +1,73 @@
 {
   "cover": {
-    "eyebrow": "Google profile settings",
-    "headline": "There is a *text me* button you never switched on",
-    "subhead": "Messaging is off by default on most Google Business Profiles, so leads that would rather text just move on."
+    "eyebrow": "Google Business Profile risk",
+    "headline": "Keyword stuffing your business name gets you *suspended*",
+    "subhead": "It lifts your ranking for a while, then Google takes the whole listing down."
   },
   "context": {
-    "eyebrow": "Why it matters",
-    "headline": "A free lead channel is sitting *dark* on your listing",
+    "eyebrow": "What is at stake",
+    "headline": "A suspended profile means *zero* map leads",
     "paragraphs": [
-      "Plenty of people in Tampa and Brandon will not call a business they have never used. They are at work, they are on a job site, they have a kid asleep in the car. If there is no way to send a quick message, they tap the next listing that lets them.",
-      "The good news: messaging is built into your Google Business Profile, it costs nothing, and turning it on takes about two minutes. Texts land in the Google Business Profile app on your phone, and you reply like a normal message."
+      "I see it every week in Tampa and Brandon. A plumber named Smith Plumbing shows up on Google as Smith Plumbing Tampa Best Emergency Plumber 24 Hour Drain Repair. It ranks. For a few months it even ranks well. Then the listing disappears and the phone stops ringing.",
+      "The good news: the fix takes about two minutes, and doing it the honest way still gets you into the top 3. Keywords belong in your services, your description, and your website, not in your name."
     ]
   },
   "points": [
     {
-      "label": "Switch the channel on",
-      "title": "Turn *messaging* on today",
-      "body": "Open your profile in Google Search or the Google Business Profile app, find the messages section, and enable chat. Once it is live, a message button shows up next to call and directions on your listing and in Maps. That button is the whole point: it gives a quiet buyer a way to reach you without dialing.",
-      "action": "Enable chat in your profile, then send yourself a test message from another phone."
+      "label": "Match your real signage",
+      "title": "Use the name on your *door*",
+      "body": "Google's rule is plain: your profile name must be the name customers see in the real world. That means your sign, your truck wrap, your invoices, your storefront window. If a Google reviewer looks you up and the name does not match, that is grounds for a suspension.",
+      "action": "Open your profile, edit the name field, and delete everything that is not on your sign or your invoice."
     },
     {
-      "label": "Cover the off hours",
-      "title": "Write a real *away* reply",
-      "body": "Google lets you set an automatic first response. Use it to say when you will reply and what you need from them, like their address, the service they want, and a good time to call. Silence after someone reaches out is worse than no button at all.",
-      "action": "Set your welcome message to one line plus one question so the lead keeps typing."
+      "label": "Someone will report it",
+      "title": "Competitors report you *fast*",
+      "body": "Anyone can suggest an edit to your name, and any competitor sitting at position four can report you in under a minute. Google also runs automated checks that flag service words and city names inside business names. So you are not hiding from one system, you are hiding from *two*.",
+      "action": "Search your main keyword, look at the top 3, and check whether their names are clean. Usually they are."
     },
     {
-      "label": "Speed keeps it alive",
-      "title": "Answer *fast* or lose it",
-      "body": "Google tracks how long you take to respond, and profiles that leave messages sitting can have the feature switched off. Aim to reply inside a few minutes during business hours. Turn on message notifications so a lead is not buried under group texts.",
-      "action": "Add the Google Business Profile app to your home screen and allow its notifications."
+      "label": "The math does not work",
+      "title": "Reinstatement takes *weeks*",
+      "body": "A hard suspension wipes your listing, and your reviews go with it until you win an appeal. Appeals can drag on for weeks, and you need documents like your business license, utility bills, and photos of your signage to get back. A few months of a fake ranking bump is not worth losing your reviews and your map leads during your busy season.",
+      "action": "Save photos of your signage and a copy of your license now, so you have proof ready if you are ever flagged."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Messaging brings in leads you were already losing. It does not, by itself, move you into the top 3 for the searches that matter.",
+    "body": "Cleaning up your name protects you, but it does not rank you on its own. The lift comes from the rest of the profile.",
     "done": [
-      "Messaging on",
-      "Away reply set",
-      "Fast responses"
+      "Name matches signage",
+      "Report risk understood",
+      "Proof documents saved"
     ],
-    "locked": "Category and service setup, review velocity, citation cleanup, photo cadence, service area, website and profile match"
+    "locked": "Service list and descriptions, primary category choice, citation consistency, review velocity, geo-tagged photos, landing page relevance"
   },
   "cta": {
     "eyebrow": "Next step",
-    "headline": "Get a *free* audit of your Google profile",
-    "body": "I will look at your listing and tell you what is holding your ranking back, in plain language. No pitch, no obligation.",
+    "headline": "Get a *free* Google audit",
+    "body": "I will look at your profile, tell you if your name puts you at risk, and show you what is actually holding your ranking back. No obligation.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "Most Google Business Profiles have messaging turned off, and the owner has no idea.\n\n1. Turn messaging on. In Google Search or the Google Business Profile app, enable chat. A message button appears on your listing next to call and directions.\n\n2. Set an away reply. One line saying when you will respond, plus a question that keeps them typing.\n\n3. Reply fast. Google can disable messaging for slow responders, so switch on notifications and answer within minutes during business hours.\n\nSome people will never call a stranger. They will text. Give them the option.\n\nWant to know what else is capping your ranking? Free Google audit at epgads.net.\n\nSave this and go check your settings.",
-  "linkedinPost": "Messaging is off by default on most Google Business Profiles, which means a free lead channel is sitting unused.\n\nThree steps: enable chat in your profile so a message button appears on your listing, set an away reply that tells people when you will respond and asks for one detail, and answer quickly, because Google can disable the feature for slow responders.\n\nBuyers who will not call a business they have never used will still send a text. Give them the option.\n\nWant to see what else is holding your ranking back? Free Google audit at epgads.net.",
+  "instagramCaption": "Stuffing keywords into your Google business name works, right up until your listing vanishes.\n\n1. Your profile name has to match your real world signage. Sign, truck, invoice, window. If a reviewer checks and it does not match, that is a suspension.\n\n2. Competitors report stuffed names in under a minute, and Google's automated checks flag city and service words too. You are hiding from two systems, not one.\n\n3. A hard suspension takes your reviews with it. Appeals can run for weeks and you need your license, a utility bill, and photos of your signage to get back in. That is a bad trade for a temporary bump.\n\nPut the keywords in your services, description, and website instead. Same lift, no risk.\n\nWant to know if your name is a problem? Book a free Google audit at epgads.net.\n\nSave this before you touch that name field.",
+  "linkedinPost": "Keyword stuffing a Google Business Profile name is still one of the most common shortcuts I see in Tampa Bay. It ranks, for a while.\n\nThree things owners underestimate: your listed name must match your real world signage, competitors and Google's automated checks both flag stuffed names, and a hard suspension takes your reviews offline while you appeal.\n\nAppeals need documents: business license, utility bill, photos of your signage. That process can run weeks during your busiest season.\n\nThe keywords still belong in your profile, just in the services, categories, and description where Google wants them.\n\nIf you want to know whether your name is a liability, book a free Google audit at epgads.net.",
   "article": {
-    "title": "Google Business Profile Messaging: The Free Lead Channel Most Tampa and Brandon Businesses Never Turn On",
-    "body": "If you run a local business in Tampa or Brandon, there is a good chance your Google Business Profile has a feature switched off that would bring you leads for free. It is messaging. Most profiles have it disabled by default, and most owners have never opened the setting.\n\nHere is what it does, how to set it up properly, and how to keep Google from taking it away.\n\nWhat Google Business Profile messaging actually is\n\nWhen messaging is enabled, a message button appears on your listing in Google Search and Google Maps, right next to call and directions. Someone taps it, types a question, and the message arrives in the Google Business Profile app on your phone. You reply the way you reply to any text. No extra software, no cost.\n\nWhy it matters more than owners expect\n\nA lot of people will not call a business they have never used. They are at work, on a job site, in a waiting room, or sitting in the car with a sleeping kid. Calling a stranger feels like a commitment. Sending a short message does not.\n\nWhen your listing has no message button, those people do not call you instead. They tap the next listing in the map pack that does let them message. You never see the lead, so you never know you lost it.\n\nThat is the part worth sitting with. This is not a lead source you have to buy. It is a lead source you already own and have not switched on.\n\nStep one: turn messaging on\n\nOpen your business profile in Google Search while logged into the account that manages it, or open the Google Business Profile app. Find the messages section and enable chat.\n\nVerify your phone number if Google asks. Then test it. Pull up your listing on a different phone, tap message, and send yourself something. If it arrives, you are live. If it does not, the setting did not save, which happens more often than it should.\n\nStep two: set an away reply that does work\n\nGoogle lets you set an automatic first response that fires the moment someone messages you. Most owners either skip this or write something empty like thanks for reaching out.\n\nUse the space better. Do two things in it:\n\nTell them when you will reply. Something like: got your message, I answer within the hour during business hours.\n\nAsk for one useful detail. The service they need, their neighborhood, or a good time to call. Now the lead is qualifying itself while you finish the job you are on.\n\nSilence after someone reaches out is worse than having no button at all. An away reply makes sure nobody gets silence.\n\nStep three: answer fast, or Google turns it off\n\nThis is the part that surprises people. Google tracks your response time on messages. Profiles that consistently leave messages sitting can have the messaging feature disabled entirely.\n\nThat is a fair rule. A message button that leads nowhere makes Google look bad. So treat these like phone calls, not like email.\n\nTwo practical moves:\n\nPut the Google Business Profile app on your home screen and allow its notifications. Messages get missed when they are buried in a notification list you swipe away.\n\nDecide who answers. If you have staff, give one person the app and make replies part of their job. Aim to respond within a few minutes during business hours.\n\nWhat messaging will and will not do\n\nMessaging captures leads you were already losing. It gets you conversations from people who would never have dialed.\n\nWhat it will not do on its own is move you into the top 3 of the map pack. Ranking comes from a stack of things working together: correct primary category, complete services, consistent name address and phone across the web, a steady flow of reviews with replies, fresh photos, an accurate service area, and a website that matches your profile. Messaging sits on top of that stack. It is worth doing, and it is one of eight to ten things that need attention.\n\nFAQ\n\nIs Google Business Profile messaging free?\nYes. It is included with your profile at no cost.\n\nWhere do the messages go?\nTo the Google Business Profile app on your phone. You reply from there.\n\nCan customers see my personal cell number?\nNo. Messages route through Google, so your personal number stays private.\n\nDoes messaging help my ranking?\nNot directly. It helps conversion, which means more of the people who already find you turn into customers. Engagement signals like this also tell Google your listing is active.\n\nWhat if I get spam messages?\nYou can report and block them inside the app. It is not common, and the trade for real leads is worth it.\n\nCan I turn it off later?\nYes, at any time. But if leads are coming in, the better fix is a faster response process, not a switch.\n\nNext step\n\nCheck your profile today. If messaging is off, turn it on, write an away reply that asks a question, and switch on notifications. That is a real lead channel opened in under five minutes.\n\nIf you want to know what else is holding your listing out of the top 3, I will audit your Google Business Profile for free and tell you plainly what needs fixing. No pitch, no obligation. Go to epgads.net to book it."
+    "title": "Keyword Stuffing Your Google Business Profile Name: Why Tampa and Brandon Businesses Get Suspended",
+    "body": "Keyword stuffing a Google Business Profile name is the most common shortcut I find when I audit local businesses in Tampa, Brandon, and Riverview. The profile name reads something like Smith Plumbing Tampa Best Emergency Plumber 24 Hour Drain Repair. It ranks. Sometimes it ranks well for months. Then the listing disappears, and the owner calls me asking why the phone went quiet.\n\nHere is the honest version of how this tactic works, why it stops working, and what to do instead.\n\nWhy it works at all\n\nGoogle's local algorithm looks at relevance, distance, and prominence. Your business name is one of the strongest relevance signals on the profile, because Google treats it as the official identity of the business. When you drop your city and your main service into that field, you are inflating a signal Google trusts. That is exactly why it moves the needle, and exactly why Google polices it.\n\nRule one: your name must match your real world signage\n\nGoogle's guidelines are not vague on this. Your profile name has to be the name customers actually encounter in the real world. That means your storefront sign, your truck wrap, your invoices, your business license, your front window.\n\nIf your van says Smith Plumbing and your profile says Smith Plumbing Tampa Emergency Drain Repair, you are outside the guidelines. A Google reviewer looking at your profile during a verification check or an appeal will see that gap immediately. Street View imagery, your website, and your licensing records all get compared.\n\nThe only extras allowed are things that are genuinely part of your legal or trading name. A location descriptor is fine when it is truly part of the brand, for example Brandon Auto Glass if that is the registered name on the sign. Adding Brandon to a name that does not carry it is a different thing.\n\nRule two: competitors and Google both report stuffed names\n\nTwo separate systems will find you.\n\nThe first is human. Anyone can suggest an edit to your business name from the search results. A competitor sitting in position four, watching you outrank them with a stuffed name, can report it in under a minute. Local SEO people do this routinely, because removing keyword spam from the map pack is the fastest way to improve their own client's position. In competitive Tampa Bay categories like plumbing, roofing, HVAC, law, and dentistry, expect it.\n\nThe second is automated. Google runs pattern checks that flag service terms and city names inside business names. These sweeps happen without any human tipping them off. So even in a quiet niche, time is not on your side.\n\nRule three: a suspension costs far more than the bump\n\nThere are two outcomes when you get flagged, and one of them is expensive.\n\nA soft suspension means the name gets reverted, or your edits stop taking effect. Annoying, survivable.\n\nA hard suspension removes your listing from Google Maps and Search entirely. Your reviews go with it. Everything you built up over years is offline until you win an appeal. During the appeal you need to supply proof: your business license, a recent utility bill at the address, photos of your exterior signage, sometimes registration documents. If your documents are thin or your address is a home office, the process gets harder.\n\nAppeals commonly run for weeks. Now put that against your busiest season. A few months of an inflated ranking is not worth going dark in July, or losing the review history that took you years to earn.\n\nWhat to do instead\n\nPut the keywords where Google wants them.\n\nFix your name first. Edit the name field so it matches your sign and your invoices. Nothing else.\n\nChoose your primary category carefully. This carries far more ranking weight than most owners realise, and it is the legitimate version of the signal you were trying to fake.\n\nFill out your services. List every service with its own name and a short description. This is a large text field and it is meant to be specific.\n\nWrite a real business description. Mention Tampa, Brandon, or whichever areas you actually serve, in plain sentences.\n\nBuild service pages on your website. A page for each service, with the location named, does the relevance work your business name cannot legally do.\n\nKeep reviews coming and reply to them. Prominence is the third pillar of local ranking, and it is the one competitors cannot report you for.\n\nFAQ\n\nWill Google warn me before suspending my profile?\n\nNot always. Soft suspensions sometimes show as a rejected edit. Hard suspensions can arrive with no warning and only a notification in your dashboard.\n\nCan I get my reviews back after a suspension?\n\nUsually yes, if the appeal succeeds and the listing is reinstated. If it fails, you can lose them.\n\nIs it safe to keep a location in my name if it is my legal name?\n\nYes, if that name appears on your signage, license, and paperwork. Consistency is what matters.\n\nI already have a stuffed name. Should I change it now?\n\nYes. Change it back before someone reports it. A voluntary correction is far safer than an appeal.\n\nWill my ranking drop when I remove the keywords?\n\nIt may dip. Then you rebuild it with categories, services, reviews, and pages that cannot be taken away from you.\n\nGet a free audit\n\nIf you are not sure whether your business name puts you at risk, or you want to know what is really holding your ranking back, I will take a look. Book a free Google audit at https://epgads.net. I will tell you what I find, and you decide what to do with it."
   },
   "hashtags": [
     "#LocalSEO",
     "#GoogleBusinessProfile",
-    "#TampaSmallBusiness",
+    "#TampaBusiness",
     "#BrandonFL",
     "#MapPack",
-    "#GetFoundOnline",
-    "#SmallBizMarketing",
-    "#TampaBay"
+    "#GoogleMaps",
+    "#SEOTips",
+    "#TampaBay",
+    "#GoogleRanking"
   ],
-  "topicId": "gbp-messaging",
-  "hook": "The Google profile button that sends leads straight to your phone",
+  "topicId": "keyword-in-name",
+  "hook": "Why stuffing keywords into your business name can get you suspended",
   "themeId": "signal"
 }
