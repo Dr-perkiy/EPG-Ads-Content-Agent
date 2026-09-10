@@ -1,60 +1,60 @@
 {
   "cover": {
-    "eyebrow": "Google Business Profile",
-    "headline": "Wrong hours cost you more than *bad* reviews",
-    "subhead": "A customer who drives to a locked door does not come back, and Google notices."
+    "eyebrow": "Google Business Profile tip",
+    "headline": "Use the products tab even if you sell *services*",
+    "subhead": "Plumbers, lawyers, gyms and salons can all fill this section, and most Tampa businesses leave it empty."
   },
   "context": {
     "eyebrow": "Why it matters",
-    "headline": "Your hours are a *trust* signal, not a detail",
+    "headline": "An empty tab is *free space* your competitor is using",
     "paragraphs": [
-      "Google shows your hours right next to your name in the map pack. When someone searches at 6pm in Brandon and your profile says open, they go. If the lights are off, that is a wasted trip and a bad first impression of your business.",
-      "The good news: hours are one of the easiest things on your profile to fix, and you can fix them in about ten minutes today."
+      "When someone taps your profile in Google Maps, they see tabs across the top: overview, reviews, photos, products. If the products tab is blank, they get nothing to look at and they back out to the next listing in the map pack.",
+      "Good news: Google does not check whether you actually sell physical goods. You can add drain cleaning, a will package, a personal training block, a balayage appointment. Each one becomes a card with a picture, a price and text. It takes an afternoon and it costs nothing."
     ]
   },
   "points": [
     {
-      "label": "Accurate every week",
-      "title": "Set *real* hours, then holidays",
-      "body": "Most profiles I audit still show hours from the day they were created. If you close at 4pm now, say 4pm. Then walk the calendar forward and update every holiday you actually close, from Thanksgiving to the Fourth of July.",
-      "action": "Open your profile, check each day against your actual schedule, and set the next three holidays now."
+      "label": "List services as products",
+      "title": "Every service becomes an *entry*",
+      "body": "Open your profile, go to edit products, and add one entry per service you actually want to sell. An AC company might add tune ups, duct cleaning, emergency repair and system replacement. Keep it to the work you want more of, not a list of everything you have ever done.",
+      "action": "Write down your five most profitable services and add each one as a separate product today."
     },
     {
-      "label": "The one star trap",
-      "title": "A locked door earns *one* stars",
-      "body": "Nothing triggers an angry review faster than a drive across town to a closed business. Those reviews mention being closed, and future customers read them. You lose the sale, the review score, and the trust, all from one line of text.",
-      "action": "If you closed early this week, add a note in your Google post so anyone searching sees it before they drive out."
+      "label": "Photo, price, description",
+      "title": "Fill in *all three* fields",
+      "body": "Each entry holds its own photo, a price or price range, and a description of about a thousand characters. Use a real job photo, not stock. If you hate posting prices, use a range with a starting figure, because a range still beats a blank field for people comparing you to the shop down the road.",
+      "action": "Pull one real photo per service off your phone and upload it with a starting price."
     },
     {
-      "label": "Use the built in field",
-      "title": "Special hours exist for *this*",
-      "body": "Google gives you a special hours field for single dates. Use it instead of deleting your regular hours or marking yourself temporarily closed. Google then shows a clear closed on this date label, and your normal schedule comes back on its own.",
-      "action": "In your profile, tap Hours, then More hours or Special hours, and enter every date you are closed or on a short day."
+      "label": "More text on your profile",
+      "title": "You gain *indexed* text",
+      "body": "Your profile has very little room for words. The description caps out fast and categories are just labels. Every product description adds more relevant text tied to your listing, so write naturally about the job, the neighborhoods you cover, and what is included.",
+      "action": "In each description, name the service plainly and mention the city you serve, like Brandon or Riverview, once."
     }
   ],
   "recap": {
     "eyebrow": "The honest part",
     "headline": "Thats 3. There are usually *8-10*.",
-    "body": "Fixing hours removes a real reason people bounce and complain. It is one piece of a profile that ranks.",
+    "body": "The products tab is one of the easier wins, and it works. It is not the only reason you are sitting below three competitors in the map pack.",
     "done": [
-      "Real weekly hours",
-      "No locked door surprises",
-      "Special hours set"
+      "Services listed",
+      "Photos and prices",
+      "Extra profile text"
     ],
-    "locked": "Category setup, service list depth, review replies, photo cadence, local citations, landing page relevance"
+    "locked": "Category setup, review pace and replies, citation cleanup, service area, photo cadence, website relevance"
   },
   "cta": {
     "eyebrow": "Next step",
-    "headline": "Get a *free* Google audit",
-    "body": "I will look at your profile and tell you what is holding your ranking back, in plain language. No obligation.",
+    "headline": "Get a *free* audit of your profile",
+    "body": "I will look at your listing and tell you exactly what is holding your ranking down. No obligation, and you keep the notes either way.",
     "button": "Book your free Google audit",
     "url": "epgads"
   },
-  "instagramCaption": "Wrong hours on Google lose you more customers than a bad review ever will.\n\n1. Set your real hours, then update them for every holiday you close. Most profiles still show the hours they were set up with.\n\n2. A locked door when Google says open is how you earn instant one star reviews. Future customers read those.\n\n3. Use the special hours field for single dates. Google shows a clear closed label and your normal schedule returns by itself.\n\nTen minutes of work. Want to know what else is holding your ranking back? Book a free Google audit at epgads.net.\n\nSave this before the next holiday weekend.",
-  "linkedinPost": "Wrong hours on your Google Business Profile cost you more customers than bad reviews do.\n\nSet your real weekly hours, then update them for every holiday you close.\n\nWhen Google says open and the door is locked, you get one star reviews that mention it, and future customers read them.\n\nUse the special hours field for single dates. Google labels the closure and your regular schedule comes back automatically.\n\nWant to know what else is capping your ranking? Book a free Google audit at epgads.net.",
+  "instagramCaption": "You do not sell products, so you skipped the products tab. Your competitor did not.\n\n1. Add each service as its own entry. Drain cleaning, tune ups, consultations, whatever you want more calls for.\n2. Fill all three fields: a real job photo, a price or price range, and a description.\n3. Those descriptions add more text tied to your profile, which is space you otherwise do not get.\n\nAn afternoon of work, no cost. Want to know what else is capping your ranking? Grab a free Google audit at epgads.net.\n\nSave this for the next time you open your profile.",
+  "linkedinPost": "Most service businesses in Tampa leave the products section of their Google Business Profile completely empty.\n\nGoogle does not require physical goods. List each service as its own entry: repairs, consultations, packages, memberships.\n\nEvery entry carries a photo, a price range and a description, so you gain more relevant text attached to your listing.\n\nThat text is real estate you cannot get anywhere else on the profile.\n\nIf you want to know what else is keeping you out of the top 3, book a free Google audit at epgads.net.",
   "article": {
-    "title": "Google Business Profile Hours: The Trust Signal Costing Tampa and Brandon Businesses Customers",
-    "body": "Google Business Profile hours look like a small setting. They are one of the fastest ways to lose a customer you already earned.\n\nSomeone in Brandon searches for what you sell. Your profile shows up. It says open. They drive over. The door is locked. That customer does not call you tomorrow. They call the next business on the list, and some of them leave a review about the wasted trip on the way home.\n\nBad reviews hurt. Wrong hours hurt more, because wrong hours create the bad reviews and lose the sale at the same time.\n\nWhy hours carry so much weight\n\nGoogle puts your hours right next to your name in the map pack. It is one of the first things a searcher reads, alongside your rating and your distance. Open now is a decision trigger. If your profile says open now and you are not, Google delivered a promise you did not keep.\n\nGoogle also watches how people behave after they see you. Someone who taps your listing, gets directions, and then goes back to search for a competitor is a signal. Do that often enough and you look like a poor answer to that search.\n\nHoliday weeks are the worst offenders in Tampa Bay. Thanksgiving, Christmas Eve, New Years Day, the Fourth of July. Most local profiles roll straight through those days showing normal hours because nobody thought to change them.\n\nFix one: set real hours and update every holiday\n\nStart by comparing your listed hours to what you actually do. Many profiles still show whatever was typed in on the day they were created. If you moved your Saturday close from 5pm to 2pm two summers ago, Google may still be sending people at 4:30.\n\nThen walk the calendar forward. Pick the next three holidays you know you close or shorten and handle them now, while you are already in the dashboard. Doing it once a quarter beats doing it never.\n\nIf your team answers the phone outside of walk in hours, that is not the same thing. List the hours your door is actually open, and let your website or a Google post explain phone availability.\n\nFix two: a locked door earns instant one star reviews\n\nRead the one star reviews on any local business and you will find the same complaint over and over: I drove there and they were closed. Those reviews are hard to answer well and they stay visible for years.\n\nThat review does three things at once. It lowers your average. It gives the next searcher a reason to skip you. And it tells Google that people who choose you end up unhappy.\n\nIf you close early on a given day, say so before people arrive. A short Google post that says we are closing at 2pm today for the holiday shows on your profile and prevents the trip.\n\nFix three: use the special hours field\n\nGoogle built a field for this. In your profile, go to Hours, then look for More hours or Special hours. Enter the date and either the shortened times or mark it closed.\n\nUse that field instead of the two shortcuts business owners reach for. Do not delete your regular hours for the day, because then Google shows nothing and searchers assume you are unreliable. Do not mark yourself temporarily closed for a single holiday either, because that setting suppresses how you show in results and people forget to turn it off.\n\nSpecial hours are cleaner. Google displays a clear closed on this date note, and your normal schedule returns on its own the next day. Nothing to remember, nothing to undo.\n\nA ten minute routine\n\nOnce a quarter, open your profile and do three things. Check the weekly hours against reality. Add special hours for every upcoming holiday and any planned closure. Read your recent reviews for anyone mentioning hours, and reply to those first.\n\nThat is it. No tools, no budget, no developer.\n\nFAQ\n\nDo wrong hours actually affect ranking?\n\nNot as a direct setting Google grades. But they drive the behavior Google does measure: people tapping away from your listing, and reviews complaining about being closed. Both work against you.\n\nShould I mark myself temporarily closed for a holiday?\n\nNo. That setting is for extended closures like a remodel. For a single day, use special hours.\n\nWhat if my hours change week to week?\n\nList your most consistent baseline, then use special hours for the exceptions. Do not leave the field blank. An empty hours section makes searchers pick someone else.\n\nDo special hours help my reviews?\n\nIndirectly, yes. Fewer wasted trips means fewer reviews from people who never got to buy from you.\n\nThe bigger picture\n\nHours are one item on a longer list. Categories, services, photos, review replies, citations, and the page your profile links to all move your position in the map pack.\n\nIf you want to know which of those are holding you back, book a free Google audit at https://epgads.net. I will look at your profile and tell you what to fix, in plain language. And if we work together, the guarantee is simple: top 3 on Google within 90 days or your money back."
+    "title": "How to Use the Google Business Profile Products Section as a Tampa Service Business",
+    "body": "If you run a service business in Tampa or Brandon, you have probably opened the Google Business Profile products section, seen the word products, and closed it again. You do not sell anything on a shelf. So you moved on.\n\nThat is the mistake. Google does not verify that you stock physical goods. The products section is really a card builder, and service businesses can fill it with services. Most of your competitors have not done it, which is exactly why it is worth an afternoon.\n\nWhy an empty tab costs you\n\nWhen someone finds you in the map pack and taps your name, they land on your profile. Across the top sit tabs: overview, reviews, photos, products, services. If products is empty, there is nothing to hold them. They go back to the results and open the next listing.\n\nA filled products tab does two jobs. It keeps a real person reading, and it adds text and images tied to your listing that Google can associate with your business.\n\nPoint one: list every service as a product\n\nGo to your profile, open the edit menu, and find products. Add one entry per service you actually want more of.\n\nAn HVAC company in Riverview might add seasonal tune up, duct cleaning, emergency repair and full system replacement. A law firm in Brandon might add estate planning consultation, will package, probate representation. A salon might list cut and color, balayage, keratin treatment.\n\nDo not dump your entire capability list in there. Pick the work that pays well and that you want the phone to ring for. Five to twelve entries is plenty for most local businesses.\n\nPoint two: use all three fields\n\nEach entry holds three things, and all three matter.\n\nThe photo. Use a real picture from a real job. Your own truck, your own chair, your own workshop. Stock photos read as stock photos, and they do nothing for trust.\n\nThe price. You get a single price or a range. Many owners freeze here because every job is different. Use a range with a starting figure instead. Something like a starting price for a standard visit tells a shopper you are in their budget without committing you to a number you cannot hold. A range beats a blank field every time, because the person comparing you to two other listings will pick the one that gave them information.\n\nThe description. You get roughly a thousand characters. That is far more room than the short business description Google gives you. Write plainly about what the job includes, how long it takes, and what the customer should expect.\n\nPoint three: you gain text tied to your profile\n\nYour Google Business Profile is a small container. The main description fills up quickly. Categories are just labels you pick from a list. Attributes are checkboxes. There is not much room to say what you actually do.\n\nProduct descriptions change that. Every entry you write adds more relevant text attached to your listing. Write the way a customer would ask for the service. If people call it AC tune up, write AC tune up, not preventative climate maintenance. Mention the area you serve once, naturally, like Valrico or Plant City. Do not repeat the city six times. That reads as spam to a human, and humans are who you are trying to convince.\n\nHow long this takes\n\nPlan on two to three hours if you already have photos on your phone. Write your entries in a notes app first, then paste them in. Once they are live, review them twice a year, or whenever prices move.\n\nFAQ\n\nCan a service business really use the products section?\nYes. Google does not restrict it to physical goods. Service businesses across Tampa Bay use it for repairs, consultations, packages and memberships.\n\nDo I have to show prices?\nNo, you can leave price blank, but a starting price or a range performs better with people who are comparing listings.\n\nIs this the same as the services section?\nNo. Services is a simpler list tied to your categories. Products give you a photo, a price and a longer description, so use both.\n\nWill this alone put me in the top 3?\nOn its own, no. It helps, and it is one of the easier items to fix. Ranking usually comes down to eight or ten things working together: categories, reviews and replies, citations, service area, photo activity and your website.\n\nWhat if I have several locations?\nFill the products section for each profile separately, and adjust the descriptions for the neighborhood that location serves.\n\nThe next step\n\nFill the products tab this week. It costs nothing but your time, and it is one of the few places on your profile where you control the words and the images.\n\nIf you want to know what else is keeping you out of the top 3, I will run a free audit of your Google Business Profile and tell you exactly what I find. No pitch, no obligation. Book it at https://epgads.net. We also offer a plain guarantee: top 3 on Google within 90 days or your money back."
   },
   "hashtags": [
     "#LocalSEO",
@@ -64,10 +64,10 @@
     "#GoogleMaps",
     "#MapPack",
     "#SEOTips",
-    "#TampaBay",
-    "#GetFoundOnline"
+    "#GetFoundOnline",
+    "#TampaBay"
   ],
-  "topicId": "accurate-hours",
-  "hook": "Wrong hours on Google cost you more customers than bad reviews",
-  "themeId": "violet"
+  "topicId": "products-section",
+  "hook": "The products section works even if you do not sell products",
+  "themeId": "ocean"
 }
