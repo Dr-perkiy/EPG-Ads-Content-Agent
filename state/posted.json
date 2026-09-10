@@ -368,6 +368,16 @@
         "https://www.instagram.com/p/DdFn62tFn2H/",
         "https://facebook.com/1321161914409792_122108626425449137"
       ]
+    },
+    {
+      "topicId": "track-your-leads",
+      "hook": "If you cannot tell where your calls come from, you cannot fix anything",
+      "outcome": "blocked",
+      "postedAt": "2026-09-10T16:59:58.759Z",
+      "violations": [
+        "[block] wrong-domain: Contains a domain that is not epgads.net or an allowed Google reference: yoursite.com",
+        "[block] wrong-domain: Contains a domain that is not epgads.net or an allowed Google reference: yoursite.com"
+      ]
     }
   ]
 }
