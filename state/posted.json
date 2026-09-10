@@ -353,6 +353,21 @@
         "https://www.instagram.com/p/DdC3QcSoAP0/",
         "https://facebook.com/1321161914409792_122108341725449137"
       ]
+    },
+    {
+      "topicId": "products-section",
+      "themeId": "ocean",
+      "hook": "The products section works even if you do not sell products",
+      "outcome": "published",
+      "postedAt": "2026-09-10T01:10:53.151Z",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "urls": [
+        "https://www.instagram.com/p/DdFn62tFn2H/",
+        "https://facebook.com/1321161914409792_122108626425449137"
+      ]
     }
   ]
 }
